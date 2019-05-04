@@ -1,44 +1,80 @@
----
-authors:
-- admin
-date: "2016-04-20T00:00:00+01:00"
-draft: false
-gallery_item:
-- album: gallery
-  caption: Default
-  image: theme-default.png
-- album: gallery
-  caption: Ocean
-  image: theme-ocean.png
-- album: gallery
-  caption: Forest
-  image: theme-forest.png
-- album: gallery
-  caption: Dark
-  image: theme-dark.png
-- album: gallery
-  caption: Apogee
-  image: theme-apogee.png
-- album: gallery
-  caption: 1950s
-  image: theme-1950s.png
-- album: gallery
-  caption: Coffee theme with Playfair font
-  image: theme-coffee-playfair.png
-- album: gallery
-  caption: Cupcake
-  image: theme-cupcake.png
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  preview_only: false
-lastmod: "2019-04-17T00:00:00+01:00"
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
-tags:
-- Academic
-title: 'Academic: the website builder for Hugo'
----
++++
+title = "Academic: the website builder for Hugo"
+subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
+
+date = 2016-04-20T00:00:00  # Schedule a publish date
+lastmod = 2019-04-17T00:00:00  # Date last modified
+draft = false  # Display this post? (true/false)
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["admin"]
+
+tags = ["Academic"]
+summary = "Create a beautifully simple website in under 10 minutes."
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = ["internal-project"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
+
+# Set captions for image gallery.
+
+[[gallery_item]]
+album = "gallery"
+image = "theme-default.png"
+caption = "Default"
+
+[[gallery_item]]
+album = "gallery"
+image = "theme-ocean.png"
+caption = "Ocean"
+
+[[gallery_item]]
+album = "gallery"
+image = "theme-forest.png"
+caption = "Forest"
+
+[[gallery_item]]
+album = "gallery"
+image = "theme-dark.png"
+caption = "Dark"
+
+[[gallery_item]]
+album = "gallery"
+image = "theme-apogee.png"
+caption = "Apogee"
+
+[[gallery_item]]
+album = "gallery"
+image = "theme-1950s.png"
+caption = "1950s"
+
+[[gallery_item]]
+album = "gallery"
+image = "theme-coffee-playfair.png"
+caption = "Coffee theme with Playfair font"
+
+[[gallery_item]]
+album = "gallery"
+image = "theme-cupcake.png"
+caption = "Cupcake"
++++
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
 
