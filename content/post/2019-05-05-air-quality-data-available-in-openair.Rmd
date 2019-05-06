@@ -1,0 +1,99 @@
+---
+title: Air Quality Data Available in openair
+author: David Carslaw
+date: '2019-05-05'
+slug: air-quality-data-available-in-openair
+summary: A look at the air quality data accessible with openair
+categories:
+  - R
+  - openair
+tags: 
+  - R
+  - openair
+image:
+  caption: ''
+  focal_point: ''
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 1
+---
+
+# Access site information
+
+`openair` includes the function `importMeta` to provide information on UK air pollution monitoring sites. There are currently four networks that `openair` has access to:
+
+- The Defra Automatic Urban and Rural Network (AURN)
+- The Scottish Air Quality Network (SAQN)
+- The Welsh Air Quality Network (WAQN)
+- Network(s) operated by King's College London (KCL)
+
+These functions are described in more detail [here](http://davidcarslaw.github.io/openair/reference/index.html).
+
+The `importMeta` function is the first place to look to discover what sites exist, site type (e.g. traffic, background, rural) and latitude and longitude.
+
+```{r}
+# first load openair
+library(openair)
+
+aurn <- importMeta(source = "aurn")
+
+head(aurn)
+```
+
+How many of each site type are there?
+
+```{r}
+table(aurn$site.type)
+```
+
+Sometimes it is necessary to have more infromation on the sites such as when they started (or stopped) measuring, the pollutants measured and the regions in which they exist. Additional site information can be obtained using the option `all = TRUE`. In the example below, we will select sites that measure NO~2~ at traffic locations.
+
+```{r warning=FALSE,message=FALSE}
+library(tidyverse)
+aurn_detailed <- importMeta(source = "aurn", all = TRUE)
+
+no2_sites <- filter(
+  aurn_detailed,
+  parameter == "NO2",
+  site.type == "Urban Traffic"
+)
+
+nrow(no2_sites)
+```
+
+# Plot sites on a map
+
+Since `openair` started there have been huge developments with R and optional packages. These developments have made it much easier to manipulate and plot data e.g. with `ggplot2` and the likes of `dplyr`. There is also now much more focus on interactive plotting, which is very useful in the context of considering air pollution sites.
+
+In the example below the unique sites are selected from `aurn_detailed` because the `site` repeats the number of pollutants that are measured. Information is also collected for the map popups and then the map is plotted.
+
+```{r}
+library(leaflet)
+
+aurn_unique <- distinct(aurn_detailed, site, .keep_all = TRUE)
+
+# information for map markers
+content <- paste(
+  paste(
+    aurn_unique$site,
+    paste("Code:", aurn_unique$code),
+    paste("Start:", aurn_unique$date_started),
+    paste("End:", aurn_unique$date_ended),
+    paste("Site Type:", aurn_unique$site.type),
+    sep = "<br/>"
+  )
+)
+
+
+# plot map
+leaflet(aurn) %>%
+  addTiles() %>%
+  addMarkers(~ longitude, ~ latitude, popup = content,
+             clusterOptions = markerClusterOptions())
+```
+
+
+
+# Access the data

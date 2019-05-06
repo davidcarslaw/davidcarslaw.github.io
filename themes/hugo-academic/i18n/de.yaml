@@ -73,15 +73,7 @@
   translation: Interessen
 
 - id: education
-  translation: Education
-
-- id: user_profile_latest
-  translation: Aktuellste
-
-# Accomplishments widget
-
-- id: see_certificate
-  translation: Zertifikat anzeigen
+  translation: Ausbildung
 
 # Experience widget
 
@@ -95,30 +87,16 @@
 
 # Posts widget
 
+- id: continue_reading
+  translation: WEITERLESEN
+
 - id: more_posts
-  translation: Weitere Blogbeiträge
+  translation: Weitere Blogeinträge
 
 # Talks widget
 
 - id: more_talks
   translation: Weitere Vorträge
-
-# Contact widget
-
-- id: contact_name
-  translation: Name
-
-- id: contact_email
-  translation: E-Mail
-
-- id: contact_message
-  translation: Nachricht
-
-- id: contact_send
-  translation: Senden
-
-- id: book_appointment
-  translation: Termin vereinbaren
 
 # Publication/Talk details
 
@@ -137,32 +115,22 @@
 - id: last_updated
   translation: Zuletzt aktualisiert am
 
+- id: links
+  translation: Links
+
 - id: event
   translation: Veranstaltung
 
 - id: location
   translation: Ort
 
-- id: pub_uncat
-  translation: Unketegorisiert
+# Filtering
 
-- id: pub_conf
-  translation: Konferenzpapier
+- id: filter_by_type
+  translation: Filter nach Typ
 
-- id: pub_journal
-  translation: Journalartikel
-
-- id: pub_manuscript
-  translation: Manuskript
-
-- id: pub_report
-  translation: Bericht
-
-- id: pub_book
-  translation: Buch
-
-- id: pub_book_section
-  translation: Buchkapitel
+- id: filter_all
+  translation: Alle
 
 # Project details
 
@@ -184,9 +152,6 @@
   translation: Projekte
 
 # Search
-
-- id: search
-  translation: Suche
 
 - id: search_placeholder
   translation: Suche...

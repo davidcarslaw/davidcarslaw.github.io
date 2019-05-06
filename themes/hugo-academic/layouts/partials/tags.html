@@ -1,8 +1,10 @@
-{{ $taxonomy := "tags" }}
-{{ with .Param $taxonomy }}
+{{ if isset $.Params "tags" }}
+{{ $tagsLen := len $.Params.tags }}
+{{ if gt $tagsLen 0 }}
 <div class="article-tags">
-  {{ range $index, $value := . }}
-  <a class="badge badge-light" href="{{ (site.GetPage (printf "/%s/%s" $taxonomy (. | urlize))).RelPermalink }}">{{ . }}</a>
+  {{ range $k, $v := $.Params.tags }}
+  <a class="badge badge-light" href="{{ ($.Site.GetPage (printf "tags/%s" .)).RelPermalink }}">{{ . }}</a>
   {{ end }}
 </div>
+{{ end }}
 {{ end }}

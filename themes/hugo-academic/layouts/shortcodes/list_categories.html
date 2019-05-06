@@ -1,5 +1,5 @@
 <ul class="list-unstyled">
-  {{ range (site.GetPage "taxonomyTerm" "categories").Pages }}
+  {{ range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
   <li><a href="{{.RelPermalink}}">{{.Title}}</a></li>
   {{ end }}
 </ul>

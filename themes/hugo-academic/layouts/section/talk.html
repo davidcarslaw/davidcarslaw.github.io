@@ -18,13 +18,13 @@
         </div>
         <div class="col-lg-10">
 
-          {{ range .Pages }}
-            {{ if eq $.Params.view 1 }}
-              {{ partial "li_list" . }}
-            {{ else if eq $.Params.view 3 }}
-              {{ partial "li_card" . }}
+          {{ range sort .Pages ".Params.time_start" "desc" }}
+            {{ if eq $.Params.list_format 1 }}
+              {{ partial "talk_li_detailed" . }}
+            {{ else if eq $.Params.list_format 2 }}
+              {{ partial "talk_li_stream" . }}
             {{ else }}
-              {{ partial "li_compact" . }}
+              {{ partial "talk_li_simple" . }}
             {{ end }}
           {{ end }}
 
