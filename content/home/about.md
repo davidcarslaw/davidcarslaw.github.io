@@ -14,7 +14,7 @@ weight = 5
     "Vehicle Emissions",
     "Data Analysis/Statistics",
     "Open Source",
-    "[openair](http://davidcarslaw.github.io/openair/)"
+    "[openair](http://davidcarslaw.github.io/openair/) R package"
   ]
 
 # List your qualifications (such as academic degrees).
