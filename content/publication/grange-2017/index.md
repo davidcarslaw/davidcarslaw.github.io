@@ -5,6 +5,7 @@ authors = ["Stuart K. Grange", "Alastair C. Lewis", "Sarah J. Moller", "David C.
 publication_types = ["2"]
 abstract = ""
 featured = false
+selected = true
 publication = "*Nature Geoscience*"
 url_pdf = "https://doi.org/10.1038%2Fs41561-017-0009-0"
 doi = "10.1038/s41561-017-0009-0"
