@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -15,15 +15,8 @@ weight = 30
 
 +++
 
-I developed and taught the following graduate-level courses at [Oregon Health & Science University](https://www.ohsu.edu):
+My principal research focus is urban air pollution and specifically the development of improved data analysis techniques and the measurement of vehicle emission. 
 
-- [Principles & Practice of Data Visualization](https://apreshill.github.io/data-vis-labs-2018/) (co-instructors: Drs. Steven Bedrick and Jackie Wirz)
-- [Probability & Statistics for Scientists and Engineers](https://ohsu-math630.netlify.com/) 
-- [Introduction to Data Wrangling, Analysis, & Communication](https://ohsu-conj620.netlify.com/)
-- [Data Science Programming](https://github.com/apreshill/ohsu-ds-programming) (co-instructor)
+Our vehicle emission measurement research is focused on the use of open-path remote sensing.We have carried out many vehicle emission campaigns in the UK using two types of instrument: the University of Denver [FEAT](http://www.feat.biochem.du.edu/) system and the Opus RSD5000 system. A short summary of this work is shown below.
 
-I have also:
-
-- Created the DataCamp.com course [Working with Data in the Tidyverse](https://www.datacamp.com/courses/working-with-data-in-the-tidyverse); the second course in the ["Tidyverse Fundamentals" track](https://www.datacamp.com/tracks/tidyverse-fundamentals)
-
-- Consulted on the development of the [Data Science Specialization for the University of Oregon College of Education](https://github.com/uo-datasci-specialization).
+[This paper]({{< ref "../publication/carslaw-2019/index.md" >}})

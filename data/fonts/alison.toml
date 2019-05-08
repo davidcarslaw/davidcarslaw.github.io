@@ -2,11 +2,11 @@
 name = "alison"
 
 # Optional Google font URL
-google_fonts = "Cabin:400,500|Roboto+Mono|Cabin+Condensed:600"
+google_fonts = "Cabin:400,500|Roboto+Mono|Cabin+Condensed:600|Merriweather:300"
 
 # Font families
 heading_font = "Cabin Condensed"
-body_font = "Cabin"
+body_font = "Merriweather" #"Cabin"
 nav_font = "Cabin"
 mono_font = "Roboto Mono"
 
