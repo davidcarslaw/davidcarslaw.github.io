@@ -81,6 +81,6 @@ subtitle = ""
 My principal research focus is urban air pollution. My main areas of interest are:
 
 - Development of statistical techniques to better understand air pollution measurements.
-- Measurement and analysis of vehicle emissions using remote sesning
+- Measurement and analysis of vehicle emissions using remote sensing
 - Development of R packages such as openair.
 
