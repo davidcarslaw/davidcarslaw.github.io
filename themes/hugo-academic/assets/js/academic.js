@@ -60,8 +60,8 @@
     // Store requested URL hash.
     let hash = this.hash;
 
-    // If we are on the homepage and the navigation bar link is to a homepage section.
-    if ( hash && $(hash).length && ($("#homepage").length > 0)) {
+    // If we are on a widget page and the navbar link is to a section on the same page.
+    if ( this.pathname === window.location.pathname && hash && $(hash).length && ($(".js-widget-page").length > 0)) {
       // Prevent default click behavior.
       event.preventDefault();
 
@@ -103,18 +103,54 @@
    * Filter publications.
    * --------------------------------------------------------------------------- */
 
+  // Active publication filters.
+  let pubFilters = {};
+
+  // Search term.
+  let searchRegex;
+
+  // Filter values (concatenated).
+  let filterValues;
+
+  // Publication container.
   let $grid_pubs = $('#container-publications');
+
+  // Initialise Isotope.
   $grid_pubs.isotope({
     itemSelector: '.isotope-item',
     percentPosition: true,
     masonry: {
       // Use Bootstrap compatible grid layout.
       columnWidth: '.grid-sizer'
+    },
+    filter: function() {
+      let $this = $(this);
+      let searchResults = searchRegex ? $this.text().match( searchRegex ) : true;
+      let filterResults = filterValues ? $this.is( filterValues ) : true;
+      return searchResults && filterResults;
     }
   });
 
-  // Active publication filters.
-  let pubFilters = {};
+  // Filter by search term.
+  let $quickSearch = $('.filter-search').keyup( debounce( function() {
+    searchRegex = new RegExp( $quickSearch.val(), 'gi' );
+    $grid_pubs.isotope();
+  }) );
+
+  // Debounce input to prevent spamming filter requests.
+  function debounce( fn, threshold ) {
+    let timeout;
+    threshold = threshold || 100;
+    return function debounced() {
+      clearTimeout( timeout );
+      let args = arguments;
+      let _this = this;
+      function delayed() {
+        fn.apply( _this, args );
+      }
+      timeout = setTimeout( delayed, threshold );
+    };
+  }
 
   // Flatten object by concatenating values.
   function concatValues( obj ) {
@@ -135,10 +171,10 @@
     pubFilters[ filterGroup ] = this.value;
 
     // Combine filters.
-    let filterValues = concatValues( pubFilters );
+    filterValues = concatValues( pubFilters );
 
     // Activate filters.
-    $grid_pubs.isotope({ filter: filterValues });
+    $grid_pubs.isotope();
 
     // If filtering by publication type, update the URL hash to enable direct linking to results.
     if (filterGroup == "pubtype") {
@@ -165,10 +201,10 @@
     // Set filter.
     let filterGroup = 'pubtype';
     pubFilters[ filterGroup ] = filterValue;
-    let filterValues = concatValues( pubFilters );
+    filterValues = concatValues( pubFilters );
 
     // Activate filters.
-    $grid_pubs.isotope({ filter: filterValues });
+    $grid_pubs.isotope();
 
     // Set selected option.
     $('.pubtype-select').val(filterValue);
@@ -270,20 +306,42 @@
   * Toggle day/night mode.
   * --------------------------------------------------------------------------- */
 
-  function toggleDarkMode() {
+  function toggleDarkMode(codeHlEnabled, codeHlLight, codeHlDark) {
     if ($('body').hasClass('dark')) {
       $('body').css({opacity: 0, visibility: 'visible'}).animate({opacity: 1}, 500);
       $('body').removeClass('dark');
-      $('.js-dark-toggle i').removeClass('fa-sun');
-      $('.js-dark-toggle i').addClass('fa-moon');
+      if (codeHlEnabled) {
+        codeHlLight.disabled = false;
+        codeHlDark.disabled = true;
+      }
+      $('.js-dark-toggle i').removeClass('fa-sun').addClass('fa-moon');
       localStorage.setItem('dark_mode', '0');
     } else {
       $('body').css({opacity: 0, visibility: 'visible'}).animate({opacity: 1}, 500);
       $('body').addClass('dark');
-      $('.js-dark-toggle i').removeClass('fa-moon');
-      $('.js-dark-toggle i').addClass('fa-sun');
+      if (codeHlEnabled) {
+        codeHlLight.disabled = true;
+        codeHlDark.disabled = false;
+      }
+      $('.js-dark-toggle i').removeClass('fa-moon').addClass('fa-sun');
       localStorage.setItem('dark_mode', '1');
     }
+  }
+
+  /* ---------------------------------------------------------------------------
+  * Normalize Bootstrap Carousel Slide Heights.
+  * --------------------------------------------------------------------------- */
+
+  function normalizeCarouselSlideHeights() {
+    $('.carousel').each(function(){
+      // Get carousel slides.
+      let items = $('.carousel-item', this);
+      // Reset all slide heights.
+      items.css('min-height', 0);
+      // Normalize all slide heights.
+      let maxHeight = Math.max.apply(null, items.map(function(){return $(this).outerHeight()}).get());
+      items.css('min-height', maxHeight + 'px');
+    })
   }
 
   /* ---------------------------------------------------------------------------
@@ -297,15 +355,33 @@
       default_mode = 1;
     }
     let dark_mode = parseInt(localStorage.getItem('dark_mode') || default_mode);
+
+    // Is code highlighting enabled in site config?
+    const codeHlEnabled = $('link[title=hl-light]').length > 0;
+    const codeHlLight = $('link[title=hl-light]')[0];
+    const codeHlDark = $('link[title=hl-dark]')[0];
+
     if (dark_mode) {
       $('body').addClass('dark');
-      $('.js-dark-toggle i').removeClass('fa-moon');
-      $('.js-dark-toggle i').addClass('fa-sun');
+      if (codeHlEnabled) {
+        codeHlLight.disabled = true;
+        codeHlDark.disabled = false;
+      }
+      $('.js-dark-toggle i').removeClass('fa-moon').addClass('fa-sun');
     } else {
       $('body').removeClass('dark');
-      $('.js-dark-toggle i').removeClass('fa-sun');
-      $('.js-dark-toggle i').addClass('fa-moon');
+      if (codeHlEnabled) {
+        codeHlLight.disabled = false;
+        codeHlDark.disabled = true;
+      }
+      $('.js-dark-toggle i').removeClass('fa-sun').addClass('fa-moon');
     }
+
+    // Toggle day/night mode.
+    $('.js-dark-toggle').click(function(e) {
+      e.preventDefault();
+      toggleDarkMode(codeHlEnabled, codeHlLight, codeHlDark);
+    });
   });
 
   /* ---------------------------------------------------------------------------
@@ -341,9 +417,11 @@
     $('.projects-container').each(function(index, container) {
       let $container = $(container);
       let $section = $container.closest('section');
-      let layout = 'masonry';
+      let layout;
       if ($section.find('.isotope').hasClass('js-layout-row')) {
         layout = 'fitRows';
+      } else {
+        layout = 'masonry';
       }
 
       $container.imagesLoaded(function() {
@@ -351,6 +429,9 @@
         $container.isotope({
           itemSelector: '.isotope-item',
           layoutMode: layout,
+          masonry: {
+            gutter: 20
+          },
           filter: $section.find('.default-project-filter').text()
         });
 
@@ -431,21 +512,20 @@
     });
     $(document).on('keydown', function(e){
       if (e.which == 27) {
+        // `Esc` key pressed.
         if ($('body').hasClass('searching')) {
           toggleSearchDialog();
         }
-      } else if (e.which == 191) {
+      } else if (e.which == 191 && e.shiftKey == false && !$('input,textarea').is(':focus')) {
+        // `/` key pressed outside of text input.
         e.preventDefault();
         toggleSearchDialog();
       }
     });
 
-    // Toggle day/night mode.
-    $('.js-dark-toggle').click(function(e) {
-      e.preventDefault();
-      toggleDarkMode();
-    });
-
   });
+
+  // Normalize Bootstrap carousel slide heights.
+  $(window).on('load resize orientationchange', normalizeCarouselSlideHeights);
 
 })(jQuery);
