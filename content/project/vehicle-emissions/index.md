@@ -13,7 +13,7 @@ slides: example
 summary: Overview of our vehicle emissions capability and interests.
 tags:
 - Deep Learning
-title: Vehicle emissions research
+title: Vehicle emissions
 url_code: ""
 url_pdf: ""
 url_slides: ""
