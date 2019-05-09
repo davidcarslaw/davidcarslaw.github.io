@@ -8,6 +8,10 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
 # Automatically link email and phone?
 autolink = true
 
