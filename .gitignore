@@ -3,7 +3,6 @@
 .RData
 .Ruserdata
 blogdown
-.DS_Store # if a windows user, Thumbs.db instead
+.DS_Store 
 public/
 davidcarslaw.github.io.Rproj
-.DS_Store
