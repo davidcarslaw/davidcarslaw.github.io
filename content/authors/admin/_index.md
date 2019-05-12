@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include urban air pollution, vehicle emissions, data analysis and statistics
-  matter.
+bio: My research interests include urban air pollution, vehicle emissions, data analysis and statistics.
 education:
   courses:
   - course: PhD in Air Pollution
