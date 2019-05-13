@@ -69,3 +69,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+These posts are mostly aimed at users of `openair` who want to better understand its use but also as a place to put occassional useful code snippets.
