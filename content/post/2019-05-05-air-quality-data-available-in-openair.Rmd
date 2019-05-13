@@ -22,6 +22,10 @@ output:
 
 # Access site information
 
+{{% alert note %}}
+The UK has a surprisingly large amount of air quality data available. The main national network is called the [Automatic Urban and Rural Network](https://uk-air.defra.gov.uk/networks/network-info?view=aurn). There are however other large networks including the [Scottish Air Quality Network](http://www.scottishairquality.scot/) and the [Welsh Air Quality Network](https://airquality.gov.wales/). One of the largest --- if not the largest urban air quality network is the [London Air Quality Network](https://www.londonair.org.uk/LondonAir/Default.aspx)
+{{% /alert %}}
+
 `openair` includes the function `importMeta` to provide information on UK air pollution monitoring sites. There are currently four networks that `openair` has access to:
 
 - The Defra Automatic Urban and Rural Network (AURN)
