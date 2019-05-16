@@ -9,10 +9,11 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/davidcarslaw
-slides: example
+slides: 
 summary: Overview of our vehicle emissions capability and interests.
 tags:
-- Deep Learning
+- Vehicle emissions
+- NOx
 title: Vehicle emissions
 url_code: ""
 url_pdf: ""
@@ -20,17 +21,32 @@ url_slides: ""
 url_video: ""
 ---
 
+Our vehicle emissions research is focused on the use of remote sensing. Over the past few years a focus of this research has been the development of more robust information on the emissions of NO<sub>x</sub> and NO<sub>2</sub>. Early work gave a strong indication that emissions of NO<sub>x</sub> from diesel light duty vehicles were not decreasing as expected, which later became a significant issue in the light of the 'dieselgate' issue [Carslaw et al., (2011)]({{< ref "/publication/carslaw-2011-a/index.md" >}}).
 
-#<img src = "/img/NOx_emissions.png", width = "400", height = "300">
+---
 
-#{{< figure src="/img/NOx_emissions.png" caption="NOx emissions" >}}
+# Collaborations 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Our research in the area of vehicle emissions benefits from several collaborations:
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+- The University of Denver --- where the vehicle emission remote sensing was developed by the late Professor Donald Stedman, and Dr Gary Bishop.
+- Ricardo who make extensive measurements using the Opus RSD5000 instrument. We work closely with Ricardo --- David Carslaw has a joint position,  Ricardo supports two CASE studentships and we collaborate extensively.
+- OPUS RSE based in Madrid who develop the RSD5000 instrument. The University of York owns a RSD5000 instrument.
+- The CONOX partnership, which led to Europe's first vehicle emission remote sensing database.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Most of our measurements have used the University of Denver FEAT instrument, which for a long time has had the capability of measuring NO<sub>2</sub> and NH<sub>3</sub>, both of importance from a vehicle emission perspective. A specific interest in using the FEAT instrument was to robustly quantify direct emissions of NO<sub>2</sub>.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Recent work has considered the potentially important effect of ambient temperature in affecting emissions of NO<sub>x</sub> from light duty diesel vehicles. This work for the first time measured at lower ambient temperatures than is typical for remote sensing campaigns.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+# Main findings and interests
+
+Below is a brief summary of our main findings and associated papers.
+
+- [Carslaw et al., (2011)]({{< ref "/publication/carslaw-2011-a/index.md" >}}) showed that based on extensive remote sensing measurements that NO<sub>x</sub> emissions were not decreasing as expected from light duty diesel vehicles and this lack of decrease could also be observed in the atmosphere.
+
+- The first measurements of NO<sub>2</sub> in the UK were made in London [Carslaw and Rhys-Tyler (2013)]({{< ref "/publication/carslaw-2013-c/index.md" >}}). This work also showed the large differential performance of emissions control on vehicles and especially urban buses.
+
+- Remote sensing in 2013 aimed to quantify the performance of urban bus retrofit technology using an SCRT technology. Results were encouraging but there were significant periods where the aftertreatment system was less than optimal, see [Carslaw et al., (2015)]({{< ref "/publication/carslaw-2015-c/index.md" >}}).
+
+- We showed that there was a **strong ambient temperature dependence** in light duty diesel NO<sub>x</sub> emissions following extensive measurement campaigns throughout 2017 and 2018 (Grange et al., 2019).
+
