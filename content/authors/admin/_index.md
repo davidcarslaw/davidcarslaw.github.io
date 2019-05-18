@@ -18,8 +18,7 @@ interests:
 - Air Pollution
 - Vehicle Emissions
 - Data Analysis/Statistics
-- Open Source
-#- [openair](http://davidcarslaw.github.io/openair/) R package
+- The [openair](http://davidcarslaw.github.io/openair/) R package
 name: David Carslaw
 organizations:
 - name: University of York
