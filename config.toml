@@ -16,7 +16,7 @@ baseurl = "https://davidcarslaw.com/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-140402050-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
