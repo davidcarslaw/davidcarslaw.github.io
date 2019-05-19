@@ -2,14 +2,14 @@
 name = "alison"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Gentium Basic|Roboto+Mono"
+google_fonts = "Lato:400,700|PT+Serif|Roboto+Mono"
 
 # Font families
 heading_font = "Lato"
-body_font = "Gentium Basic"
+body_font = "PT Serif"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
 
 # Font size
-font_size = "22"
-font_size_small = "18"
+font_size = "21"
+font_size_small = "16"
