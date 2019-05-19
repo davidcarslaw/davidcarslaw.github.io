@@ -52,7 +52,7 @@ user_groups:
 
 I have a joint position between the [University of York](https://www.york.ac.uk/chemistry/) Department of Chemistry where I am a Reader in Air Pollution and [Ricardo Energy & Environment](https://ee.ricardo.com/) where I am a Technical Director.
 
-My research interests are focused on the development of new data analysis techniques to better-understand air pollution and vehicle emissions remote sensing. I have published widely on both these topics.
+My research interests are focused on the development of new data analysis techniques to better-understand air pollution and vehicle emissions remote sensing. I have published widely on both topics.
 
 I have developed the [openair](http://davidcarslaw.github.io/openair/) [<i class="fab fa-r-project"></i>](https://www.r-project.org) package that is widely used throughout the world by academia, governmental bodies and the private sector.
 
