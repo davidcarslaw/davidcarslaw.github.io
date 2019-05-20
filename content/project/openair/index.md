@@ -21,3 +21,6 @@ url_slides: ""
 url_video: ""
 ---
 
+To be added.
+
+{{% staticref "files/openairManual.pdf" %}}Download the openair manual{{% /staticref %}}
