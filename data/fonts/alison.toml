@@ -2,12 +2,12 @@
 name = "alison"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Lora|Roboto+Mono"
+google_fonts = "Lato:400,700|Lora|Roboto+Mono|Source+Sans+Pro"
 
 # Font families
-heading_font = "Lato"
+heading_font = "Source Sans Pro"
 body_font = "Lora"
-nav_font = "Lato"
+nav_font = "ource Sans Pro"
 mono_font = "Roboto Mono"
 
 # Font size
