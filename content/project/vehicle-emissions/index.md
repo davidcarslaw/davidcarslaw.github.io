@@ -41,12 +41,12 @@ Most of our measurements have used the University of Denver FEAT instrument, whi
 
 Recent work has considered the potentially important effect of ambient temperature in affecting emissions of NO$_x$ from light duty diesel vehicles. This work for the first time measured at lower ambient temperatures than is typical for remote sensing campaigns.
 
-# # Main findings and interests
-# 
-# Below is a brief summary of our main findings and associated papers.
-# 
-# - [Carslaw et al., (2011)]({{< ref "/publication/carslaw-2011-a/index.md" >}}) showed that based on extensive remote sensing measurements that NO$_x$ emissions were not decreasing as expected from light duty diesel vehicles and this lack of decrease could also be observed in the atmosphere.
-# 
+# Main findings and interests
+
+Below is a brief summary of our main findings and associated papers.
+
+- [Carslaw et al., (2011)]({{< ref "/publication/carslaw-2011-a/index.md" >}}) showed that based on extensive remote sensing measurements that NO$_x$ emissions were not decreasing as expected from light duty diesel vehicles and this lack of decrease could also be observed in the atmosphere.
+
 # - The first measurements of NO$_2$ in the UK were made in London [Carslaw and Rhys-Tyler (2013)]({{< ref "/publication/carslaw-2013-c/index.md" >}}). This work also showed the large differential performance of emissions control on vehicles and especially urban buses.
 # 
 # - Remote sensing in 2013 aimed to quantify the performance of urban bus retrofit technology using an SCRT technology. Results were encouraging but there were significant periods where the aftertreatment system was less than optimal, see [Carslaw et al., (2015)]({{< ref "/publication/carslaw-2015-c/index.md" >}}).
