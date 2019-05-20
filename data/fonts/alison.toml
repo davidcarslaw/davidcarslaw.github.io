@@ -2,11 +2,11 @@
 name = "alison"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
+google_fonts = "Lato:400,700|Lora|Roboto+Mono"
 
 # Font families
 heading_font = "Lato"
-body_font = "Merriweather"
+body_font = "Lora"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
 
