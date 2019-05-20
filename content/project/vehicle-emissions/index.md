@@ -31,7 +31,7 @@ Our research in the area of vehicle emissions benefits from several collaboratio
 
 - The University of Denver --- where the vehicle emission remote sensing was developed by the late Professor Donald Stedman, and Dr Gary Bishop.
 
-- Ricardo who make extensive measurements using the Opus RSD5000 instrument. We work closely with Ricardo --- David Carslaw has a joint position,  Ricardo supports two CASE studentships and we collaborate extensively.
+- Ricardo, who make extensive measurements using the Opus RSD5000 instrument. We work closely with Ricardo --- David Carslaw has a joint position,  Ricardo supports two CASE studentships and we collaborate extensively.
 
 - OPUS RSE based in Madrid who develop the RSD5000 instrument. The University of York owns a RSD5000 instrument.
 
