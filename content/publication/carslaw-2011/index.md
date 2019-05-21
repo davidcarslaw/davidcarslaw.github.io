@@ -1,5 +1,5 @@
 +++
-title = "New Directions: Science and policy - Out of step on NO x and NO 2?"
+title = "New Directions: Science and policy - Out of step on NO$_x$ and NO$_2$?"
 date = 2011-01-01
 authors = ["M.L. Williams", "D.C. Carslaw"]
 publication_types = ["2"]

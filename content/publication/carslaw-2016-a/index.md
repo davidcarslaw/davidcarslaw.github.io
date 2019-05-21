@@ -1,10 +1,11 @@
 +++
-title = "Have vehicle emissions of primary NO2 peaked?"
+title = "Have vehicle emissions of primary NO$_2$ peaked?"
 date = 2016-01-01
 authors = ["D.C. Carslaw", "T.P. Murrells", "J. Andersson", "M. Keenan"]
 publication_types = ["2"]
-abstract = ""
+abstract = "Reducing ambient concentrations of nitrogen dioxide (NO$_2$) remains a key challenge across many European urban areas, particularly close to roads. This challenge mostly relates to the lack of reduction in emissions of oxides of nitrogen (NO$_x$) from diesel road vehicles relative to the reductions expected through increasingly stringent vehicle emissions legislation. However, a key component of near-road concentrations of NO$_2$ derives from directly emitted (primary) NO$_2$ from diesel vehicles. It is well-established that the proportion of NO$_2$ (i.e. the NO$_2$/NO$_x$ ratio) in vehicle exhaust has increased over the past decade as a result of vehicle after-treatment technologies that oxidise carbon moNO$_x$ide and hydrocarbons and generate NO$_2$ to aid the emissions control of diesel particulate. In this work we bring together an analysis of ambient NO$_x$ and NO$_2$ measurements with comprehensive vehicle emission remote sensing data obtained in London to better understand recent trends in the NO$_2$/NO$_x$ ratio from road vehicles. We show that there is evidence that NO$_2$ concentrations have decreased since around 2010 despite less evidence of a reduction in total NO$_x$. The decrease is shown to be driven by relatively large reductions in the amount of NO$_2$ directly emitted by vehicles; from around 25 vol% in 2010 to 15 vol% in 2014 in inner London, for example. The analysis of NO$_x$ and NO$_2$ vehicle emission remote sensing data shows that these reductions have been mostly driven by reduced NO$_2$/NO$_x$ emission ratios from heavy duty vehicles and buses rather than light duty vehicles. However, there is also evidence from the analysis of Euro 4 and 5 diesel passenger cars that as vehicles age the NO$_2$/NO$_x$ ratio decreases. For example the NO$_2$/NO$_x$ ratio decreased from 29.5 ± 2.0% in Euro 5 diesel cars up to one year old to 22.7 ± 2.5% for four-year old vehicles. At some roadside locations the reductions in primary NO$_2$ have had a large effect on reducing both the annual mean and number of hourly exceedances of the European Limit Values of NO$_2$."
 featured = false
+doi = "10.1039/C5FD00162E"
 publication = "*Faraday Discussions*"
 +++
 
