@@ -21,7 +21,7 @@ url_slides: ""
 url_video: ""
 ---
 
-`openair` is a [<i class="fab fa-r-project"></i>](https://www.r-project.org) package that has been developed for the analysis of air pollution data. It provides many functions that are commonly useful for data analysis ([Carslaw and Ropkins, 2012]({{< ref "/publication/carslaw-2012-b/index.md" >}})). The main development site is available [here](https://github.com/davidcarslaw/openair) on GitHub. There is also detailed information available in a pdf manual --- you can {{% staticref "files/openairManual.pdf" %}}download the openair manual{{% /staticref %}}. 
+`openair` is a [<i class="fab fa-r-project"></i>](https://www.r-project.org) package that has been developed for the analysis of air pollution data. It provides many functions that are commonly useful for data analysis ([Carslaw and Ropkins, 2012]({{< ref "/publication/carslaw-2012-b/index.md" >}})). The main development site is available [here](https://github.com/davidcarslaw/openair) on GitHub. There is also detailed information available in a pdf manual --- you can {{% staticref "files/openairManual.pdf" "newtab" %}}download the openair manual{{% /staticref %}}. 
 
 **Increasingly, information on `openair` will be available through this website and a [bookdown](https://bookdown.org/home/) book will be written**.
 
