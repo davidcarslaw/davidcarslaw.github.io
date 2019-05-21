@@ -123,4 +123,20 @@ leaflet(aurn) %&gt;%
 </div>
 <div id="access-the-data" class="section level1">
 <h1><span class="header-section-number">3</span> Access the data</h1>
+<p>The information above should help to describe the air quality data that is easily available through <code>openair</code>. Access to the data is possible through a family of functions that all tend to work in a simuilar way. Only two pieces of information are required: the site code(s) and the year(s) of interest.</p>
+<p>So, to import data for the industrial Port Talbot Margam site (close to a steelworks) with the site code “PT4” for 2015 to 2018, we can:</p>
+<pre class="r"><code>margam &lt;- importWAQN(site = &quot;pt4&quot;, year = 2015:2018)</code></pre>
+<pre><code>## Warning in importWAQN(site = &quot;pt4&quot;, year = 2015:2018): You have selected some data that is less than 6-months old.
+##  This most recent data is not yet ratified and may be changed
+##  during the QA/QC process. For complete information about the 
+## ratification status of a data set, please use the online tool at:
+##  http://www.airquality.co.uk/data_and_statistics.php?action=da_1&amp;go=Go</code></pre>
+<p>This data also includes estimates of wind speed and direction (<code>ws</code> and <code>wd</code>) from the WRF model, so we camn easily plot the distribution of concentrations by wind direction. This plot indicates that the highest PM<span class="math inline">\(_{10}\)</span> concentrations are from the south-west i.e. the steelworks direction. A better indication of important steelworks combustion sources can be seen by plotting SO<span class="math inline">\(_2\)</span>.</p>
+<pre class="r"><code>percentileRose(margam, 
+               pollutant = &quot;pm10&quot;, 
+               percentile = c(25, 50, 75, 90, 95, 99), 
+               cols = &quot;inferno&quot;, 
+               smooth = TRUE
+               )</code></pre>
+<p><img src="/post/2019-05-05-air-quality-data-available-in-openair_files/figure-html/perRose-1.png" width="672" /></p>
 </div>
