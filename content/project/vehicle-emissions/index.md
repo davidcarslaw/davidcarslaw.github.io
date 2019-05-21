@@ -53,4 +53,4 @@ Below is a brief summary of our main findings and associated papers.
 
 - We showed that there was a strong ambient temperature dependence in light duty diesel NO$_x$ emissions following extensive measurement campaigns throughout 2017 and 2018 [Grange et al., (2019)]({{< ref "/publication/temperature-2019/index.md" >}}).
 
-
+The focus during the latter half of 2019 will be the measurement of Heavy Duty Vehicles using the Denver FEAT.
