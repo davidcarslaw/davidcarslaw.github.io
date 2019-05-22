@@ -45,7 +45,7 @@ Recent work has considered the potentially important effect of ambient temperatu
 
 Below is a brief summary of our main findings and associated papers.
 
-- [Carslaw et al., (2011)]({{< ref "/publication/carslaw-2011-a/index.md" >}}) showed that based on extensive remote sensing measurements that NO$_x$ emissions were not decreasing as expected from light duty diesel vehicles and this lack of decrease could also be observed in the atmosphere.
+- [Carslaw et al., (2011)]({{< ref "/publication/carslaw-2011-a/index.md" >}}) showed that based on extensive remote sensing measurements that NO$_x$ emissions were not decreasing as expected from light duty diesel vehicles and this lack of decrease could also be observed in the atmosphere. Coupled with increases in primary NO$_2$ emissions ([Carslaw, 2005]({{< ref "/publication/carslaw-2005-b/index.md" >}})), these two effects combined to produce the European "NO$_2$ problem".
 
 - Remote sensing in 2013 aimed to quantify the performance of urban bus retrofit technology using an SCRT technology. Results were encouraging but there were significant periods where the aftertreatment system was less than optimal, see [Carslaw et al., (2015)]({{< ref "/publication/carslaw-2015-c/index.md" >}}).
 
