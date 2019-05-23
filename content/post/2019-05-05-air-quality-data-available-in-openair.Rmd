@@ -108,7 +108,7 @@ So, to import data for the industrial Port Talbot Margam site (close to a steelw
 margam <- importWAQN(site = "pt4", year = 2015:2018)
 ```
 
-This data also includes estimates of wind speed and direction (`ws` and `wd`) from the WRF model, so we camn easily plot the distribution of concentrations by wind direction. This plot indicates that the highest PM$_{10}$ concentrations are from the south-west i.e. the steelworks direction. A better indication of important steelworks combustion sources can be seen by plotting SO$_2$.
+This data also includes estimates of wind speed and direction (`ws` and `wd`) from the WRF model, so we camn easily plot the distribution of concentrations by wind direction. This plot indicates that the highest PM$_{10}$ concentrations are from the south-west i.e. the steelworks direction. A better indication of important steelworks combustion sources can be seen by plotting SO$_2$. 
 
 ```{r perRose}
 percentileRose(margam, 
