@@ -2,7 +2,7 @@
 name = "alison"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Lora|Source+Sans+Pro|Roboto+Mono"
+google_fonts = "Lora|Source+Sans+Pro|Roboto+Mono"
 
 # Font families
 heading_font = "Source Sans Pro"
