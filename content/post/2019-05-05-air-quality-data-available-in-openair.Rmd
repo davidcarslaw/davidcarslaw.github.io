@@ -26,7 +26,7 @@ output:
 The UK has a surprisingly large amount of air quality data available. The main national network is called the [Automatic Urban and Rural Network](https://uk-air.defra.gov.uk/networks/network-info?view=aurn). There are however other large networks including the [Scottish Air Quality Network](http://www.scottishairquality.scot/) and the [Welsh Air Quality Network](https://airquality.gov.wales/). One of the largest --- if not the largest urban air quality network is the [London Air Quality Network](https://www.londonair.org.uk/LondonAir/Default.aspx)
 {{% /alert %}}
 
-`openair` includes the function `importMeta` to provide information on UK air pollution monitoring sites. There are currently four networks that `openair` has access to:
+[openair]{.pkg} includes the function `importMeta` to provide information on UK air pollution monitoring sites. There are currently four networks that [openair]{.pkg} has access to:
 
 - The Defra Automatic Urban and Rural Network (AURN)
 - The Scottish Air Quality Network (SAQN)
@@ -69,7 +69,7 @@ nrow(no2_sites)
 
 # Plot sites on a map
 
-Since `openair` started there have been huge developments with R and optional packages. These developments have made it much easier to manipulate and plot data e.g. with `ggplot2` and the likes of `dplyr`. There is also now much more focus on interactive plotting, which is very useful in the context of considering air pollution sites.
+Since [openair]{.pkg} started there have been huge developments with R and optional packages. These developments have made it much easier to manipulate and plot data e.g. with [ggplot2]{.pkg} and the likes of [dplyr]{.pkg}. There is also now much more focus on interactive plotting, which is very useful in the context of considering air pollution sites.
 
 In the example below the unique sites are selected from `aurn_detailed` because the `site` repeats the number of pollutants that are measured. Information is also collected for the map popups and then the map is plotted.
 
@@ -100,7 +100,7 @@ leaflet(aurn) %>%
 
 # Access the data
 
-The information above should help to describe the air quality data that is easily available through `openair`. Access to the data is possible through  a family of functions that all tend to work in a simuilar way. Only two pieces of information are required: the site code(s) and the year(s) of interest.
+The information above should help to describe the air quality data that is easily available through [openair]{.pkg}. Access to the data is possible through  a family of functions that all tend to work in a simuilar way. Only two pieces of information are required: the site code(s) and the year(s) of interest.
 
 So, to import data for the industrial Port Talbot Margam site (close to a steelworks) with the site code "PT4" for 2015 to 2018, we can:
 

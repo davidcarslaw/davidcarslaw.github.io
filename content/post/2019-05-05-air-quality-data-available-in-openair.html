@@ -48,7 +48,7 @@ output:
 <p>{{% alert note %}}
 The UK has a surprisingly large amount of air quality data available. The main national network is called the <a href="https://uk-air.defra.gov.uk/networks/network-info?view=aurn">Automatic Urban and Rural Network</a>. There are however other large networks including the <a href="http://www.scottishairquality.scot/">Scottish Air Quality Network</a> and the <a href="https://airquality.gov.wales/">Welsh Air Quality Network</a>. One of the largest — if not the largest urban air quality network is the <a href="https://www.londonair.org.uk/LondonAir/Default.aspx">London Air Quality Network</a>
 {{% /alert %}}</p>
-<p><code>openair</code> includes the function <code>importMeta</code> to provide information on UK air pollution monitoring sites. There are currently four networks that <code>openair</code> has access to:</p>
+<p><span class="pkg">openair</span> includes the function <code>importMeta</code> to provide information on UK air pollution monitoring sites. There are currently four networks that <span class="pkg">openair</span> has access to:</p>
 <ul>
 <li>The Defra Automatic Urban and Rural Network (AURN)</li>
 <li>The Scottish Air Quality Network (SAQN)</li>
@@ -94,7 +94,7 @@ nrow(no2_sites)</code></pre>
 </div>
 <div id="plot-sites-on-a-map" class="section level1">
 <h1><span class="header-section-number">2</span> Plot sites on a map</h1>
-<p>Since <code>openair</code> started there have been huge developments with R and optional packages. These developments have made it much easier to manipulate and plot data e.g. with <code>ggplot2</code> and the likes of <code>dplyr</code>. There is also now much more focus on interactive plotting, which is very useful in the context of considering air pollution sites.</p>
+<p>Since <span class="pkg">openair</span> started there have been huge developments with R and optional packages. These developments have made it much easier to manipulate and plot data e.g. with <span class="pkg">ggplot2</span> and the likes of <span class="pkg">dplyr</span>. There is also now much more focus on interactive plotting, which is very useful in the context of considering air pollution sites.</p>
 <p>In the example below the unique sites are selected from <code>aurn_detailed</code> because the <code>site</code> repeats the number of pollutants that are measured. Information is also collected for the map popups and then the map is plotted.</p>
 <pre class="r"><code>library(leaflet)
 
@@ -123,7 +123,7 @@ leaflet(aurn) %&gt;%
 </div>
 <div id="access-the-data" class="section level1">
 <h1><span class="header-section-number">3</span> Access the data</h1>
-<p>The information above should help to describe the air quality data that is easily available through <code>openair</code>. Access to the data is possible through a family of functions that all tend to work in a simuilar way. Only two pieces of information are required: the site code(s) and the year(s) of interest.</p>
+<p>The information above should help to describe the air quality data that is easily available through <span class="pkg">openair</span>. Access to the data is possible through a family of functions that all tend to work in a simuilar way. Only two pieces of information are required: the site code(s) and the year(s) of interest.</p>
 <p>So, to import data for the industrial Port Talbot Margam site (close to a steelworks) with the site code “PT4” for 2015 to 2018, we can:</p>
 <pre class="r"><code>margam &lt;- importWAQN(site = &quot;pt4&quot;, year = 2015:2018)</code></pre>
 <pre><code>## Warning in importWAQN(site = &quot;pt4&quot;, year = 2015:2018): You have selected some data that is less than 6-months old.
