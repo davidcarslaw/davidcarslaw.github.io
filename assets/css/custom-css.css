@@ -118,7 +118,7 @@ a.badge-github:hover {
 }
 
 code, pre, .pkg {
-    font-family: "Roboto Mono", "Lucida Console", "Liberation Mono", Menlo, Courier, monospace;
+    font-family: "Roboto Mono";
     font-size: 17px;
 }
 
