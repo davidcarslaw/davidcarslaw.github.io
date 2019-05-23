@@ -11,11 +11,13 @@ pre {
 code { 
   color: #343c56;
   font-family: "Roboto Mono", monospace !important;
+  font-size: 17px;
   background: #f8f8f8; /* match github highlightjs */
 }
 
 pre code { 
   color: #343c56;
+  font-size: 17px;
   font-family: "Roboto Mono", monospace !important;
   background: none; 
 }
