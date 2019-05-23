@@ -52,7 +52,7 @@ How many of each site type are there?
 table(aurn$site.type)
 ```
 
-Sometimes it is necessary to have more infromation on the sites such as when they started (or stopped) measuring, the pollutants measured and the regions in which they exist. Additional site information can be obtained using the option `all = TRUE`. In the example below, we will select sites that measure NO~2~ at traffic locations.
+Sometimes it is necessary to have more information on the sites such as when they started (or stopped) measuring, the pollutants measured and the regions in which they exist. Additional site information can be obtained using the option `all = TRUE`. In the example below, we will select sites that measure NO~2~ at traffic locations.
 
 ```{r warning=FALSE,message=FALSE}
 library(tidyverse)
@@ -100,7 +100,7 @@ leaflet(aurn) %>%
 
 # Access the data
 
-The information above should help to describe the air quality data that is easily available through [openair]{.pkg}. Access to the data is possible through  a family of functions that all tend to work in a simuilar way. Only two pieces of information are required: the site code(s) and the year(s) of interest.
+The information above should help to describe the air quality data that is easily available through [openair]{.pkg}. Access to the data is possible through  a family of functions that all tend to work in a similar way. Only two pieces of information are required: the site code(s) and the year(s) of interest.
 
 So, to import data for the industrial Port Talbot Margam site (close to a steelworks) with the site code "PT4" for 2015 to 2018, we can:
 
@@ -108,7 +108,7 @@ So, to import data for the industrial Port Talbot Margam site (close to a steelw
 margam <- importWAQN(site = "pt4", year = 2015:2018)
 ```
 
-This data also includes estimates of wind speed and direction (`ws` and `wd`) from the WRF model, so we camn easily plot the distribution of concentrations by wind direction. This plot indicates that the highest PM$_{10}$ concentrations are from the south-west i.e. the steelworks direction. A better indication of important steelworks combustion sources can be seen by plotting SO$_2$. 
+This data also includes estimates of wind speed and direction (`ws` and `wd`) from the WRF model, so we can easily plot the distribution of concentrations by wind direction. This plot indicates that the highest PM$_{10}$ concentrations are from the south-west i.e. the steelworks direction. A better indication of important steelworks combustion sources can be seen by plotting SO$_2$. 
 
 ```{r perRose}
 percentileRose(margam, 
