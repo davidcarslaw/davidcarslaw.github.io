@@ -60,7 +60,7 @@ head(aurn)
 How many of each site type are there?
 
 ```{r}
-table(aurn$site.type)
+table(aurn$site_type)
 ```
 
 Sometimes it is necessary to have more information on the sites such
