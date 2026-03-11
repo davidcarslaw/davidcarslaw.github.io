@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 58987b79-7d04-4ebc-9b7f-358c466e3a3b
+      url: https://animated-sfogliatella-cac325.netlify.app

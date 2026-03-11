@@ -14,7 +14,7 @@ project:
 website:
   title: "David Carslaw"
   site-url: https://davidcarslaw.com
-  description: "Reader in Air Pollution, University of York"
+  description: "Professor of Urban Air Pollution, University of York"
 
   navbar:
     background: primary
