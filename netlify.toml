@@ -1,11 +1,6 @@
 [build]
-  publish = "public"
-  command = "hugo"
+  publish = "docs"
+  command = "quarto render"
 
-[context.production.environment]
-  HUGO_VERSION = "0.55.6"
-  HUGO_ENV = "production"
-  HUGO_ENABLEGITINFO = "true"
-  
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.55.6"
+[build.environment]
+  QUARTO_VERSION = "1.8.27"

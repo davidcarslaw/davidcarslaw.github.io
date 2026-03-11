@@ -9,7 +9,6 @@ davidcarslaw.github.io.Rproj
 
 # Quarto
 /.quarto/
-/_freeze/
 /docs/
 *.Rproj
 
