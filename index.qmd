@@ -13,7 +13,6 @@ toc: false
     <p class="profile-org">University of York &amp; Ricardo</p>
     <div class="social-icons">
       <a href="mailto:david.carslaw@york.ac.uk" title="Email"><i class="bi bi-envelope-fill"></i></a>
-      <a href="https://twitter.com/DavidCarslaw" title="Twitter"><i class="bi bi-twitter-x"></i></a>
       <a href="https://scholar.google.co.uk/citations?user=jEfmvX8AAAAJ&hl=en" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
       <a href="https://orcid.org/0000-0003-0991-950X" title="ORCID"><i class="bi bi-patch-check-fill"></i></a>
       <a href="https://www.researchgate.net/profile/David_Carslaw" title="ResearchGate"><i class="bi bi-journal-richtext"></i></a>
@@ -102,10 +101,6 @@ toc: false
     <div class="contact-item">
       <i class="bi bi-telephone"></i>
       <span>+44 (0) 1904 321218</span>
-    </div>
-    <div class="contact-item">
-      <i class="bi bi-twitter-x"></i>
-      <a href="https://twitter.com/davidcarslaw">@davidcarslaw</a>
     </div>
     <div class="contact-item">
       <i class="bi bi-patch-check"></i>

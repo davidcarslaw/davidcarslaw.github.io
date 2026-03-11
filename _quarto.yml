@@ -32,9 +32,6 @@ website:
       - icon: github
         href: https://github.com/davidcarslaw
         aria-label: GitHub
-      - icon: twitter
-        href: https://twitter.com/DavidCarslaw
-        aria-label: Twitter
 
   page-footer:
     center: |
@@ -42,11 +39,6 @@ website:
       [University of York](https://www.york.ac.uk/chemistry/)
 
   google-analytics: "UA-140402050-1"
-
-  open-graph: true
-  twitter-card:
-    creator: "@DavidCarslaw"
-    card-style: summary
 
 format:
   html:
