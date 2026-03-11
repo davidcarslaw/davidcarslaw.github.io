@@ -42,7 +42,7 @@ website:
 
 format:
   html:
-    theme: [flatly, styles/custom.scss]
+    theme: [cosmo, styles/custom.scss]
     toc: false
     link-external-icon: false
     link-external-newwindow: true
