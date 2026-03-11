@@ -1,0 +1,23 @@
+---
+title: A short-term intervention study - Impact of airport closure due to the eruption of Eyjafjallajökull on near-field air
+  quality
+date: '2012-01-01'
+author:
+- D.C. Carslaw
+- M.L. Williams
+- B. Barratt
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## A short-term intervention study - Impact of airport closure due to the eruption of Eyjafjallajökull on near-field air quality
+
+<p class="pub-meta">D.C. Carslaw, M.L. Williams, B. Barratt</p>
+
+_*Atmospheric Environment*_, 2012
+
+
+<div class="pub-links">
+<a href="carslaw-2012.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

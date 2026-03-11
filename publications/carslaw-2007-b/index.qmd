@@ -1,0 +1,33 @@
+---
+title: Free radical modelling studies during the UK TORCH Campaign in Summer 2003
+date: '2007-01-01'
+author:
+- K.M. Emmerson
+- N. Carslaw
+- D.C. Carslaw
+- J.D. Lee
+- G. McFiggans
+- W.J. Bloss
+- T. Gravestock
+- D.E. Heard
+- J. Hopkins
+- T. Ingham
+- M.J. Pilling
+- S.C. Smith
+- M. Jacob
+- P.S. Monks
+categories:
+- Journal Article
+publication: '*Atmospheric Chemistry and Physics*'
+---
+
+## Free radical modelling studies during the UK TORCH Campaign in Summer 2003
+
+<p class="pub-meta">K.M. Emmerson, N. Carslaw, D.C. Carslaw, J.D. Lee, G. McFiggans, W.J. Bloss, T. Gravestock, D.E. Heard, J. Hopkins, T. Ingham, M.J. Pilling, S.C. Smith, M. Jacob, P.S. Monks</p>
+
+_*Atmospheric Chemistry and Physics*_, 2007
+
+
+<div class="pub-links">
+<a href="carslaw-2007-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

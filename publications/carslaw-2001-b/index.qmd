@@ -1,0 +1,21 @@
+---
+title: The gas-phase chemistry of urban atmospheres
+date: '2001-01-01'
+author:
+- N. Carslaw
+- D. Carslaw
+categories:
+- Journal Article
+publication: '*Surveys in Geophysics*'
+---
+
+## The gas-phase chemistry of urban atmospheres
+
+<p class="pub-meta">N. Carslaw, D. Carslaw</p>
+
+_*Surveys in Geophysics*_, 2001
+
+
+<div class="pub-links">
+<a href="carslaw-2001-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

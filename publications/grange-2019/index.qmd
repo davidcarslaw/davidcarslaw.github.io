@@ -1,0 +1,47 @@
+---
+title: Using meteorological normalisation to detect interventions in air quality time series
+date: '2019-02-01'
+author:
+- Stuart K. Grange
+- David C. Carslaw
+categories:
+- Journal Article
+abstract: Interventions used to improve air quality are often difficult to detect in air quality time series due to the complex
+  nature of the atmosphere. Meteorological normalisation is a technique which controls for meteorology/weather over time in
+  an air quality time series so intervention exploration (and trend analysis) can be assessed in a robust way. A meteorological
+  normalisation technique, based on the random forest machine learning algorithm was applied to routinely collected observations
+  from two locations where known inter- ventions were imposed on transportation activities which were expected to change ambient
+  pollutant concentrations. The application of progressively stringent limits on the content of sulfur in marine fuels was
+  very clearly represented in ambient sulfur dioxide (SO$_2$) monitoring data in Dover, a port city in the South East of England.
+  When the technique was applied to the oxides of nitrogen (NO$_x$ and NO$_2$) time series at London Marylebone Road (a Central
+  London monitoring site located in a complex urban environment), the normalised time series highlighted clear changes in
+  NO$_2$ and NO$_x$ which were linked to changes in primary (directly emitted) NO$_2$ emissions at the location. The clear
+  features in the time series were illuminated by the meteorological normalisation procedure and were not observable in the
+  raw concentration data alone. The lack of a need for specialised inputs, and the efficient handling of collinearity and
+  interaction effects makes the technique flexible and suitable for a range of potential applications for air quality intervention
+  exploration.
+doi: 10.1016/j.scitotenv.2018.10.344
+publication: '*Science of The Total Environment*'
+url_pdf: https://doi.org/10.1016%2Fj.scitotenv.2018.10.344
+featured: true
+---
+
+<div class="pub-badge">Featured</div>
+
+## Using meteorological normalisation to detect interventions in air quality time series
+
+<p class="pub-meta">Stuart K. Grange, David C. Carslaw</p>
+
+_*Science of The Total Environment*_, 2019
+
+
+<div class="pub-abstract">
+Interventions used to improve air quality are often difficult to detect in air quality time series due to the complex nature of the atmosphere. Meteorological normalisation is a technique which controls for meteorology/weather over time in an air quality time series so intervention exploration (and trend analysis) can be assessed in a robust way. A meteorological normalisation technique, based on the random forest machine learning algorithm was applied to routinely collected observations from two locations where known inter- ventions were imposed on transportation activities which were expected to change ambient pollutant concentrations. The application of progressively stringent limits on the content of sulfur in marine fuels was very clearly represented in ambient sulfur dioxide (SO$_2$) monitoring data in Dover, a port city in the South East of England. When the technique was applied to the oxides of nitrogen (NO$_x$ and NO$_2$) time series at London Marylebone Road (a Central London monitoring site located in a complex urban environment), the normalised time series highlighted clear changes in NO$_2$ and NO$_x$ which were linked to changes in primary (directly emitted) NO$_2$ emissions at the location. The clear features in the time series were illuminated by the meteorological normalisation procedure and were not observable in the raw concentration data alone. The lack of a need for specialised inputs, and the efficient handling of collinearity and interaction effects makes the technique flexible and suitable for a range of potential applications for air quality intervention exploration.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.scitotenv.2018.10.344" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+<a href="https://doi.org/10.1016%2Fj.scitotenv.2018.10.344" class="btn btn-outline-secondary btn-sm" target="_blank"><i class="bi bi-file-pdf"></i> PDF</a>
+<a href="grange-2019.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

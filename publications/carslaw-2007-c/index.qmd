@@ -1,0 +1,25 @@
+---
+title: 'Managing air quality by ''Data Mining'': Exploratory statistical analysis to determine causal factors affecting pollutant
+  concentrations close to a motorway'
+date: '2007-01-01'
+author:
+- A. Bywaters
+- J. White
+- K. McCabe
+- P.J. Taylor
+- D. Carslaw
+categories:
+- Journal Article
+publication: '*14th World Congress on Intelligent Transport Systems, ITS 2007*'
+---
+
+## Managing air quality by 'Data Mining': Exploratory statistical analysis to determine causal factors affecting pollutant concentrations close to a motorway
+
+<p class="pub-meta">A. Bywaters, J. White, K. McCabe, P.J. Taylor, D. Carslaw</p>
+
+_*14th World Congress on Intelligent Transport Systems, ITS 2007*_, 2007
+
+
+<div class="pub-links">
+<a href="carslaw-2007-c.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

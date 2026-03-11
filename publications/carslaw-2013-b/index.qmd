@@ -1,0 +1,33 @@
+---
+title: Evaluation and Inter-comparison of Acid Deposition Models for the UK
+date: '2013-01-01'
+author:
+- A.J. Dore
+- D. Carslaw
+- C. Chemel
+- R.G. Derwent
+- B.E.A. Fisher
+- S.J. Griffiths
+- S. Lawrence
+- S.E. Metcalfe
+- A. Redington
+- D. Simpson
+- R. Sokhi
+- P. Sutton
+- M. Vieno
+- J.D. Whyatt
+categories:
+- Journal Article
+publication: '*NATO Science for Peace and Security Series C: Environmental Security*'
+---
+
+## Evaluation and Inter-comparison of Acid Deposition Models for the UK
+
+<p class="pub-meta">A.J. Dore, D. Carslaw, C. Chemel, R.G. Derwent, B.E.A. Fisher, S.J. Griffiths, S. Lawrence, S.E. Metcalfe, A. Redington, D. Simpson, R. Sokhi, P. Sutton, M. Vieno, J.D. Whyatt</p>
+
+_*NATO Science for Peace and Security Series C: Environmental Security*_, 2013
+
+
+<div class="pub-links">
+<a href="carslaw-2013-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

@@ -1,0 +1,21 @@
+---
+title: Openair - data analysis tools for the air quality community
+date: '2012-01-01'
+author:
+- K. Ropkins
+- D.C. Carslaw
+categories:
+- Journal Article
+publication: '*R Journal*'
+---
+
+## Openair - data analysis tools for the air quality community
+
+<p class="pub-meta">K. Ropkins, D.C. Carslaw</p>
+
+_*R Journal*_, 2012
+
+
+<div class="pub-links">
+<a href="carslaw-2012-c.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

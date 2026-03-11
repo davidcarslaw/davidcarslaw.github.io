@@ -1,0 +1,22 @@
+---
+title: 'London''s air quality: Nitrogen dioxide and particles (PM10) in London''s air - Present and future'
+date: '2001-01-01'
+author:
+- S.D. Beevers
+- D.C. Carslaw
+- G.W. Fuller
+categories:
+- Journal Article
+publication: '*Area*'
+---
+
+## London's air quality: Nitrogen dioxide and particles (PM10) in London's air - Present and future
+
+<p class="pub-meta">S.D. Beevers, D.C. Carslaw, G.W. Fuller</p>
+
+_*Area*_, 2001
+
+
+<div class="pub-links">
+<a href="carslaw-2001-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

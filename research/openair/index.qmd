@@ -1,0 +1,25 @@
+---
+title: "openair"
+date: "2016-04-27"
+description: "openair R package for air quality data analysis"
+image: featured.png
+categories: [R, openair]
+---
+
+`openair` is an [R](https://www.r-project.org) package that has been developed for the analysis of air pollution data. It provides many functions that are commonly useful for data analysis ([Carslaw and Ropkins, 2012](../../publications/carslaw-2012-b/)). The main development site is available [here](https://github.com/davidcarslaw/openair) on GitHub. There is also detailed information available in the [openair manual](../../static/files/openairManual.pdf){target="_blank"}.
+
+Briefly, some of the main functions in `openair` include:
+
+- Import data from air quality networks across the UK. See this [post](../../posts/air-quality-data/) for more details.
+
+- Flexibly plot data using a range of conditioning variables such as year, day of week, season — or any numeric or categorical variable.
+
+- Wind and pollution roses.
+
+- Bivariate polar plots including conditional probability functions and two-pollutant statistics.
+
+- Calendar plots.
+
+- Functions for model evaluation such as Taylor plots and conditional quantiles together with common numeric statistics.
+
+- Functions to plot and process Hysplit back trajectories.

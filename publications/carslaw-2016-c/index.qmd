@@ -1,0 +1,33 @@
+---
+title: Spatially resolved flux measurements of NO$_x$ from London suggest significantly higher emissions than predicted by
+  inventories
+date: '2016-01-01'
+author:
+- A.R. Vaughan
+- J.D. Lee
+- P.K. Misztal
+- S. Metzger
+- M.D. Shaw
+- A.C. Lewis
+- R.M. Purvis
+- D.C. Carslaw
+- A.H. Goldstein
+- C.N. Hewitt
+- B. Davison
+- S.D. Beevers
+- T.G. Karl
+categories:
+- Journal Article
+publication: '*Faraday Discussions*'
+---
+
+## Spatially resolved flux measurements of NO$_x$ from London suggest significantly higher emissions than predicted by inventories
+
+<p class="pub-meta">A.R. Vaughan, J.D. Lee, P.K. Misztal, S. Metzger, M.D. Shaw, A.C. Lewis, R.M. Purvis, D.C. Carslaw, A.H. Goldstein, C.N. Hewitt, B. Davison, S.D. Beevers, T.G. Karl</p>
+
+_*Faraday Discussions*_, 2016
+
+
+<div class="pub-links">
+<a href="carslaw-2016-c.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

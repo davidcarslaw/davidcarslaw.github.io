@@ -1,0 +1,21 @@
+---
+title: Analysis of air pollution data at a mixed source location using boosted regression trees
+date: '2009-01-01'
+author:
+- D.C. Carslaw
+- P.J. Taylor
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## Analysis of air pollution data at a mixed source location using boosted regression trees
+
+<p class="pub-meta">D.C. Carslaw, P.J. Taylor</p>
+
+_*Atmospheric Environment*_, 2009
+
+
+<div class="pub-links">
+<a href="carslaw-2009.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

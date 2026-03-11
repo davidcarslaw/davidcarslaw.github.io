@@ -1,0 +1,21 @@
+---
+title: Estimations of road vehicle primary NO$_2$ exhaust emission fractions using monitoring data in London
+date: '2005-01-01'
+author:
+- D.C. Carslaw
+- S.D. Beevers
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## Estimations of road vehicle primary NO$_2$ exhaust emission fractions using monitoring data in London
+
+<p class="pub-meta">D.C. Carslaw, S.D. Beevers</p>
+
+_*Atmospheric Environment*_, 2005
+
+
+<div class="pub-links">
+<a href="carslaw-2005-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

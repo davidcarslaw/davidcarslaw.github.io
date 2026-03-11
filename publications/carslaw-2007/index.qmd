@@ -1,0 +1,24 @@
+---
+title: Analysis of air quality within a street canyon using statistical and dispersion modelling techniques
+date: '2007-01-01'
+author:
+- E.J. Westmoreland
+- N. Carslaw
+- D.C. Carslaw
+- A. Gillah
+- E. Bates
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## Analysis of air quality within a street canyon using statistical and dispersion modelling techniques
+
+<p class="pub-meta">E.J. Westmoreland, N. Carslaw, D.C. Carslaw, A. Gillah, E. Bates</p>
+
+_*Atmospheric Environment*_, 2007
+
+
+<div class="pub-links">
+<a href="carslaw-2007.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

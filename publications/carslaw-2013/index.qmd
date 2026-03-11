@@ -1,0 +1,25 @@
+---
+title: Air pollution dispersion models for human exposure predictions in London
+date: '2013-01-01'
+author:
+- S.D. Beevers
+- N. Kitwiroon
+- M.L. Williams
+- F.J. Kelly
+- H. Ross Anderson
+- D.C. Carslaw
+categories:
+- Journal Article
+publication: '*Journal of Exposure Science and Environmental Epidemiology*'
+---
+
+## Air pollution dispersion models for human exposure predictions in London
+
+<p class="pub-meta">S.D. Beevers, N. Kitwiroon, M.L. Williams, F.J. Kelly, H. Ross Anderson, D.C. Carslaw</p>
+
+_*Journal of Exposure Science and Environmental Epidemiology*_, 2013
+
+
+<div class="pub-links">
+<a href="carslaw-2013.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

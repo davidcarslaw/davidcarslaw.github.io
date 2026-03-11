@@ -1,0 +1,20 @@
+---
+title: On the changing seasonal cycles and trends of ozone at Mace Head, Ireland
+date: '2005-01-01'
+author:
+- D.C. Carslaw
+categories:
+- Journal Article
+publication: '*Atmospheric Chemistry and Physics*'
+---
+
+## On the changing seasonal cycles and trends of ozone at Mace Head, Ireland
+
+<p class="pub-meta">D.C. Carslaw</p>
+
+_*Atmospheric Chemistry and Physics*_, 2005
+
+
+<div class="pub-links">
+<a href="carslaw-2005-c.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

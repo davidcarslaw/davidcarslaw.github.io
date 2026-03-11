@@ -1,0 +1,23 @@
+---
+title: Predictions of annual mean nitrogen dioxide concentrations in London | Prévisions des concentrations annuelles moyennes
+  de dioxyde d'azote dans la ville de Londres
+date: '2002-01-01'
+author:
+- D.C. Carslaw
+- S.D. Beevers
+- G. Fuller
+categories:
+- Journal Article
+publication: '*Techniques - Sciences - Methodes*'
+---
+
+## Predictions of annual mean nitrogen dioxide concentrations in London | Prévisions des concentrations annuelles moyennes de dioxyde d'azote dans la ville de Londres
+
+<p class="pub-meta">D.C. Carslaw, S.D. Beevers, G. Fuller</p>
+
+_*Techniques - Sciences - Methodes*_, 2002
+
+
+<div class="pub-links">
+<a href="carslaw-2002-c.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

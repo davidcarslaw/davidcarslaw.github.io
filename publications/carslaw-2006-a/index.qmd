@@ -1,0 +1,24 @@
+---
+title: Detecting and quantifying aircraft and other on-airport contributions to ambient nitrogen oxides in the vicinity of
+  a large international airport
+date: '2006-01-01'
+author:
+- D.C. Carslaw
+- S.D. Beevers
+- K. Ropkins
+- M.C. Bell
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## Detecting and quantifying aircraft and other on-airport contributions to ambient nitrogen oxides in the vicinity of a large international airport
+
+<p class="pub-meta">D.C. Carslaw, S.D. Beevers, K. Ropkins, M.C. Bell</p>
+
+_*Atmospheric Environment*_, 2006
+
+
+<div class="pub-links">
+<a href="carslaw-2006-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

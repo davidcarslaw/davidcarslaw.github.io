@@ -1,0 +1,17 @@
+---
+title: "Statistical Analysis"
+date: "2016-04-27"
+description: "Analysis and insights from air quality data"
+image: featured.png
+categories: [Data analysis, openair]
+---
+
+I have a long-term interest in the analysis of air pollution data to better-understand the source characteristics of air pollutants. Much of this work is closely linked with [openair](http://davidcarslaw.github.io/openair/) and vehicle emissions measurement. A summary of some of the methods developed and key findings is given below.
+
+---
+
+- A series of papers have been written developing the idea of *bivariate polar plots* to investigate sources of air pollution. These include triangulating and estimating source contributions at a major international airport ([Carslaw et al., 2006](../../publications/carslaw-2006-a/)), clustering polar plot surfaces ([Carslaw and Beevers, 2013](../../publications/carslaw-2013-a/)), the development of a conditional bivariate probability function ([Carslaw and Uria-Tellaetxe, 2014](../../publications/carslaw-2014/)) and the extension to pollutant pairs ([Grange et al., 2016](../../publications/carslaw-2016-b/)).
+
+- The analysis of ambient NO~x~ and NO~2~ concentrations to estimate the directly emitted NO~2~ in vehicle exhaust. This work included the first identification that primary NO~2~ emissions from diesel vehicles was increasing ([Carslaw, 2005](../../publications/carslaw-2005-b/)), and later work to show that emissions were decreasing ([Carslaw et al., 2016](../../publications/carslaw-2016-a/), [Grange et al., 2017](../../publications/grange-2017/)).
+
+- We have developed methods to account for the variation in meteorology in time series. The influence of meteorology can easily dominate the changes in concentration due to changes in source strength. See [Grange and Carslaw (2019)](../../publications/grange-2019/) and [Carslaw and Taylor (2009)](../../publications/carslaw-2009/) for example.

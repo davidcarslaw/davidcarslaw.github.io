@@ -1,0 +1,21 @@
+---
+title: 'Motor traffic and the pollution of the air: 100 years on'
+date: '2007-01-01'
+author:
+- D.C. Carslaw
+- R.M. Harrison
+categories:
+- Journal Article
+publication: '*Lancet*'
+---
+
+## Motor traffic and the pollution of the air: 100 years on
+
+<p class="pub-meta">D.C. Carslaw, R.M. Harrison</p>
+
+_*Lancet*_, 2007
+
+
+<div class="pub-links">
+<a href="carslaw-2007-e.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

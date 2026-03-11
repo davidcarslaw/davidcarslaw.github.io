@@ -1,0 +1,22 @@
+---
+title: Modelling and assessing trends in traffic-related emissions using a generalised additive modelling approach
+date: '2007-01-01'
+author:
+- D.C. Carslaw
+- S.D. Beevers
+- J.E. Tate
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## Modelling and assessing trends in traffic-related emissions using a generalised additive modelling approach
+
+<p class="pub-meta">D.C. Carslaw, S.D. Beevers, J.E. Tate</p>
+
+_*Atmospheric Environment*_, 2007
+
+
+<div class="pub-links">
+<a href="carslaw-2007-d.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

@@ -1,0 +1,14 @@
+---
+title: "Research"
+toc: false
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  fields: [image, title, description, categories]
+  field-display-names:
+    description: "Summary"
+  image-height: "200px"
+  categories: true
+---

@@ -1,0 +1,20 @@
+---
+title: 'New Directions: A heavy burden for heavy vehicles: Increasing vehicle weight and air pollution'
+date: '2006-01-01'
+author:
+- D.C. Carslaw
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## New Directions: A heavy burden for heavy vehicles: Increasing vehicle weight and air pollution
+
+<p class="pub-meta">D.C. Carslaw</p>
+
+_*Atmospheric Environment*_, 2006
+
+
+<div class="pub-links">
+<a href="carslaw-2006-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

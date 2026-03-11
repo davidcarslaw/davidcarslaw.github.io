@@ -1,0 +1,116 @@
+---
+title: "David Carslaw"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="about-grid">
+  <div>
+    <img src="img/avatar.jpg" class="profile-photo" alt="David Carslaw">
+    <p class="profile-name">David Carslaw</p>
+    <p class="profile-role">Professor of Urban Air Pollution</p>
+    <p class="profile-org">University of York &amp; Ricardo</p>
+    <div class="social-icons">
+      <a href="mailto:david.carslaw@york.ac.uk" title="Email"><i class="bi bi-envelope-fill"></i></a>
+      <a href="https://twitter.com/DavidCarslaw" title="Twitter"><i class="bi bi-twitter-x"></i></a>
+      <a href="https://scholar.google.co.uk/citations?user=jEfmvX8AAAAJ&hl=en" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
+      <a href="https://orcid.org/0000-0003-0991-950X" title="ORCID"><i class="bi bi-patch-check-fill"></i></a>
+      <a href="https://www.researchgate.net/profile/David_Carslaw" title="ResearchGate"><i class="bi bi-journal-richtext"></i></a>
+      <a href="https://github.com/davidcarslaw" title="GitHub"><i class="bi bi-github"></i></a>
+    </div>
+  </div>
+
+  <div>
+    <h2>Biography</h2>
+    <p>
+      I have a joint position between the
+      <a href="https://www.york.ac.uk/chemistry/">University of York</a> Department
+      of Chemistry where I am a Professor of Urban Air Pollution and
+      <a href="https://ee.ricardo.com/">Ricardo</a> where I
+      am a Technical Director.
+    </p>
+    <p>
+      My research interests are focused on the development of new data analysis
+      techniques to better-understand air pollution and vehicle emissions remote
+      sensing. I have published widely on both topics.
+    </p>
+    <p>
+      I have developed the <a href="http://davidcarslaw.github.io/openair/">openair</a>
+      R package that is widely used throughout the world by academia, governmental
+      bodies and the private sector.
+    </p>
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 1.5rem;">
+      <div>
+        <h3 style="font-size: 1rem; margin-bottom: 0.5rem;">Interests</h3>
+        <ul style="margin: 0; padding-left: 1.2rem; font-size: 0.95rem;">
+          <li>Air Pollution</li>
+          <li>Vehicle Emissions</li>
+          <li>Data Analysis &amp; Statistics</li>
+          <li>The <a href="http://davidcarslaw.github.io/openair/">openair</a> R package</li>
+        </ul>
+      </div>
+      <div>
+        <h3 style="font-size: 1rem; margin-bottom: 0.5rem;">Education</h3>
+        <ul style="margin: 0; padding-left: 1.2rem; font-size: 0.95rem; list-style: none;">
+          <li><strong>PhD</strong> in Air Pollution<br><small>King's College London, 2005</small></li>
+          <li style="margin-top: 0.4rem;"><strong>MSc</strong> in Atmospheric Science<br><small>University of East Anglia, 1990</small></li>
+          <li style="margin-top: 0.4rem;"><strong>BSc</strong> in Physics<br><small>University of Sussex, 1987</small></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+
+<div class="highlight-cards">
+  <div class="highlight-card">
+    <a href="publications/">
+      <div class="card-icon"><i class="bi bi-file-earmark-text"></i></div>
+      <h3>Publications</h3>
+      <p>Peer-reviewed journal articles and conference papers</p>
+    </a>
+  </div>
+  <div class="highlight-card">
+    <a href="research/">
+      <div class="card-icon"><i class="bi bi-graph-up"></i></div>
+      <h3>Research</h3>
+      <p>Urban air pollution, vehicle emissions, data analysis</p>
+    </a>
+  </div>
+  <div class="highlight-card">
+    <a href="posts/">
+      <div class="card-icon"><i class="bi bi-rss"></i></div>
+      <h3>Posts</h3>
+      <p>Technical notes mostly aimed at openair users</p>
+    </a>
+  </div>
+</div>
+
+<hr class="section-divider">
+
+<div class="contact-section">
+  <h2>Contact</h2>
+  <p>Wolfson Atmospheric Chemistry Laboratories, Department of Chemistry, University of York, Heslington, York, YO10 5DDA</p>
+  <div class="contact-grid">
+    <div class="contact-item">
+      <i class="bi bi-envelope"></i>
+      <a href="mailto:david.carslaw@york.ac.uk">david.carslaw@york.ac.uk</a>
+    </div>
+    <div class="contact-item">
+      <i class="bi bi-telephone"></i>
+      <span>+44 (0) 1904 321218</span>
+    </div>
+    <div class="contact-item">
+      <i class="bi bi-twitter-x"></i>
+      <a href="https://twitter.com/davidcarslaw">@davidcarslaw</a>
+    </div>
+    <div class="contact-item">
+      <i class="bi bi-patch-check"></i>
+      <a href="https://orcid.org/0000-0003-0991-950X">ORCID 0000-0003-0991-950X</a>
+    </div>
+  </div>
+</div>
+```

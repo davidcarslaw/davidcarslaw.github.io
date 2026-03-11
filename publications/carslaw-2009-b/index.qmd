@@ -1,0 +1,23 @@
+---
+title: Modelling trends in OH radical concentrations using generalized additive models
+date: '2009-01-01'
+author:
+- L.S. Jackson
+- N. Carslaw
+- D.C. Carslaw
+- K.M. Emmerson
+categories:
+- Journal Article
+publication: '*Atmospheric Chemistry and Physics*'
+---
+
+## Modelling trends in OH radical concentrations using generalized additive models
+
+<p class="pub-meta">L.S. Jackson, N. Carslaw, D.C. Carslaw, K.M. Emmerson</p>
+
+_*Atmospheric Chemistry and Physics*_, 2009
+
+
+<div class="pub-links">
+<a href="carslaw-2009-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

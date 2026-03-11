@@ -1,0 +1,41 @@
+---
+title: Source apportionment advances using polar plots of bivariate correlation and regression statistics
+date: '2016-01-01'
+author:
+- S.K. Grange
+- A.C. Lewis
+- D.C. Carslaw
+categories:
+- Journal Article
+abstract: This paper outlines the development of enhanced bivariate polar plots that allow the concentrations of two pollutants
+  to be compared using pair-wise statistics for exploring the sources of atmospheric pollutants. The new method combines bivariate
+  polar plots, which provide source characteristic information, with pair-wise statistics that provide information on how
+  two pollutants are related to one another. The pair-wise statistics implemented include weighted Pearson correlation and
+  slope from two linear regression methods. The development uses a Gaussian kernel to locally weight the statistical calculations
+  on a wind speed-direction surface together with variable-scaling. Example applications of the enhanced polar plots are presented
+  by using routine air quality data for two monitoring sites in London, United Kingdom for a single year (2013). The London
+  examples demonstrate that the combination of bivariate polar plots, correlation, and regression techniques can offer considerable
+  insight into air pollution source characteristics, which would be missed if only scatter plots and mean polar plots were
+  used for analysis. Specifically, using correlation and slopes as pair-wise statistics, long-range transport processes were
+  isolated and black carbon (BC) contributions to PM$_{2.5}$ for a kerbside monitoring location were quantified. Wider applications
+  and future advancements are also discussed.
+doi: 10.1016/j.atmosenv.2016.09.016
+publication: '*Atmospheric Environment*'
+---
+
+## Source apportionment advances using polar plots of bivariate correlation and regression statistics
+
+<p class="pub-meta">S.K. Grange, A.C. Lewis, D.C. Carslaw</p>
+
+_*Atmospheric Environment*_, 2016
+
+
+<div class="pub-abstract">
+This paper outlines the development of enhanced bivariate polar plots that allow the concentrations of two pollutants to be compared using pair-wise statistics for exploring the sources of atmospheric pollutants. The new method combines bivariate polar plots, which provide source characteristic information, with pair-wise statistics that provide information on how two pollutants are related to one another. The pair-wise statistics implemented include weighted Pearson correlation and slope from two linear regression methods. The development uses a Gaussian kernel to locally weight the statistical calculations on a wind speed-direction surface together with variable-scaling. Example applications of the enhanced polar plots are presented by using routine air quality data for two monitoring sites in London, United Kingdom for a single year (2013). The London examples demonstrate that the combination of bivariate polar plots, correlation, and regression techniques can offer considerable insight into air pollution source characteristics, which would be missed if only scatter plots and mean polar plots were used for analysis. Specifically, using correlation and slopes as pair-wise statistics, long-range transport processes were isolated and black carbon (BC) contributions to PM$_{2.5}$ for a kerbside monitoring location were quantified. Wider applications and future advancements are also discussed.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.atmosenv.2016.09.016" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+<a href="carslaw-2016-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

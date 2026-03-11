@@ -1,0 +1,21 @@
+---
+title: The impact of congestion charging on vehicle speed and its implications for assessing vehicle emissions
+date: '2005-01-01'
+author:
+- S.D. Beevers
+- D.C. Carslaw
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## The impact of congestion charging on vehicle speed and its implications for assessing vehicle emissions
+
+<p class="pub-meta">S.D. Beevers, D.C. Carslaw</p>
+
+_*Atmospheric Environment*_, 2005
+
+
+<div class="pub-links">
+<a href="carslaw-2005-e.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

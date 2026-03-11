@@ -1,0 +1,21 @@
+---
+title: 'New directions: Use of vehicle position information provides a novel tool for emissions inventory development'
+date: '2002-01-01'
+author:
+- S.D. Beevers
+- D.C. Carslaw
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## New directions: Use of vehicle position information provides a novel tool for emissions inventory development
+
+<p class="pub-meta">S.D. Beevers, D.C. Carslaw</p>
+
+_*Atmospheric Environment*_, 2002
+
+
+<div class="pub-links">
+<a href="carslaw-2002-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

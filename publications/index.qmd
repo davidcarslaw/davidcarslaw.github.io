@@ -1,0 +1,19 @@
+---
+title: "Publications"
+toc: false
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: table
+  fields: [title, author, publication, date, categories]
+  field-display-names:
+    publication: "Journal"
+    date: "Year"
+    author: "Authors"
+    categories: "Type"
+  date-format: "YYYY"
+  filter-ui: [title, author, publication, categories]
+  sort-ui: [date, title, publication]
+  categories: true
+  page-size: 30
+---

@@ -1,0 +1,25 @@
+---
+title: 'Corrigendum to "Occupant exposure to indoor air pollutants in modern European offices: An integrated modelling approach
+  [Atmos. Environ. 82 (2014) 9-16]"'
+date: '2014-01-01'
+author:
+- A.C. Terry
+- N. Carslaw
+- M. Ashmore
+- S. Dimitroulopoulou
+- D.C. Carslaw
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## Corrigendum to "Occupant exposure to indoor air pollutants in modern European offices: An integrated modelling approach [Atmos. Environ. 82 (2014) 9-16]"
+
+<p class="pub-meta">A.C. Terry, N. Carslaw, M. Ashmore, S. Dimitroulopoulou, D.C. Carslaw</p>
+
+_*Atmospheric Environment*_, 2014
+
+
+<div class="pub-links">
+<a href="carslaw-2014-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

@@ -1,0 +1,22 @@
+---
+title: Change-point detection of gaseous and particulate traffic-related pollutants at a roadside location
+date: '2006-01-01'
+author:
+- D.C. Carslaw
+- K. Ropkins
+- M.C. Bell
+categories:
+- Journal Article
+publication: '*Environmental Science and Technology*'
+---
+
+## Change-point detection of gaseous and particulate traffic-related pollutants at a roadside location
+
+<p class="pub-meta">D.C. Carslaw, K. Ropkins, M.C. Bell</p>
+
+_*Environmental Science and Technology*_, 2006
+
+
+<div class="pub-links">
+<a href="carslaw-2006.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

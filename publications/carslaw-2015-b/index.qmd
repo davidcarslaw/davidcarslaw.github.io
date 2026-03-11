@@ -1,0 +1,29 @@
+---
+title: Measurement of NO$_x$ fluxes from a tall tower in central London, UK and comparison with emissions inventories
+date: '2015-01-01'
+author:
+- J.D. Lee
+- C. Helfter
+- R.M. Purvis
+- S.D. Beevers
+- D.C. Carslaw
+- A.C. Lewis
+- S.J. Møller
+- A. Tremper
+- A. Vaughan
+- E.G. Nemitz
+categories:
+- Journal Article
+publication: '*Environmental Science and Technology*'
+---
+
+## Measurement of NO$_x$ fluxes from a tall tower in central London, UK and comparison with emissions inventories
+
+<p class="pub-meta">J.D. Lee, C. Helfter, R.M. Purvis, S.D. Beevers, D.C. Carslaw, A.C. Lewis, S.J. Møller, A. Tremper, A. Vaughan, E.G. Nemitz</p>
+
+_*Environmental Science and Technology*_, 2015
+
+
+<div class="pub-links">
+<a href="carslaw-2015-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

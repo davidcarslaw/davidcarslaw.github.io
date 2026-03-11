@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "index.qmd"
+    - "publications/**/*.qmd"
+    - "research/**/*.qmd"
+    - "posts/**/*.qmd"
+  resources:
+    - "static/**"
+    - "img/**"
+
+website:
+  title: "David Carslaw"
+  site-url: https://davidcarslaw.com
+  description: "Reader in Air Pollution, University of York"
+
+  navbar:
+    background: primary
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: posts/index.qmd
+        text: Posts
+      - href: research/index.qmd
+        text: Research
+      - href: publications/index.qmd
+        text: Publications
+    right:
+      - icon: github
+        href: https://github.com/davidcarslaw
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/DavidCarslaw
+        aria-label: Twitter
+
+  page-footer:
+    center: |
+      © David Carslaw &nbsp;·&nbsp;
+      [University of York](https://www.york.ac.uk/chemistry/)
+
+  google-analytics: "UA-140402050-1"
+
+  open-graph: true
+  twitter-card:
+    creator: "@DavidCarslaw"
+    card-style: summary
+
+format:
+  html:
+    theme: [flatly, styles/custom.scss]
+    toc: false
+    link-external-icon: false
+    link-external-newwindow: true
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 200px
+
+execute:
+  freeze: auto

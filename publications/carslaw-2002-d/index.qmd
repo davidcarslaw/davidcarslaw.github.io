@@ -1,0 +1,21 @@
+---
+title: The efficacy of low emission zones in central London as a means of reducing nitrogen dioxide concentrations
+date: '2002-01-01'
+author:
+- D.C. Carslaw
+- S.D. Beevers
+categories:
+- Journal Article
+publication: '*Transportation Research Part D: Transport and Environment*'
+---
+
+## The efficacy of low emission zones in central London as a means of reducing nitrogen dioxide concentrations
+
+<p class="pub-meta">D.C. Carslaw, S.D. Beevers</p>
+
+_*Transportation Research Part D: Transport and Environment*_, 2002
+
+
+<div class="pub-links">
+<a href="carslaw-2002-d.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

@@ -1,0 +1,23 @@
+---
+title: Comprehensive analysis of the carbon impacts of vehicle intelligent speed control
+date: '2010-01-01'
+author:
+- D.C. Carslaw
+- P.S. Goodman
+- F.C.H. Lai
+- O.M.J. Carsten
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## Comprehensive analysis of the carbon impacts of vehicle intelligent speed control
+
+<p class="pub-meta">D.C. Carslaw, P.S. Goodman, F.C.H. Lai, O.M.J. Carsten</p>
+
+_*Atmospheric Environment*_, 2010
+
+
+<div class="pub-links">
+<a href="carslaw-2010.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

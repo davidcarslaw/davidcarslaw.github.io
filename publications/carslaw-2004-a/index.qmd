@@ -1,0 +1,21 @@
+---
+title: 'New Directions: Should road vehicle emissions legislation consider primary NO$_2$?'
+date: '2004-01-01'
+author:
+- D.C. Carslaw
+- S.D. Beevers
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## New Directions: Should road vehicle emissions legislation consider primary NO$_2$?
+
+<p class="pub-meta">D.C. Carslaw, S.D. Beevers</p>
+
+_*Atmospheric Environment*_, 2004
+
+
+<div class="pub-links">
+<a href="carslaw-2004-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

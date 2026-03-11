@@ -3,6 +3,14 @@
 .RData
 .Ruserdata
 blogdown
-.DS_Store 
+.DS_Store
 public/
 davidcarslaw.github.io.Rproj
+
+# Quarto
+/.quarto/
+/_freeze/
+/docs/
+*.Rproj
+
+**/*.quarto_ipynb

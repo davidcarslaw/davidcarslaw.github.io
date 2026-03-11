@@ -1,0 +1,11 @@
+---
+title: "Posts"
+toc: false
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: default
+  fields: [image, date, title, description, categories]
+  categories: true
+  feed: true
+---

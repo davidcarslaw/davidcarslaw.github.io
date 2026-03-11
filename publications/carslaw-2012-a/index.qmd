@@ -1,0 +1,23 @@
+---
+title: One way coupling of CMAQ and a road source dispersion model for fine scale air pollution predictions
+date: '2012-01-01'
+author:
+- S.D. Beevers
+- N. Kitwiroon
+- M.L. Williams
+- D.C. Carslaw
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## One way coupling of CMAQ and a road source dispersion model for fine scale air pollution predictions
+
+<p class="pub-meta">S.D. Beevers, N. Kitwiroon, M.L. Williams, D.C. Carslaw</p>
+
+_*Atmospheric Environment*_, 2012
+
+
+<div class="pub-links">
+<a href="carslaw-2012-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

@@ -1,0 +1,21 @@
+---
+title: Dispersion modelling considerations for transient emissions from elevated point sources
+date: '2002-01-01'
+author:
+- D.C. Carslaw
+- S.D. Beevers
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## Dispersion modelling considerations for transient emissions from elevated point sources
+
+<p class="pub-meta">D.C. Carslaw, S.D. Beevers</p>
+
+_*Atmospheric Environment*_, 2002
+
+
+<div class="pub-links">
+<a href="carslaw-2002-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

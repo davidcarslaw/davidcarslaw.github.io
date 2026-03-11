@@ -1,0 +1,23 @@
+---
+title: Risks of exceeding the hourly EU limit value for nitrogen dioxide resulting from increased road transport emissions
+  of primary nitrogen dioxide
+date: '2007-01-01'
+author:
+- D.C. Carslaw
+- S.D. Beevers
+- M.C. Bell
+categories:
+- Journal Article
+publication: '*Atmospheric Environment*'
+---
+
+## Risks of exceeding the hourly EU limit value for nitrogen dioxide resulting from increased road transport emissions of primary nitrogen dioxide
+
+<p class="pub-meta">D.C. Carslaw, S.D. Beevers, M.C. Bell</p>
+
+_*Atmospheric Environment*_, 2007
+
+
+<div class="pub-links">
+<a href="carslaw-2007-f.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>
