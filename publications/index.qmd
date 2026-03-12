@@ -1,19 +1,30 @@
 ---
-title: "Publications"
-toc: false
-listing:
-  contents: "*/index.qmd"
+title: "Publications" 
+description: |
+  This is home for my research publications, each linked with<br>
+  accompanying preprints, posters, and/or news pieces.
+listing: 
+  contents: 
+    - "**/index.qmd"
+    - "**/index.markdown"
+    - "**/index.md"
   sort: "date desc"
-  type: table
-  fields: [title, author, publication, date, categories]
-  field-display-names:
-    publication: "Journal"
-    date: "Year"
-    author: "Authors"
-    categories: "Type"
-  date-format: "YYYY"
-  filter-ui: [title, author, publication, categories]
-  sort-ui: [date, title, publication]
-  categories: true
-  page-size: 30
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, author, categories, date]
+  image-align: left
+  # image-height: 10em
+  # page-size: 5
+
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/listing-default.css">
+resources:
+  - ../assets/listing-default.css
 ---

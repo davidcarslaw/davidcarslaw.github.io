@@ -1,0 +1,39 @@
+---
+title: "Calculation of Distance-Based Emission Factors from Vehicle Emission Remote Sensing Measurements."
+author: 
+- Jack Davison
+- Yoann Bernard
+- Jens Borken-Kleefeld
+- Naomi J. Farren
+- Stefan Hausberger
+- Ake Sjödin
+- James E. Tate
+- Adam R. Vaughan
+- David C Carslaw
+date: 2020-10-15
+image: featured.png
+categories:
+  - research 
+  - vehicle emissions
+description: 'Emission Factors are a key component of air quality models, but are often derived from laboratory measurements that may not be representative of real-world conditions. This study presents a method for calculating distance-based EFs from vehicle emission remote sensing measurements, which can provide more accurate estimates of emissions in real-world driving conditions.'
+subtitle:  Calculation of g km^-1^ emission factors for passenger cars from vehicle emission remote sesning data.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.scitotenv.2020.139688
+---
+
+## Abstract
+
+## Calculation of Distance-Based Emission Factors from Vehicle Emission Remote Sensing Measurements
+
+_*Science of the Total Environment*_, 2020
+
+<div class="pub-abstract">
+Vehicle emission remote sensing has the potential to provide detailed emissions information at a highly disaggregated level owing to the ability to measure thousands of vehicles in a single day. Fundamentally, vehicle emission remote sensing provides a direct measure of the molar volume ratio of a pollutant to carbon dioxide, from which fuel-based emissions factors can readily be calculated. However, vehicle emissions are more commonly expressed in emission per unit distance travelled e.g. grams per km or mile. To express vehicle emission remote sensing data in this way requires an estimate of the fuel consumption at the time of the emission measurement. In this paper, an approach is developed based on vehicle specific power that uses commonly measured or easily obtainable vehicle information such as vehicle speed, acceleration and mass. We test the approach against 55 independent comprehensive PEMS measurements for Euro 5 and 6 gasoline and diesel vehicles over a wide range of driving conditions and find good agreement between the method and PEMS data. The method is applied to individual vehicle model types to quantify distance-based emission factors. The method will be appropriate for application to larger vehicle emission remote sensing databases, thus extending real-world distance-based vehicle emissions information.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.scitotenv.2020.139688" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

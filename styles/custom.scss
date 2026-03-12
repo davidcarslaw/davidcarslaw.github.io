@@ -274,6 +274,18 @@ pre code {
     font-size: 0.85rem;
     padding: 0.3rem 0.75rem;
   }
+
+  .btn-primary {
+    color: #ffffff !important;
+    background: $primary !important;
+    border-color: $primary;
+
+    &:hover, &:focus {
+      background: lighten($primary, 10%) !important;
+      border-color: lighten($primary, 10%);
+      color: #ffffff !important;
+    }
+  }
 }
 
 .pub-badge {
