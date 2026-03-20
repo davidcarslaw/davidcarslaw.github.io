@@ -1,0 +1,34 @@
+---
+title: "Indoor Cooking and Cleaning as a Source of Outdoor Air Pollution in Urban Environments"
+author:
+- T.J. Carter
+- D.R. Shaw
+- David C Carslaw
+- N. Carslaw
+date: 2024-06-01
+categories:
+  - research
+  - air quality
+  - indoor air quality
+description: 'Using INCHEM-Py and ADMS modelling, indoor cooking and cleaning are shown to elevate outdoor concentrations of volatile organic compounds including acetaldehyde and chloroform, and while their contribution to total UK VOC emissions is low, they become relatively more important as traffic emissions continue to decline.'
+subtitle: Modelling the impact of indoor cooking and cleaning on outdoor air quality in an urban street environment.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1039/D3EM00512G
+---
+
+## Abstract
+
+## Indoor Cooking and Cleaning as a Source of Outdoor Air Pollution in Urban Environments
+
+_*Environmental Science: Processes & Impacts*_, Vol. 26, Issue 6, pp. 975–990, 2024
+
+<div class="pub-abstract">
+Indoor sources of air pollution, such as from cooking and cleaning, play a key role in indoor gas-phase chemistry. The focus of the impact of these activities on air quality tends to be indoors, with less attention given to the impact on air quality outside buildings. This study uses the INdoor CHEmical Model in Python (INCHEM-Py) and the Advanced Dispersion Modelling System (ADMS) to quantify the impact cooking and cleaning have on indoor and outdoor air quality for an idealised street of houses. INCHEM-Py has been developed to determine the concentrations of 106 indoor volatile organic compounds at the point they leave a building (defined as near-field concentrations). For a simulated 140 m long street with 10 equi-distant houses undertaking cooking and cleaning activities, the maximum downwind concentration of acetaldehyde increases from a background value of 0.1 ppb to 0.9 ppb post-cooking, whilst the maximum downwind chloroform concentrations increase from 1.2 to 6.2 ppt after cleaning. Although emissions to outdoors are higher when cooking and cleaning happen indoors, the contribution of these activities to total UK emissions of volatile organic compounds is low (less than 1%), and comprise about a quarter of those emitted from traffic across the UK. It is important to quantify these emissions, particularly as continued vehicle technology improvements lead to lower direct emissions outdoors, making indoor emissions relatively more important. Understanding how indoor pollution can affect outdoor environments, will allow better mitigation measures to be designed in the future that can take into account all sources of pollution that contribute to human exposure.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1039/D3EM00512G" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

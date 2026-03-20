@@ -6,7 +6,7 @@ image: featured.png
 categories: [R, openair]
 ---
 
-`openair` is an [R](https://www.r-project.org) package that has been developed for the analysis of air pollution data. It provides many functions that are commonly useful for data analysis ([Carslaw and Ropkins, 2012](../../publications/carslaw-2012-b/)). The main development site is available [here](https://github.com/davidcarslaw/openair) on GitHub. There is also detailed information available in the [openair manual](../../static/files/openairManual.pdf){target="_blank"}.
+`openair` is an [R](https://www.r-project.org) package that has been developed for the analysis of air pollution data. It provides many functions that are commonly useful for data analysis ([Carslaw and Ropkins, 2012](../../publications/carslaw-2012-b/)). The main development site is available [here](https://github.com/openair-project) on GitHub. There is also detailed information available in the [openair manual](https://openair-project.github.io/book/).
 
 Briefly, some of the main functions in `openair` include:
 

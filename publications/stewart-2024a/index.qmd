@@ -1,0 +1,39 @@
+---
+title: "New NO~x~ and NO~2~ Vehicle Emission Curves, and Their Implications for Emissions Inventories and Air Quality Modelling"
+author:
+- G.B. Stewart
+- D. Dajnak
+- Jack Davison
+- David C Carslaw
+- A.v. Beddows
+- N. Phantawesak
+- M.E.J. Stettler
+- M.J. Hollaway
+- S.D. Beevers
+date: 2024-01-01
+categories:
+  - research
+  - vehicle emissions
+  - air quality modelling
+description: 'New speed-emission curves for NO~x~ derived from nearly 500,000 UK remote sensing measurements and vehicle drive cycles substantially improve air pollution model performance for London, revealing higher emissions from Euro VI HGVs and successive passenger cars than existing curves, and changing the normalised mean bias for NO~x~ from −0.18 to +0.01.'
+subtitle: New NO~x~ speed-emission curves from remote sensing data improve air quality model performance in London.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.uclim.2024.102103
+---
+
+## Abstract
+
+## New NO~x~ and NO~2~ Vehicle Emission Curves, and Their Implications for Emissions Inventories and Air Quality Modelling
+
+_*Urban Climate*_, Vol. 57, 102103, 2024
+
+<div class="pub-abstract">
+Emissions of NO~x~ and primary NO~2~ from road transport sources are highly influential in NO~2~ exposure at both local and regional scales; quantifying these accurately is therefore an important but challenging component of emissions inventory and air pollution model development. Results are presented from an urban air pollution model, after creation of new speed-emissions curves for NO~x~ through the combination of available vehicle drive cycles and nearly 500,000 UK-based remote sensing measurements of exhaust emissions. Vehicle power-based relationships are applied to 1 Hz drive cycle datasets, with random sampling of the outputs allowing generation of the new curves. These demonstrate significantly higher emissions than those predicted by existing curves for most Euro VI HGVs, and among successive petrol and diesel passenger cars; this may be partly explained by relatively low UK ambient temperatures, as well as an underestimation of the level of tampering with HGV SCR systems. Implementation of the curves in a detailed emissions inventory for London, UK in 2019 leads to substantially improved air pollution model performance for NO~x~/NO~2~; normalised mean bias reduces in magnitude, changing from −0.18 to +0.01 for NO~x~ and −0.12 to +0.01 for NO~2~. The curves developed are widely applicable, and the novel approach outlined has the potential to improve source apportionment and future model predictions under differing policy scenarios, produce better exposure estimates for health-related studies and revise NO~x~ emissions budgets for compliance with the NEC Directive, all of which are important for the development of mitigation policies.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.uclim.2024.102103" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

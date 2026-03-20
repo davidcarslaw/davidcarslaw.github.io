@@ -1,0 +1,39 @@
+---
+title: "Emission Ratio Determination from Road Vehicles Using a Range of Remote Emission Sensing Techniques"
+author:
+- Naomi J. Farren
+- C. Schmidt
+- H. Juchem
+- D. Pöhler
+- S.E. Wilde
+- R.L. Wagner
+- S. Wilson
+- M.D. Shaw
+- David C Carslaw
+date: 2023-01-01
+categories:
+  - research
+  - vehicle emissions
+  - remote sensing
+description: 'A rolling regression method applied to plume chasing and point sampling data can quantify gaseous exhaust emission ratios from individual vehicles, validated against on-board measurements, and is used to detect aftertreatment tampering, determine NO~2~/NO~x~ ratios by vehicle type, and characterise urban emissions in Milan.'
+subtitle: A unified rolling regression approach to remote emission sensing quantifies vehicle emission ratios and detects aftertreatment tampering.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.scitotenv.2023.162621
+---
+
+## Abstract
+
+## Emission Ratio Determination from Road Vehicles Using a Range of Remote Emission Sensing Techniques
+
+_*Science of the Total Environment*_, Vol. 875, 162621, 2023
+
+<div class="pub-abstract">
+The development of remote emission sensing techniques such as plume chasing and point sampling has progressed significantly and is providing new insight into vehicle emissions behaviour. However, the analysis of remote emission sensing data can be highly challenging and there is currently no standardised method available. In this study we present a single data processing approach to quantify vehicle exhaust emissions measured using a range of remote emission sensing techniques. The method uses rolling regression calculated over short time intervals to derive the characteristics of diluting plumes. We apply the method to high time-resolution plume chasing and point sampling data to quantify gaseous exhaust emission ratios from individual vehicles. Data from a series of vehicle emission characterisation experiments conducted under controlled conditions is used to demonstrate the potential of this approach. First, the method is validated through comparison with on-board emission measurements. Second, the ability of this approach to detect changes in NO~x~/CO~2~ ratios associated with aftertreatment system tampering and different engine operating conditions is shown. Third, the flexibility of the approach is demonstrated by varying the pollutants used as regression variables and quantifying the NO~2~/NO~x~ ratios for different vehicle types. A higher proportion of total NO~x~ is emitted as NO~2~ when the selective catalytic reduction system of the measured heavy duty truck is tampered. In addition, the applicability of this approach to urban environments is illustrated using mobile measurements conducted in Milan, Italy in 2021. Emissions from local combustion sources are distinguished from a complex urban background and the spatiotemporal variability in emissions is shown. The mean NO~x~/CO~2~ ratio of 1.61 ppb/ppm is considered representative of the local vehicle fleet. It is envisaged that this approach can be used to quantify emissions from a range of mobile and stationary fuel combustion sources, including non-road vehicles, ships, trains, boilers and incinerators.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.scitotenv.2023.162621" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

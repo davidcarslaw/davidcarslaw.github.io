@@ -1,0 +1,38 @@
+---
+title: "The Impact on Passenger Car Emissions Associated with the Promotion and Demise of Diesel Fuel"
+author:
+- S. Wilson
+- Naomi J. Farren
+- R.A. Rose
+- S.E. Wilde
+- Jack Davison
+- J.V. Wareham
+- J.D. Lee
+- David C Carslaw
+date: 2023-11-01
+categories:
+  - research
+  - vehicle emissions
+  - policy
+description: 'Using over 600,000 real-world vehicle emission remote sensing measurements spanning multiple decades, the promotion of diesel cars in the UK is estimated to have caused 721 kt of excess NO~x~ emissions at a damage cost of £5.875 billion, while the post-Dieselgate decline in diesel use only reduced NO~x~ by 41 kt due to the effectiveness of modern aftertreatment systems.'
+subtitle: Multi-decade analysis of UK passenger car emissions quantifies the NO~x~ impact of the rise and fall of diesel fuel use.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.envint.2023.108330
+---
+
+## Abstract
+
+## The Impact on Passenger Car Emissions Associated with the Promotion and Demise of Diesel Fuel
+
+_*Environment International*_, Vol. 182, 108330, 2023
+
+<div class="pub-abstract">
+The promotion and growth in the use of diesel fuel in passenger cars in the UK and Europe over the past two decades led to considerable adverse air quality impacts in urban areas and more widely. In this work, we construct a multi-decade analysis of passenger car emissions in the UK based on real driving emissions data. An important part of the study is the use of extensive vehicle emission remote sensing data covering multiple measurement locations, time periods, environmental conditions and consisting of over 600,000 measurements. These data are used to consider two scenarios: first, that diesel fuel use was not promoted in the early 2000s for climate mitigation reasons, and second, that there was not a dramatic decline in diesel fuel use following the Dieselgate scandal. The strong growth of diesel fuel use coincided with a time when diesel NO~x~ emissions were high and, conversely, the strong decrease of diesel fuel use coincided with a time when diesel vehicle after-treatment systems for NO~x~ control were effective. We estimate that the growth in diesel car use in the UK results in excess NO~x~ emissions of 721 kt over a three decade period; equivalent to over 7 times total annual passenger car NO~x~ emissions and greater than total UK NO~x~ emissions of 681.8 kt in 2021 and with an associated damage cost of £5.875 billion. However, the sharp move away from diesel fuel post-Dieselgate only reduced NO~x~ emissions by 41 kt owing to the effectiveness of modern diesel aftertreatment systems.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.envint.2023.108330" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

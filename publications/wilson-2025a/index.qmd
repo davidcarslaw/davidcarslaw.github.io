@@ -1,0 +1,38 @@
+---
+title: "Influence of Vehicle Design on Near-Road Concentrations of Traffic-Related Air Pollutants"
+author:
+- D. Wilson
+- Naomi J. Farren
+- Y. Bernard
+- M.D. Shaw
+- K. Lee
+- M. Crowe
+- J.D. Lee
+- David C Carslaw
+date: 2025-06-01
+categories:
+  - research
+  - vehicle emissions
+  - air quality
+description: 'Plume regression measurements show that the position of a vehicle exhaust (left vs right side) results in a 40% difference in curbside pollutant concentrations, and that electric vehicles reduce near-road exposure by diluting exhaust plumes through vehicle-induced turbulence.'
+subtitle: Vehicle exhaust position and electric vehicle turbulence effects on near-road traffic-related air pollutant concentrations.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1021/acsestair.5c00059
+---
+
+## Abstract
+
+## Influence of Vehicle Design on Near-Road Concentrations of Traffic-Related Air Pollutants
+
+_*ACS ES&T Air*_, Vol. 2, Issue 6, pp. 1089–1098, 2025
+
+<div class="pub-abstract">
+Exposure to traffic-related air pollution (TRAP) is an ongoing health concern worldwide, particularly close to roads where concentrations are the highest. Near-road exposure is influenced by factors such as vehicle exhaust emission rates, pollutant composition, and dispersion behavior. In this work we apply a recently developed technique called plume regression based on fast-response roadside measurements, to better understand the variables affecting near-road TRAP concentrations. Of specific interest is determining the extent to which vehicle design and physical characteristics affect roadside exposure to important pollutants such as nitrogen oxides (NO~x~ = NO + NO~2~). We find that the position of passenger car's exhaust (tailpipe)─whether on the left or right side─results in a 40% difference in pollutant concentration contribution at the curbside. In the UK, only 20.1% of diesel passenger cars, the most significant vehicle class contributors to NO~x~ emissions, have their exhausts positioned on the right, the position associated with the lowest concentrations. If all diesel cars in the UK were equipped with right-positioned exhausts─the side farthest from the curb, curbside concentrations from these vehicles would be reduced by one-third. We also find evidence that electric vehicles (EVs) act to dilute the exhaust plumes of proximate fossil-fueled vehicles through vehicle-induced turbulence, reducing near-road TRAP exposure, a hitherto unrealized benefit of EVs.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1021/acsestair.5c00059" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

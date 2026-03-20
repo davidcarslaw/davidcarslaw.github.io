@@ -1,0 +1,37 @@
+---
+title: "An Ambient Measurement Technique for Vehicle Emission Quantification and Concentration Source Apportionment"
+author:
+- Naomi J. Farren
+- S. Wilson
+- Y. Bernard
+- M.D. Shaw
+- K. Lee
+- M. Crowe
+- David C Carslaw
+date: 2024-11-01
+categories:
+  - research
+  - vehicle emissions
+  - air quality
+description: 'A new plume regression technique using roadside fast-response instruments enables highly disaggregated vehicle emissions quantification and ambient concentration source apportionment, revealing that gasoline passenger cars dominate ammonia emissions while diesel vehicles with SCR systems have very low NH~3~ emissions.'
+subtitle: Plume regression technique for vehicle emission quantification and concentration source apportionment of NH~3~ and NO~x~.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1021/acs.est.4c07907
+---
+
+## Abstract
+
+## An Ambient Measurement Technique for Vehicle Emission Quantification and Concentration Source Apportionment
+
+_*Environmental Science & Technology*_, Vol. 58, Issue 45, pp. 20091–20100, 2024
+
+<div class="pub-abstract">
+We develop a new technique called plume regression where fast response instruments located at the roadside are used to measure exhaust plumes of passing vehicles. The approach is used to generate highly disaggregated vehicle emissions information by vehicle type, which compares well with traditional vehicle emission remote sensing. Additionally, the technique provides valuable new information on ambient concentration source apportionment by vehicle type. The technique is flexible enough to consider a wide range of air pollutants and be deployed at roadside ambient monitoring locations. The new approach is used to quantify emissions and concentration source apportionment for ammonia (NH~3~) and nitrogen oxides (NO~x~). We find that emissions of NH~3~ are generally very well controlled from diesel vehicles including those with selective catalytic reduction systems that use NH~3~ to reduce emissions of NO~x~. By contrast, gasoline passenger cars are shown to be the dominant contributor to NH~3~ emissions, which increase with vehicle mileage. Average fuel-specific NH~3~ emission factors for gasoline vehicles range from 0.3 to 1.2 g kg−1, while diesel vehicle emission factors remain below 0.06 g kg−1, with the exception of Euro VI buses with the latest regulatory provisions (0.5 g kg−1).
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1021/acs.est.4c07907" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

@@ -1,0 +1,39 @@
+---
+title: "An Increasing Role for Solvent Emissions and Implications for Future VOC Measurement Strategies"
+author:
+- A.C. Lewis
+- J.R. Hopkins
+- David C Carslaw
+- J.F. Hamilton
+- B. Nelson
+- G. Stewart
+- J. Dernie
+- T. Murrells
+- N. Passant
+date: 2020-01-01
+categories:
+  - research
+  - air quality
+  - VOC emissions
+description: 'UK anthropogenic VOC emissions declined from 2840 kt/yr in 1990 to 810 kt/yr by 2017, with solvents growing from 35% to 63% of total emissions; ethanol is now the single largest emitted VOC at 136 kt/yr, and current monitoring strategies fail to capture 7 of the top 20 emitted species.'
+subtitle: Solvents now dominate UK VOC emissions, with ethanol the largest single source, requiring an overhaul of monitoring strategies designed for 1990s source mixes.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1098/rsta.2019.0328
+---
+
+## Abstract
+
+## An Increasing Role for Solvent Emissions and Implications for Future VOC Measurement Strategies
+
+_*Philosophical Transactions of the Royal Society A*_, Vol. 378, Issue 2183, 20190328, 2020
+
+<div class="pub-abstract">
+Volatile organic compounds (VOCs) are a broad class of air pollutants which act as precursors to tropospheric ozone and secondary organic aerosols. UK anthropogenic VOC emissions peaked at 2840 kt/yr in 1990 and declined to approximately 810 kt/yr by 2017, with the largest reductions from transport and fuel evaporation sources. The contribution from solvents and industrial processes has grown from approximately 35% to 63% of total emissions over this period. Ethanol has become the single largest emitted VOC by mass (approximately 136 kt/yr, representing 16.8% of total emissions), followed by n-butane and methanol. Alcohols as a group have grown from approximately 10% of total emissions in 1990 to 30% by 2017. Current monitoring strategies were designed for the 1990s emission source mix and no longer capture the top emitted compounds: in 1992, monitoring captured 19 of the 20 most abundant anthropogenic VOC species, whereas by 2017 only 13 of the top 20 were included. We recommend that ethanol, methanol, formaldehyde, acetone, 2-butanone and 2-propanol are added to existing monitoring to provide coverage of the 20 most significant emitted VOCs on an annual total mass basis. Monitoring data is currently inadequate to distinguish between the biogenic and anthropogenic components of ethanol and methanol, and targeted studies are needed. These changes in emission source sector and composition have implications for the current approaches to VOC measurement, for the National Emissions Ceiling Directive obligations and for future air quality modelling.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1098/rsta.2019.0328" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

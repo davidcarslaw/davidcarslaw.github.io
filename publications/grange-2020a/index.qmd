@@ -1,0 +1,35 @@
+---
+title: "Post-Dieselgate: Evidence of NO~x~ Emission Reductions Using On-Road Remote Sensing"
+author:
+- Stuart K. Grange
+- Naomi J. Farren
+- A.R. Vaughan
+- Jack Davison
+- David C Carslaw
+date: 2020-06-01
+categories:
+  - research
+  - vehicle emissions
+  - Dieselgate
+description: 'Over 23,000 remote sensing measurements of Euro 5 diesel vehicles show that Volkswagen Group EA189 engines demonstrated anomalous NO~x~ emission changes post-Dieselgate not seen in other makes, with hardware+software fixes reducing emissions by 36% and software-only fixes by 30%, suggesting targeted interventions can substantially reduce NO~x~.'
+subtitle: On-road remote sensing confirms 30–36% NO~x~ emission reductions from Volkswagen Group EA189 engines following post-Dieselgate hardware and software fixes.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1021/acs.estlett.0c00188
+---
+
+## Abstract
+
+## Post-Dieselgate: Evidence of NO~x~ Emission Reductions Using On-Road Remote Sensing
+
+_*Environmental Science & Technology Letters*_, Vol. 7, Issue 6, pp. 382–387, 2020
+
+<div class="pub-abstract">
+The Dieselgate scandal which broke in September 2015 demonstrated that vehicle manufacturers, such as the Volkswagen Group (VWG), engaged in software-based manipulation which led to vehicles passing laboratory-based emission testing limits but were far more polluting while being driven on roads. In this study, we use over 23,000 on-road remote sensing measurements of light-duty Euro 5 diesel vehicles in the United Kingdom between 2012 and 2018 to investigate whether there is evidence of NO~x~ emission changes following the Dieselgate scandal. We find that VWG vehicles with the 'Dieselgate-affected' EA189 engine demonstrated anomalous NO~x~ emission behaviour between the pre- and post-Dieselgate periods which was not observed in other vehicle makes or models. The anomalous changes can be explained by voluntary VWG hardware and software fixes. The 1.6 L engine vehicles, which received a combined hardware and software fix, showed a 36% reduction in NO~x~ emissions, and the 2.0 L engine vehicles, which received a software-only fix, showed a 30% reduction when controlling for ambient temperature. These results suggest that even minor changes or upgrades can considerably reduce NO~x~ emissions, which has implications for future emission control activities and local air quality.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1021/acs.estlett.0c00188" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

@@ -1,0 +1,36 @@
+---
+title: "Verification of a National Emission Inventory and Influence of On-Road Vehicle Manufacturer-Level Emissions"
+author:
+- Jack Davison
+- R.A. Rose
+- Naomi J. Farren
+- R.L. Wagner
+- T.P. Murrells
+- David C Carslaw
+date: 2021-04-01
+categories:
+  - research
+  - vehicle emissions
+  - emissions inventory
+description: 'Bottom-up inventories from real-world remote sensing measurements find UK passenger car and van NO~x~ emissions are underestimated by 24–32% nationally and up to 47% in urban areas, and show that accounting for the manufacturer-specific fleet mix can change country-level NO~x~ estimates by up to 13.4% across six European countries.'
+subtitle: Remote sensing bottom-up inventories reveal underestimation of UK NO~x~ emissions and highlight manufacturer-level fleet composition effects across Europe.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1021/acs.est.0c08363
+---
+
+## Abstract
+
+## Verification of a National Emission Inventory and Influence of On-Road Vehicle Manufacturer-Level Emissions
+
+_*Environmental Science & Technology*_, Vol. 55, Issue 8, pp. 4452–4461, 2021
+
+<div class="pub-abstract">
+Road vehicles make important contributions to a wide range of pollutant emissions from the street level to global scales. The quantification of emissions from road vehicles is, however, highly challenging given the number of individual sources involved and the myriad factors that influence emissions such as fuel type, emission standard, and driving behavior. In this work, we use highly detailed and comprehensive vehicle emission remote sensing measurements made under real driving conditions to develop new bottom-up inventories that can be compared to official national inventory totals. We find that the total UK passenger car and light-duty van emissions of nitrogen oxides (NO~x~) are underestimated by 24–32%, and up to 47% in urban areas, compared with the UK national inventory, despite agreement within 1.5% for total fuel used. Emissions of NO~x~ at a country level are also shown to vary considerably depending on the mix of vehicle manufacturers in the fleet. Adopting the on-road mix of vehicle manufacturers for six European countries results in up to a 13.4% range in total emissions of NO~x~. Accounting for the manufacturer-specific fleets at a country level could have a significant impact on emission estimates of NO~x~ and other pollutants across the European countries, which are not currently reflected in emission inventories.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1021/acs.est.0c08363" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

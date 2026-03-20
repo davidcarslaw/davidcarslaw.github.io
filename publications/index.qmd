@@ -1,8 +1,5 @@
 ---
 title: "Publications" 
-description: |
-  This is home for my research publications, each linked with<br>
-  accompanying preprints, posters, and/or news pieces.
 listing: 
   contents: 
     - "**/index.qmd"

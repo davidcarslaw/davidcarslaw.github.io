@@ -1,0 +1,37 @@
+---
+title: "Highly Disaggregated Particulate and Gaseous Vehicle Emission Factors and Ambient Concentration Apportionment Using a Plume Regression Technique"
+author:
+- Naomi J. Farren
+- M. Knoll
+- A. Bergmann
+- R.L. Wagner
+- M.D. Shaw
+- S. Wilson
+- Y. Bernard
+- David C Carslaw
+date: 2025-06-01
+categories:
+  - research
+  - vehicle emissions
+description: 'Curbside plume measurements from over 27,500 vehicles in Milan were used to calculate highly disaggregated emission factors for NO~x~, particle number, and black carbon, revealing anomalously high emissions from some diesel passenger car manufacturers and demonstrating ambient concentration source apportionment by vehicle type.'
+subtitle: Highly disaggregated vehicle emission factors and ambient concentration apportionment from curbside plume measurements in Milan.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1021/acs.est.5c05015
+---
+
+## Abstract
+
+## Highly Disaggregated Particulate and Gaseous Vehicle Emission Factors and Ambient Concentration Apportionment Using a Plume Regression Technique
+
+_*Environmental Science & Technology*_, Vol. 59, Issue 23, pp. 11698–11707, 2025
+
+<div class="pub-abstract">
+In this study, vehicle plume measurements from over 27,500 vehicles were made using continuous fast-response instruments located at the curbside for nitrogen oxides (NO~x~), particle number (PN), and black carbon (BC) in the city of Milan, Italy. A recently developed plume regression technique is further enhanced to calculate highly disaggregated emission factors for a wide range of vehicle classes. The data reveal a strong improvement in the emissions performance for NO~x~ from passenger cars on going from laboratory to on-road testing. However, for emissions of PN and BC, disaggregation by vehicle manufacturers for diesel passenger cars highlights anomalously high emissions from some manufacturers. Emissions from one manufacturer, which predate on-road testing, are up to a factor of 4 higher than the average of other manufacturers and are among those being scrutinized in several European countries through enhanced periodic technical inspections (PTI) that for the first time considered PN. Near-road concentration source apportionment reveals a broader range of vehicle types contributing to PN and BC compared to NO~x~. The top three contributors to NO~x~ concentrations account for 57% of total NO~x~ but only 28–29% of total PN and BC. These findings have implications for policies such as low-emission zones of the type adopted in Milan and elsewhere in the world. The combination of curbside measurements and plume regression allows for both high-resolution emission measurements and ambient concentration source apportionment.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1021/acs.est.5c05015" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

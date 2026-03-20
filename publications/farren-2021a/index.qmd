@@ -1,0 +1,35 @@
+---
+title: "Characterisation of Ammonia Emissions from Gasoline and Gasoline Hybrid Passenger Cars"
+author:
+- Naomi J. Farren
+- Jack Davison
+- R.A. Rose
+- R.L. Wagner
+- David C Carslaw
+date: 2021-01-01
+categories:
+  - research
+  - vehicle emissions
+  - air quality
+description: 'Analysis of 210,000 remote sensing measurements shows NH~3~ emissions from gasoline passenger cars increase with vehicle mileage, with cold start emissions 1.7 times higher than hot exhaust, and introduces new speed-emission curves and a novel application of CO~2~ failure rates to quantify real-world battery use in hybrid vehicles.'
+subtitle: Real-world NH~3~ emission factors and deterioration rates for gasoline and hybrid passenger cars from remote sensing measurements.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.aeaoa.2021.100117
+---
+
+## Abstract
+
+## Characterisation of Ammonia Emissions from Gasoline and Gasoline Hybrid Passenger Cars
+
+_*Atmospheric Environment: X*_, Vol. 11, 100117, 2021
+
+<div class="pub-abstract">
+Recent evidence suggests NH~3~ emissions from road vehicles play an important role in the formation of fine particulate matter, especially in urban areas. However, there is little data available for NH~3~ emitted from road vehicles under real driving conditions, in part due to its lack of regulation in vehicle emission legislation. In this study, we use 210,000 vehicle emission remote sensing measurements to evaluate the complex mix of factors affecting NH~3~ emissions from gasoline and gasoline hybrid passenger cars. The influence of vehicle model year and manufacturer on NH~3~ emissions is considered, as well as the effect of vehicle deterioration. It is found that the amount of NH~3~ emitted increases as vehicle mileage increases. A comparison of cold start and hot exhaust NH~3~ emissions reveals that on average, cold start emissions are a factor of 1.7 times higher. New NH~3~ emission factors are developed, in addition to speed-emission curves that are potentially useful for national inventories. A new application of remote sensing data is reported, whereby the proportion of failed CO~2~ measurements for hybrid vehicles provides unique insight into the real world battery use of both conventional hybrid electric and plug-in hybrid electric vehicles, which is used to refine the NH~3~ emission factors for these vehicles.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.aeaoa.2021.100117" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

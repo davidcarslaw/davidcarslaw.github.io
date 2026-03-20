@@ -1,0 +1,39 @@
+---
+title: "Mobile Monitoring Reveals the Importance of Non-Vehicular Particulate Matter Sources in London"
+author:
+- S. Wilson
+- Naomi J. Farren
+- S.E. Wilde
+- R.L. Wagner
+- J.D. Lee
+- L.E. Padilla
+- G. Slater
+- D. Peters
+- David C Carslaw
+date: 2024-12-01
+categories:
+  - research
+  - air quality
+  - mobile monitoring
+description: 'Mobile monitoring in Central and Outer London reveals that PM~2.5~ from vehicles is well controlled by particulate filters, while non-vehicular sources such as construction activities are significant contributors to particulate matter, with coarse PM concentrations reduced by 62% during wet conditions.'
+subtitle: Mobile monitoring identifies non-vehicular PM sources and high-emitting vehicles in London.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1039/D4EM00552J
+---
+
+## Abstract
+
+## Mobile Monitoring Reveals the Importance of Non-Vehicular Particulate Matter Sources in London
+
+_*Environmental Science: Processes & Impacts*_, Vol. 26, Issue 12, pp. 2145–2157, 2024
+
+<div class="pub-abstract">
+This study uses mobile monitoring to gain a better understanding of particulate matter (PM) sources in two areas of Central and Outer London, UK. We find that, unlike emissions of nitrogen oxides (NO + NO~2~ = NO~x~), which are elevated in Central London due to the high number of diesel vehicles and congestion, fine particulate matter (PM~2.5~) emissions are well-controlled. This finding provides evidence for the effectiveness of vehicle particulate filters, supporting the view that their widespread adoption has mitigated PM~2.5~ emissions, even in the highly dieselized area of Central London. However, mobile monitoring also reveals infrequent elevated PM~2.5~ concentrations caused by malfunctioning vehicles. These events were confirmed through simultaneous measurements of PM~2.5~ and sulfur dioxide (SO~2~), the latter being a strong tracer of engine lubricant combustion. A single event from a gasoline car, representing just 0.15% of the driving distance in Outer London, was responsible for 7.4% of the ΔPM~2.5~ concentration above background levels, highlighting the ongoing importance of addressing high-emission vehicles. In a novel application of mobile monitoring, we demonstrate the ability to identify and quantify non-vehicular sources of PM. Among the sources unambiguously identified are construction activities, which result in elevated concentrations of coarse particulate matter (PM~coarse~ = PM~10~ - PM~2.5~). The mobile measurements clearly highlight the spatial extent of the influence of such sources, which would otherwise be difficult to determine. Furthermore, these sources are shown to be weather-dependent, with PM~coarse~ concentrations reduced by 62.1% during wet conditions compared to dry ones.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1039/D4EM00552J" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

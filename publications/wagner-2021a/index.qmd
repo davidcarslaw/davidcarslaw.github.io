@@ -1,0 +1,38 @@
+---
+title: "Application of a Mobile Laboratory Using a Selected-Ion Flow-Tube Mass Spectrometer (SIFT-MS) for Characterisation of Volatile Organic Compounds and Atmospheric Trace Gases"
+author:
+- R.L. Wagner
+- Naomi J. Farren
+- Jack Davison
+- S. Young
+- J.R. Hopkins
+- A.C. Lewis
+- David C Carslaw
+- M.D. Shaw
+date: 2021-09-01
+categories:
+  - research
+  - air quality
+  - mobile monitoring
+description: 'A mobile laboratory equipped with SIFT-MS and other trace gas instruments provides high-spatial- and temporal-resolution measurements of CO~2~, CH~4~, VOCs and other trace gases on-road, enabling source characterisation methods that account for inter-species correlations and revealing source types difficult to study with fixed monitoring.'
+subtitle: Mobile SIFT-MS laboratory enables on-road characterisation of VOCs, CO~2~, CH~4~ and trace gases with high spatial and temporal resolution.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.5194/amt-14-6083-2021
+---
+
+## Abstract
+
+## Application of a Mobile Laboratory Using a Selected-Ion Flow-Tube Mass Spectrometer (SIFT-MS) for Characterisation of Volatile Organic Compounds and Atmospheric Trace Gases
+
+_*Atmospheric Measurement Techniques*_, Vol. 14, Issue 9, pp. 6083–6100, 2021
+
+<div class="pub-abstract">
+Over the last 2 decades, the importance of emissions source types of atmospheric pollutants in urban areas has undergone significant change. In particular, there has been a considerable reduction in emissions associated with road vehicles. Understanding the role played by different source sectors is important if effective air pollution control is to be achieved. Current atmospheric measurements are made at fixed monitoring sites, most of which do not include the measurement of volatile organic compounds (VOCs), so our understanding of the temporal and spatial variation of pollutants is limited. Here we describe the application of a mobile laboratory using a selected-ion flow-tube mass spectrometer (SIFT-MS) and other trace gas instrumentation to provide on-road, high-spatial- and temporal-resolution measurements of CO~2~, CH~4~, VOCs and other trace gases. We then illustrate the potential of this platform for developing source characterisation methods that account for the similarity in correlation between species. Finally, we consider the benefits of high-spatial- and temporal-resolution measurements in characterising different types of sources, which would be difficult or impossible for single-species studies.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.5194/amt-14-6083-2021" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

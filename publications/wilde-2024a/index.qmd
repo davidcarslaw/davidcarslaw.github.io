@@ -1,0 +1,40 @@
+---
+title: "Mobile Monitoring Reveals Congestion Penalty for Vehicle Emissions in London"
+author:
+- S.E. Wilde
+- L.E. Padilla
+- Naomi J. Farren
+- R.A. Alvarez
+- S. Wilson
+- J.D. Lee
+- R.L. Wagner
+- G. Slater
+- D. Peters
+- David C Carslaw
+date: 2024-01-01
+categories:
+  - research
+  - vehicle emissions
+  - mobile monitoring
+description: 'Mobile monitoring with quantile regression reveals that median NO~x~ emissions in Central London are twice those in Outer London despite ULEZ restrictions, with the combination of a diesel-dominated fleet and persistent congestion driving non-optimal aftertreatment operation and increased NO~x~ emissions.'
+subtitle: Quantile regression analysis of mobile monitoring data reveals a congestion-driven NO~x~ emissions penalty in Central London.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.aeaoa.2024.100241
+---
+
+## Abstract
+
+## Mobile Monitoring Reveals Congestion Penalty for Vehicle Emissions in London
+
+_*Atmospheric Environment: X*_, Vol. 21, 100241, 2024
+
+<div class="pub-abstract">
+Mobile air pollution measurements have the potential to provide a wide range of insights into emission sources and air pollution exposure. The analysis of mobile data is, however, highly challenging. In this work we develop a new regression-based framework for the analysis of mobile data with the aim of improving the potential to draw inferences from such measurements. A quantile regression approach is adopted to provide new insight into the distribution of NO~x~ and CO emissions in Central and Outer London. We quantify the emissions intensity of NO~x~ and CO (ΔNO~x~/ΔCO~2~ and ΔCO/ΔCO~2~) at different quantile levels (τ) to demonstrate how transient high-emission events can be examined in parallel to the average emission characteristics. We observed a clear difference in the emissions behaviour between both locations. On average, the median (τ = 0.5) ΔNO~x~/ΔCO~2~ in Central London was 2x higher than Outer London, despite the stringent emission standards imposed throughout the Ultra Low Emissions Zone. A comprehensive vehicle emission remote sensing data set (n ≈ 700,000) is used to put the results into context, providing evidence of vehicle behaviour which is indicative of poorly controlled emissions, equivalent to high-emitting classes of older vehicles. Our analysis suggests the coupling of a diesel-dominated fleet with persistently congested conditions, under which the operation of emissions after-treatment technology is non-optimal, leads to increased NO~x~ emissions.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.aeaoa.2024.100241" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

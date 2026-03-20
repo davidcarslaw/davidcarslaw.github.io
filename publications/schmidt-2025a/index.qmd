@@ -1,0 +1,41 @@
+---
+title: "Optimisation and Validation of Plume Chasing for Robust and Automated NO~x~ and Particle Vehicle Emission Measurements"
+author:
+- C. Schmidt
+- David C Carslaw
+- Naomi J. Farren
+- R. Gijlswijk
+- M. Knoll
+- N.E. Ligterink
+- J.P. Lollinga
+- M. Pechout
+- S. Schmitt
+- M. Vojtsek
+- Q. Vroom
+- D. Pohler
+date: 2025-01-01
+categories:
+  - research
+  - vehicle emissions
+description: 'Optimisation and validation of plume chasing methodology shows that a rolling minimum background determination method performs best for deriving on-road NO~x~ and particle emission factors, and is particularly well suited for high-emitter identification.'
+subtitle: Optimisation of plume chasing methods for automated on-road NO~x~ and particle vehicle emission measurements.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.aeaoa.2025.100317
+---
+
+## Abstract
+
+## Optimisation and Validation of Plume Chasing for Robust and Automated NO~x~ and Particle Vehicle Emission Measurements
+
+_*Atmospheric Environment: X*_, Vol. 25, 100317, 2025
+
+<div class="pub-abstract">
+High-emitting vehicles comprise a small proportion (<20%) of the vehicle fleet, yet are responsible for the majority (>50%) of vehicle emissions. Plume Chasing is a reliable, high-precision measurement technique that derives emissions without interfering with the vehicle being tested. Its characteristics make it well suited for high emitter identification. In this study, the influence of several Plume Chasing measurement and data processing methods on the results of derived on-road NO~x~ and particle fuel-specific emission factors are investigated. A range of vehicles, representative of a common vehicle fleet, were tested under different driving conditions on a test track. The derived results were evaluated against on-board SEMS (Smart Emission Measurement System) emission measurements. We found that one of the best performing Plume Chasing data processing methods is based on the use of a rolling minimum for background determination. The average absolute deviation of the determined NO~x~/CO~2~ emission ratios from the reference was −0.2(46) ppm/% for the heavy duty vehicle and 0.3(29) ppm/% for the light duty vehicles tested. The methods were easy to automate and suitable for high emitter detection and quantification of emissions from two-wheeled vehicles. Inaccurate emission factors derived from Plume Chasing measurements occurred only in situations when emissions were significantly influenced by a strong plume from vehicles driving directly ahead of the vehicle of interest.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.aeaoa.2025.100317" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

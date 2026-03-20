@@ -1,0 +1,33 @@
+---
+title: "Can Accurate Distance-Specific Emissions of Nitrogen Oxide Emissions from Cars Be Determined Using Remote Sensing Without Measuring Exhaust Flowrate?"
+author:
+- Y. Bernard
+- J. Dornoff
+- David C Carslaw
+date: 2022-01-01
+categories:
+  - research
+  - vehicle emissions
+  - remote sensing
+description: 'Using CO~2~ type-approval and real-world fuel economy data to convert NO~x~/CO~2~ ratios to distance-specific emissions, at least 30 measurements are needed for ~30% accuracy compared to PEMS data, with accuracy plateauing at ~23% error beyond 300 measurements — enabling fleet screening without exhaust flowrate measurement.'
+subtitle: Converting remote sensing NO~x~/CO~2~ ratios to distance-specific emission factors without exhaust flowrate measurement.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.scitotenv.2021.151500
+---
+
+## Abstract
+
+## Can Accurate Distance-Specific Emissions of Nitrogen Oxide Emissions from Cars Be Determined Using Remote Sensing Without Measuring Exhaust Flowrate?
+
+_*Science of the Total Environment*_, Vol. 816, 151500, 2022
+
+<div class="pub-abstract">
+Portable Emission Measurement Systems (PEMS) are commonly used to measure absolute (mass per unit distance) emissions of a range of pollutants from road vehicles under real driving conditions. Remote sensing devices (RSDs) can only measure emission ratios rather than absolute (distance-specific) emissions. However, distance-specific emission factors are often needed in emission inventories and transport modelling. Here we investigate whether it is possible to derive accurate distance-specific NO~x~ emission factors from RSDs without measuring exhaust flowrate. This is explored using CO~2~ type approval data and real-world fuel economy data to convert NO~x~/CO~2~ emission ratios to distance-specific emissions. An analysis of the minimum number of measurements required to achieve acceptable accuracy is carried out. We show that at least 30 measurements are needed to achieve a mean absolute error of approximately 30% compared with PEMS data. The method does not introduce systematic bias and is demonstrated to be a practical approach for screening fleets of vehicles to identify those that significantly exceed air pollution standards. Accuracy plateaus at approximately 23% error when 300 or more measurements are available.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.scitotenv.2021.151500" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

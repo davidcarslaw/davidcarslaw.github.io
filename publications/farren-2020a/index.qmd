@@ -1,0 +1,35 @@
+---
+title: "Underestimated Ammonia Emissions from Road Vehicles"
+author:
+- Naomi J. Farren
+- Jack Davison
+- R.A. Rose
+- R.L. Wagner
+- David C Carslaw
+date: 2020-12-01
+categories:
+  - research
+  - vehicle emissions
+  - air quality
+description: 'Using over 230,000 remote sensing measurements, total UK NH~3~ emissions from gasoline passenger cars are estimated at 7.8 kt/yr compared to 3.0 kt in the national inventory — a factor of ~2.6 underestimate — with urban NH~3~ from passenger cars underestimated by a factor of 17.'
+subtitle: Remote sensing measurements of 230,000 vehicles show UK gasoline car NH~3~ emissions are underestimated by a factor of 2.6 in the national inventory.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1021/acs.est.0c05839
+---
+
+## Abstract
+
+## Underestimated Ammonia Emissions from Road Vehicles
+
+_*Environmental Science & Technology*_, Vol. 54, Issue 24, pp. 15689–15697, 2020
+
+<div class="pub-abstract">
+In this study, we use comprehensive vehicle emission remote sensing measurements of over 230,000 passenger cars to estimate total UK ammonia (NH~3~) emissions. Estimates are made using 'top-down' and 'bottom-up' methods that demonstrate good agreement to within 1.1% for total fuel consumed or CO~2~ emitted. A central component of this study is the comprehensive nature of the bottom-up emission estimates that combine highly detailed remote sensing emission data with over 4000 km of 1 Hz real driving data. Total annual UK NH~3~ emissions from gasoline passenger cars are estimated to be 7.8 ± 0.3 kt from the bottom-up estimate compared with 3.0 ± 1.7 kt reported by the UK national inventory. An important conclusion from the analysis is that both methodologies confirm that gasoline passenger car NH~3~ emissions are underestimated by a factor of about 2.6 compared with the 2018 UK National Atmospheric Emissions Inventory. Furthermore, we find that inventory estimates of urban emissions of NH~3~ for passenger cars are underestimated by a factor of 17.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1021/acs.est.0c05839" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

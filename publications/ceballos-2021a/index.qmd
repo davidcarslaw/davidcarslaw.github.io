@@ -1,0 +1,36 @@
+---
+title: "Meteorological Normalisation Using Boosted Regression Trees to Estimate the Impact of COVID-19 Restrictions on Air Quality Levels"
+author:
+- S. Ceballos-Santos
+- J. González-Pardo
+- David C Carslaw
+- A. Santurtún
+- M. Santibáñez
+- I. Fernández-Olmo
+date: 2021-12-01
+categories:
+  - research
+  - air quality
+  - COVID-19
+description: 'Boosted regression tree meteorological normalisation applied to 11 monitoring stations in Cantabria, Spain shows mean NO~x~ reductions above 50% during COVID-19 lockdown, with smaller reductions in PM~10~ and little change in O~3~, highlighting the need for integrated emission policies and sustainable mobility.'
+subtitle: Boosted regression tree normalisation quantifies COVID-19 lockdown impacts on NO, NO~2~, PM~10~ and O~3~ across Cantabria, Spain.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.3390/ijerph182413347
+---
+
+## Abstract
+
+## Meteorological Normalisation Using Boosted Regression Trees to Estimate the Impact of COVID-19 Restrictions on Air Quality Levels
+
+_*International Journal of Environmental Research and Public Health*_, Vol. 18, Issue 24, 13347, 2021
+
+<div class="pub-abstract">
+The global COVID-19 pandemic that began in late December 2019 led to unprecedented lockdowns worldwide, providing a unique opportunity to investigate in detail the impacts of restricted anthropogenic emissions on air quality. In this work, we use the 'deweather' R package based on Boosted Regression Tree (BRT) models to remove the influence of meteorology and emission trends on air quality data, in order to calculate relative changes of air pollutants (NO, NO~2~, PM~10~ and O~3~) in 2020 with respect to the reference period (2013–2019) across 11 monitoring stations in a Spanish region (Cantabria), for different station types (traffic, urban background, industrial and rural). The year 2020 was divided into 8 periods of varying intensity of restriction measures. Mean reductions in the lockdown period above −50% for NO~x~, around −10% for PM~10~ and below −5% for O~3~ were found. Small differences were found between the relative changes obtained from normalised data with respect to those from observations. The results highlight the importance of developing an integrated policy to reduce anthropogenic emissions and the need to move towards sustainable mobility to ensure safer air quality levels, as pre-existing concentrations in some cases exceed the safe threshold.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.3390/ijerph182413347" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

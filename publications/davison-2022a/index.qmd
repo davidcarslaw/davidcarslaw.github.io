@@ -1,0 +1,36 @@
+---
+title: "Gasoline and Diesel Passenger Car Emissions Deterioration Using On-Road Emission Measurements and Measured Mileage"
+author:
+- Jack Davison
+- R.A. Rose
+- Naomi J. Farren
+- R.L. Wagner
+- S.E. Wilde
+- J.V. Wareham
+- David C Carslaw
+date: 2022-01-01
+categories:
+  - research
+  - vehicle emissions
+description: 'Quantile regression analysis of 197,000 remote sensing measurements shows that NO~x~ and PM emissions deterioration with mileage is highly skewed, with 5–10% of pre-Euro 5 gasoline passenger cars reaching emissions comparable to a Euro 5 diesel, and reveals manufacturer-specific differences in deterioration rates.'
+subtitle: Quantile regression of remote sensing data reveals skewed emissions deterioration with mileage for gasoline and diesel passenger cars.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.aeaoa.2022.100162
+---
+
+## Abstract
+
+## Gasoline and Diesel Passenger Car Emissions Deterioration Using On-Road Emission Measurements and Measured Mileage
+
+_*Atmospheric Environment: X*_, Vol. 14, 100162, 2022
+
+<div class="pub-abstract">
+Modern gasoline and diesel vehicles are equipped with highly effective emission control systems that result in low emissions of pollutants such as nitrogen oxides (NO~x~) when new; however, with increasing age or mileage, the emissions performance of vehicles can deteriorate over time, leading to increased emissions. In this study, comprehensive vehicle emission remote sensing measurements collected over a wide range of conditions, together with individual vehicle measured mileage data from vehicle inspections, are used to examine the emissions deterioration of passenger cars. A quantile regression framework is used to examine the distribution of deterioration effects of passenger car NO~x~ and PM emissions from 197,000 vehicle emission remote sensing measurements. The quantile regression modelling approach provides a more complete understanding of the distribution of deterioration effects that is not captured by considering mean changes over time, and accounts for factors such as driving conditions and ambient temperature, as well as determining whether deterioration affects whole populations of vehicles or a smaller subset of them. For most pollutants the rate of deterioration is highly skewed, with between 5% and 10% of pre-Euro 5 gasoline passenger cars having emissions comparable to a Euro 5 diesel car. There is also evidence of differences between vehicle manufacturers in the way NO~x~ emissions deteriorate with mileage.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1016/j.aeaoa.2022.100162" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>

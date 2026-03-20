@@ -1,0 +1,37 @@
+---
+title: "COVID-19 Lockdowns Highlight a Risk of Increasing Ozone Pollution in European Urban Areas"
+author:
+- Stuart K. Grange
+- J.D. Lee
+- W.S. Drysdale
+- A.C. Lewis
+- C. Hueglin
+- L. Emmenegger
+- David C Carslaw
+date: 2021-03-01
+categories:
+  - research
+  - air quality
+  - COVID-19
+description: 'Analysis of 246 monitoring sites across 102 European urban areas shows COVID-19 lockdowns reduced NO~2~ by 34% at traffic sites but increased O~3~ by 30%, with the magnitude of change equivalent to 7.6 years of average NO~2~ reduction, highlighting that future NO~2~ declines will likely drive widespread increases in urban O~3~ without additional mitigation.'
+subtitle: COVID-19 lockdowns reduced urban NO~2~ by a third across Europe but caused equivalent increases in O~3~, highlighting a future ozone pollution risk.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.5194/acp-21-4169-2021
+---
+
+## Abstract
+
+## COVID-19 Lockdowns Highlight a Risk of Increasing Ozone Pollution in European Urban Areas
+
+_*Atmospheric Chemistry and Physics*_, Vol. 21, Issue 5, pp. 4169–4185, 2021
+
+<div class="pub-abstract">
+In March 2020, non-pharmaceutical intervention measures in the form of lockdowns were applied across Europe to urgently reduce the transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus which causes the COVID-19 disease. The aggressive curtailing of the European economy had widespread impacts on the atmospheric composition, particularly for nitrogen dioxide (NO~2~) and ozone (O~3~). To investigate these changes, we analyse data from 246 ambient air pollution monitoring sites in 102 urban areas and 34 countries in Europe between February and July 2020. Counterfactual, business-as-usual air quality time series are created using machine-learning models to account for natural weather variability. Across Europe, we estimate that NO~2~ concentrations were 34% and 32% lower than expected for respective traffic and urban background locations, whereas O~3~ was 30% and 21% higher (in the same respective environments) at the point of maximum restriction on mobility. To put the 2020 changes into context, average NO~2~ trends since 2010 were calculated, and the changes experienced across European urban areas in 2020 was equivalent to 7.6 years of average NO~2~ reduction (or concentrations which might be anticipated in 2028). Despite NO~2~ concentrations decreasing by approximately a third, total oxidant (O~x~) changed little, suggesting that the reductions in NO~2~ were substituted by increases in O~3~. The lockdown period demonstrated that the expected future reductions in NO~2~ in European urban areas are likely to lead to widespread increases in urban O~3~ pollution unless additional mitigation measures are introduced.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.5194/acp-21-4169-2021" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+</div>
