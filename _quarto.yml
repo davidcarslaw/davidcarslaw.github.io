@@ -43,6 +43,7 @@ website:
 format:
   html:
     theme: [cosmo, styles/custom.scss]
+    include-in-header: styles/_fonts.html
     toc: false
     link-external-icon: false
     link-external-newwindow: true

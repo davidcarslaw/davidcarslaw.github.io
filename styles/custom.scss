@@ -5,16 +5,16 @@ $primary:    #343c56;   // dark navy
 $secondary:  #84d6d3;   // soft teal
 $danger:     #ee5863;   // red
 
-$body-color: #343c56;
+$body-color: #2a2a2a;
 $body-bg:    #ffffff;
 
 // Fonts
-$font-family-sans-serif: "Roboto", "Helvetica Neue", Arial, sans-serif;
+$font-family-sans-serif: "Inter", "Helvetica Neue", Arial, sans-serif;
 $font-family-monospace:  "Roboto Mono", "Courier New", monospace;
 $font-size-root: 16px;
 
 // Links
-$link-color:       #5bada9;
+$link-color:       #3d8f8b;
 $link-hover-color: $primary;
 $link-decoration:  none;
 
@@ -34,6 +34,15 @@ $navbar-fg: #ffffff;
 h1, h2, h3, h4, h5, h6 {
   color: $primary;
   font-weight: 600;
+}
+
+h1, h2, h3 {
+  font-family: "DM Sans", "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+h3, h4 {
+  font-weight: 500;
 }
 
 a {
@@ -58,26 +67,30 @@ footer a,
   background: none !important;
 }
 
+.navbar {
+  border-bottom: 2px solid $danger;
+}
+
 
 // ── Code blocks ────────────────────────────────────────────────────────────
 
 pre {
-  color: #343c56;
-  box-shadow: 5px 5px 5px #eee;
+  color: $primary;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
   padding: 1em;
   overflow-x: auto;
-  border-radius: 0;
+  border-radius: 4px;
 }
 
 code {
-  color: #343c56;
+  color: $primary;
   font-family: "Roboto Mono", monospace !important;
   font-size: 0.9em;
   background: #f8f8f8;
 }
 
 pre code {
-  color: #343c56;
+  color: $primary;
   font-size: 0.9em;
   font-family: "Roboto Mono", monospace !important;
   background: none;
@@ -190,7 +203,7 @@ pre code {
 
   .card-icon {
     font-size: 2rem;
-    color: $secondary;
+    color: #5dbfbb;
     margin-bottom: 0.5rem;
   }
 
