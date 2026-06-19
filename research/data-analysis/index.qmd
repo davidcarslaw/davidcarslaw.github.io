@@ -35,7 +35,9 @@ The method has since been widely adopted by the air quality community internatio
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-8}
+::: {.callout-note appearance="minimal"}
 ![Meteorological normalisation isolates emission-driven trends from meteorological variability in pollutant time series.](RF_GA.png)
+:::
 :::
 ::: {.g-col-12 .g-col-md-4}
 [![](deweather_logo.png)](https://openair-project.github.io/deweather/)

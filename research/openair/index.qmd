@@ -64,11 +64,15 @@ Implements machine-learning-based meteorological normalisation to remove the inf
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="minimal"}
 ![Example bivariate polar plots showing wind-direction-dependent source contributions.](cpf_plot.png)
+:::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="minimal"}
 ![Calculation of a Whittaker-Eilers baseline.](smooth.svg)
+:::
 :::
 :::
 
