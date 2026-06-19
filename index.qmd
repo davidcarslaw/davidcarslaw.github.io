@@ -10,7 +10,7 @@ toc: false
     <img src="img/avatar.jpg" class="profile-photo" alt="David Carslaw">
     <p class="profile-name">David Carslaw</p>
     <p class="profile-role">Professor of Urban Air Pollution</p>
-    <p class="profile-org">University of York &amp; Ricardo</p>
+    <p class="profile-org">University of York &amp; WSP</p>
     <div class="social-icons">
       <a href="mailto:david.carslaw@york.ac.uk" title="Email"><i class="bi bi-envelope-fill"></i></a>
       <a href="https://scholar.google.co.uk/citations?user=jEfmvX8AAAAJ&hl=en" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
@@ -26,18 +26,21 @@ toc: false
       I have a joint position between the
       <a href="https://www.york.ac.uk/chemistry/">University of York</a> Department
       of Chemistry where I am a Professor of Urban Air Pollution and
-      <a href="https://ee.ricardo.com/">Ricardo</a> where I
+      <a href="https://www.wsp.com/">WSP</a> where I
       am a Technical Director.
     </p>
     <p>
       My research interests are focused on the development of new data analysis
-      techniques to better-understand air pollution and vehicle emissions remote
-      sensing. I have published widely on both topics.
+      techniques to better-understand air pollution and vehicle remote emission
+      sensing approaches. I have published widely on both topics.
     </p>
     <p>
-      I have developed the <a href="http://davidcarslaw.github.io/openair/">openair</a>
-      R package that is widely used throughout the world by academia, governmental
-      bodies and the private sector.
+      I lead the <a href="https://github.com/openair-project">openair project</a>, a family of
+      open-source R packages for air quality data analysis used extensively throughout the world by
+      academia, government, and the private sector. The original software paper has been cited
+      well over 2,000 times and the core package downloaded more than 650,000 times from CRAN.
+      Comprehensive documentation is freely available in the
+      <a href="https://openair-project.github.io/openair/">openair book</a>.
     </p>
 
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 1.5rem;">
@@ -47,7 +50,7 @@ toc: false
           <li>Air Pollution</li>
           <li>Vehicle Emissions</li>
           <li>Data Analysis &amp; Statistics</li>
-          <li>The <a href="http://davidcarslaw.github.io/openair/">openair</a> R package</li>
+          <li>The <a href="https://github.com/openair-project">openair</a> R package</li>
         </ul>
       </div>
       <div>
@@ -91,7 +94,13 @@ toc: false
 <hr class="section-divider">
 
 <div class="contact-section">
-  <h2>Contact</h2>
+  <h2>Get in touch</h2>
+  <p>
+    We welcome enquiries about <strong>openair training</strong> and R-based air quality analysis,
+    <strong>research collaborations</strong>, <strong>PhD and postdoctoral opportunities</strong>,
+    and consultancy. Whether you are from academia, a regulatory body, or the private sector,
+    feel free to reach out.
+  </p>
   <p>Wolfson Atmospheric Chemistry Laboratories, Department of Chemistry, University of York, Heslington, York, YO10 5DDA</p>
   <div class="contact-grid">
     <div class="contact-item">

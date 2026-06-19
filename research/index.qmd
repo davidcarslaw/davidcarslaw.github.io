@@ -2,7 +2,10 @@
 title: "Research"
 toc: false
 listing:
-  contents: "*/index.qmd"
+  contents:
+    - vehicle-emissions/index.qmd
+    - openair/index.qmd
+    - data-analysis/index.qmd
   sort: "date desc"
   type: grid
   grid-columns: 3

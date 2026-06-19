@@ -1,0 +1,37 @@
+---
+title: "Toward Linking Indoor Commercial Source Emissions to Outdoor Volatile Organic Compounds Using Mobile Measurements"
+date: '2026-05-08'
+author:
+- Sri Hapsari Budisulistiorini
+- Thomas C. Moore
+- Marvin D. Shaw
+- Will S. Drysdale
+- James D. Lee
+- David C. Carslaw
+categories:
+- Journal Article
+- research
+- air quality
+- mobile monitoring
+doi: 10.1021/acsestair.5c00290
+publication: '*ACS ES&T Air*'
+url_pdf: https://doi.org/10.1021/acsestair.5c00290
+subtitle: Mobile measurements and Gaussian plume modelling trace outdoor VOC signatures to indoor commercial sources — restaurants, beauty salons, and auto repair shops — in Bradford, UK.
+description: 'Mobile monitoring in Bradford links outdoor VOC concentrations to indoor commercial emission sources, identifying acetone with beauty salons, butanone with auto repair shops, and isoprene/furan with restaurants using plume modelling and statistical analysis.'
+---
+
+## Toward Linking Indoor Commercial Source Emissions to Outdoor Volatile Organic Compounds Using Mobile Measurements
+
+<p class="pub-meta">Sri Hapsari Budisulistiorini, Thomas C. Moore, Marvin D. Shaw, Will S. Drysdale, James D. Lee, David C. Carslaw</p>
+
+_*ACS ES&T Air*_, Vol. 3, No. 5, pp. 1191–1203, 2026
+
+<div class="pub-abstract">
+Assessing the impact of indoor volatile organic compound (VOC) sources on outdoor concentrations remains challenging due to their variability, rapid dispersion, and chemical reactions in the atmosphere. Mobile monitoring was used in Bradford, England, to trace how commercial indoor emissions from restaurants, beauty salons, and auto repair shops affect outdoor air quality. Geographic mapping of emission sources was combined with Gaussian plume modelling and statistical analysis to identify specific chemical signatures linked to particular source types. Key findings include associations between acetone and beauty salons, butanone and auto repair shops, and isoprene/furan with restaurants. This methodology demonstrates a novel approach for detecting outdoor signatures of indoor commercial activities through advanced air quality monitoring.
+</div>
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.1021/acsestair.5c00290" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+<a href="https://doi.org/10.1021/acsestair.5c00290" class="btn btn-outline-secondary btn-sm" target="_blank"><i class="bi bi-file-pdf"></i> PDF</a>
+</div>

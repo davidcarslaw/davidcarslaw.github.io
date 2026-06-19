@@ -13,3 +13,5 @@ davidcarslaw.github.io.Rproj
 *.Rproj
 
 **/*.quarto_ipynb
+
+/.luarc.json

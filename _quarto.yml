@@ -14,7 +14,8 @@ project:
 website:
   title: "David Carslaw"
   site-url: https://davidcarslaw.com
-  description: "Professor of Urban Air Pollution, University of York"
+  description: "Professor of Urban Air Pollution, University of York & WSP"
+  favicon: img/favicon.png
 
   navbar:
     background: primary
@@ -22,12 +23,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: posts/index.qmd
-        text: Posts
       - href: research/index.qmd
         text: Research
       - href: publications/index.qmd
         text: Publications
+      - href: posts/index.qmd
+        text: Posts
     right:
       - icon: github
         href: https://github.com/davidcarslaw
@@ -36,9 +37,8 @@ website:
   page-footer:
     center: |
       © David Carslaw &nbsp;·&nbsp;
-      [University of York](https://www.york.ac.uk/chemistry/)
-
-  google-analytics: "UA-140402050-1"
+      [University of York](https://www.york.ac.uk/chemistry/) &nbsp;·&nbsp;
+      [WSP](https://www.wsp.com/)
 
 format:
   html:
