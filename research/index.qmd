@@ -6,7 +6,8 @@ listing:
     - vehicle-emissions/index.qmd
     - openair/index.qmd
     - data-analysis/index.qmd
-  sort: "date desc"
+    - mobile-measurements/index.qmd
+  sort: false
   type: grid
   grid-columns: 3
   fields: [image, title, description, categories]
