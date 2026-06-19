@@ -98,8 +98,7 @@ toc: false
   <p>
     We welcome enquiries about <strong>openair training</strong> and R-based air quality analysis,
     <strong>research collaborations</strong>, <strong>PhD and postdoctoral opportunities</strong>,
-    and consultancy. Whether you are from academia, a regulatory body, or the private sector,
-    feel free to reach out.
+    and consultancy. Feel free to get in touch.
   </p>
   <p>Wolfson Atmospheric Chemistry Laboratories, Department of Chemistry, University of York, Heslington, York, YO10 5DDA</p>
   <div class="contact-grid">
