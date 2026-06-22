@@ -52,6 +52,6 @@ The method has since been widely adopted by the air quality community internatio
 
 - [Grange and Carslaw (2019)](../../publications/grange-2019/) — Using meteorological normalisation to detect interventions in air quality time series. *Science of the Total Environment*, 653, 578–588.
 
-- Grange, S. K., Carslaw, D. C., Lewis, A. C., Boleti, E. and Hueglin, C. (2018) — Random forest meteorological normalisation models for Swiss PM~10~ trend analysis. *Atmospheric Chemistry and Physics*, 18, 6223–6239.
+- [Grange et al. (2018)](../../publications/grange-2018/) — Random forest meteorological normalisation models for Swiss PM~10~ trend analysis. *Atmospheric Chemistry and Physics*, 18, 6223–6239.
 
 - [Carslaw and Taylor (2009)](../../publications/carslaw-2009/) — Analysis of air pollution data at a mixed source location using boosted regression trees. *Atmospheric Environment*, 43, 3563–3570.

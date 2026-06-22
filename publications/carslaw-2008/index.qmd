@@ -10,7 +10,9 @@ author:
 - B. Marner
 - M.L. Williams
 categories:
-- Journal Article
+  - research
+  - airport emissions
+  - NOx
 publication: '*Environmental Science and Technology*'
 ---
 

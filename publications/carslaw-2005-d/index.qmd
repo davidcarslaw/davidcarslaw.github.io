@@ -5,7 +5,10 @@ author:
 - S.D. Beevers
 - D.C. Carslaw
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - congestion charging
+  - policy
 publication: '*Atmospheric Environment*'
 ---
 

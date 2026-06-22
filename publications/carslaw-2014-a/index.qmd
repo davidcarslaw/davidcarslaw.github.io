@@ -9,7 +9,8 @@ author:
 - S. Dimitroulopoulou
 - D.C. Carslaw
 categories:
-- Journal Article
+  - research
+  - indoor air quality
 publication: '*Atmospheric Environment*'
 ---
 

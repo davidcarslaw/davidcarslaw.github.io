@@ -8,7 +8,10 @@ author:
 - G.B. Stewart
 - S.D. Beevers
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - policy
 abstract: This work presents the first comprehensive real-world emissions results from urban buses retrofitted with an optimised
   low-NO$_2$ selective catalytic reduction (SCR) system. The SCRT system combines a CRT (Continuously Regenerating Trap) to
   reduce particle emissions and SCR to reduce NO$_x$ emissions. The optimised low-NO$_2$ SCRT was designed to work under urban

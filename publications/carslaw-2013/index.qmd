@@ -9,7 +9,10 @@ author:
 - H. Ross Anderson
 - D.C. Carslaw
 categories:
-- Journal Article
+  - research
+  - dispersion modelling
+  - air quality modelling
+  - air quality
 publication: '*Journal of Exposure Science and Environmental Epidemiology*'
 ---
 

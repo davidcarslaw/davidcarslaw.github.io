@@ -6,7 +6,10 @@ author:
 - D.C. Carslaw
 - G. Rhys-Tyler
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - remote sensing
 abstract: In this paper we report the first direct measurements of nitrogen dioxide (NO$_2$) in the UK using a vehicle emission
   remote sensing technique. Measurements of NO, NO$_2$ and ammonia (NH$_3$) from almost 70,000 vehicles were made spanning
   vehicle model years from 1985 to 2012. These measurements were carefully matched with detailed vehicle information data

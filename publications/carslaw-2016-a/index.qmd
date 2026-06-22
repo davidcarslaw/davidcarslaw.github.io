@@ -7,7 +7,10 @@ author:
 - J. Andersson
 - M. Keenan
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - trend analysis
 abstract: Reducing ambient concentrations of nitrogen dioxide (NO$_2$) remains a key challenge across many European urban
   areas, particularly close to roads. This challenge mostly relates to the lack of reduction in emissions of oxides of nitrogen
   (NO$_x$) from diesel road vehicles relative to the reductions expected through increasingly stringent vehicle emissions

@@ -5,7 +5,10 @@ author:
 - D.C. Carslaw
 - S.D. Beevers
 categories:
-- Journal Article
+  - research
+  - low emission zones
+  - NOx
+  - policy
 publication: '*Transportation Research Part D: Transport and Environment*'
 ---
 

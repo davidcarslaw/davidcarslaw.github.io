@@ -6,7 +6,9 @@ author:
 - David C. Carslaw
 - Sarah J. Moller
 categories:
-- Journal Article
+  - research
+  - trend analysis
+  - air quality
 abstract: Trend analysis of air pollutant concentrations becomes problematic when applied to data from air quality monitoring
   networks containing time series of differing lengths. The average trend from such data can be misleading due to biases in
   the monitoring network. For example, if new monitoring sites located in more polluted locations are added to a network,

@@ -6,7 +6,10 @@ author:
 - D.C. Carslaw
 - S.D. Beevers
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - emissions inventory
 publication: '*Atmospheric Environment*'
 ---
 

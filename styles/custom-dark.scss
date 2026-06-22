@@ -1,12 +1,12 @@
 /*-- scss:defaults --*/
 
-// Alison-theme colour palette
-$primary:    #343c56;   // dark navy
-$secondary:  #84d6d3;   // soft teal
-$danger:     #ee5863;   // red
+// Brand colours adapted for dark background
+$primary:    #8a93b8;   // lightened navy for readability on dark bg
+$secondary:  #84d6d3;   // teal stays
+$danger:     #ee5863;   // red stays
 
-$body-color: #2a2a2a;
-$body-bg:    #ffffff;
+$body-color: #dee2e6;
+$body-bg:    #1a1d2e;   // very dark navy — echoes the brand palette
 
 // Fonts
 $font-family-sans-serif: "Inter", "Helvetica Neue", Arial, sans-serif;
@@ -14,16 +14,16 @@ $font-family-monospace:  "Roboto Mono", "Courier New", monospace;
 $font-size-root: 16px;
 
 // Links
-$link-color:       #3d8f8b;
-$link-hover-color: $primary;
+$link-color:       #84d6d3;
+$link-hover-color: #a8e6e4;
 $link-decoration:  none;
 
 // Code
-$code-color: $primary;
-$code-bg:    #f8f8f8;
+$code-color: $secondary;
+$code-bg:    #2a2d3e;
 
 // Navbar
-$navbar-bg: $primary;
+$navbar-bg: #1a1d2e;
 $navbar-fg: #ffffff;
 
 
@@ -32,7 +32,7 @@ $navbar-fg: #ffffff;
 // ── Typography ─────────────────────────────────────────────────────────────
 
 h1, h2, h3, h4, h5, h6 {
-  color: $primary;
+  color: $secondary;
   font-weight: 600;
 }
 
@@ -50,8 +50,8 @@ a {
   transition: background 0.15s, color 0.15s;
 
   &:hover, &:focus {
-    color: $primary;
-    background: rgba(132, 214, 211, 0.35);
+    color: $secondary;
+    background: rgba(132, 214, 211, 0.15);
     border-bottom-color: rgba(132, 214, 211, 0.8);
   }
 }
@@ -68,49 +68,51 @@ footer a,
 }
 
 .page-item.active .page-link {
-  background: $primary !important;
-  border-color: $primary !important;
-  color: #ffffff !important;
+  background: $secondary !important;
+  border-color: $secondary !important;
+  color: #1a1d2e !important;
 }
 
 .navbar {
   border-bottom: 2px solid $danger;
+  background: #1a1d2e !important;
 }
 
 
 // ── Code blocks ────────────────────────────────────────────────────────────
 
 pre {
-  color: $primary;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+  color: $secondary;
+  background: #2a2d3e;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   padding: 1em;
   overflow-x: auto;
   border-radius: 4px;
 }
 
 code {
-  color: $primary;
+  color: $secondary;
   font-family: "Roboto Mono", monospace !important;
   font-size: 0.9em;
-  background: #f8f8f8;
+  background: #2a2d3e;
 }
 
 pre code {
-  color: $primary;
+  color: $secondary;
   font-size: 0.9em;
   font-family: "Roboto Mono", monospace !important;
   background: none;
 }
 
-// Inline pkg badges (e.g. [openair]{.pkg})
+// Inline pkg badges
 .pkg {
-  color: #4a5858;
+  color: $secondary;
   font-family: "Roboto Mono", monospace;
   font-size: 0.9em;
   padding: 0 3px;
   margin: 0 2px;
-  border: 1px solid #7c9393;
-  box-shadow: 2px 2px 0px 0px rgba(124, 147, 147, 1);
+  border: 1px solid $secondary;
+  box-shadow: 2px 2px 0px 0px rgba(132, 214, 211, 0.5);
 }
 
 
@@ -133,7 +135,7 @@ pre code {
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 4px 20px rgba(52, 60, 86, 0.2);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
   display: block;
   margin: 0 auto;
 }
@@ -142,13 +144,13 @@ pre code {
   font-size: 1.75rem;
   font-weight: 700;
   margin: 0.75rem 0 0.15rem 0;
-  color: $primary;
+  color: $secondary;
   text-align: center;
 }
 
 .profile-role {
   font-size: 1rem;
-  color: lighten($primary, 20%);
+  color: lighten($body-color, 10%);
   text-align: center;
   margin-bottom: 0.5rem;
 }
@@ -156,7 +158,7 @@ pre code {
 .profile-org {
   font-size: 0.9rem;
   text-align: center;
-  color: lighten($primary, 30%);
+  color: $body-color;
   margin-bottom: 1rem;
 }
 
@@ -169,17 +171,17 @@ pre code {
   a {
     border-bottom: none !important;
     background: none !important;
-    color: $primary;
+    color: $secondary;
     font-size: 1.3rem;
     transition: color 0.2s;
 
-    &:hover { color: $secondary; }
+    &:hover { color: lighten($secondary, 10%); }
   }
 }
 
 .section-divider {
   border: none;
-  border-top: 2px solid rgba(132, 214, 211, 0.4);
+  border-top: 2px solid rgba(132, 214, 211, 0.3);
   margin: 2.5rem 0;
 }
 
@@ -195,21 +197,21 @@ pre code {
 }
 
 .highlight-card {
-  border: 1px solid rgba(132, 214, 211, 0.5);
+  border: 1px solid rgba(132, 214, 211, 0.3);
   border-radius: 6px;
   padding: 1.25rem;
   text-align: center;
   transition: box-shadow 0.2s, border-color 0.2s;
-  background: #fdfdfd;
+  background: #22253a;
 
   &:hover {
-    box-shadow: 0 4px 15px rgba(52, 60, 86, 0.12);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
     border-color: $secondary;
   }
 
   .card-icon {
     font-size: 2rem;
-    color: #5dbfbb;
+    color: $secondary;
     margin-bottom: 0.5rem;
   }
 
@@ -220,12 +222,11 @@ pre code {
 
   p {
     font-size: 0.875rem;
-    color: lighten($primary, 25%);
+    color: $body-color;
     margin: 0;
   }
 }
 
-// Links inside highlight cards — remove the fancy underline
 .highlight-card a {
   border-bottom: none !important;
   background: none !important;
@@ -234,7 +235,7 @@ pre code {
 }
 
 .contact-section {
-  background: rgba(132, 214, 211, 0.08);
+  background: rgba(132, 214, 211, 0.06);
   border-left: 4px solid $secondary;
   padding: 1.5rem 1.75rem;
   border-radius: 0 6px 6px 0;
@@ -267,13 +268,13 @@ pre code {
 // ── Publication pages ───────────────────────────────────────────────────────
 
 .pub-meta {
-  color: lighten($primary, 20%);
+  color: lighten($body-color, 10%);
   font-size: 0.9rem;
   margin-bottom: 1rem;
 }
 
 .pub-abstract {
-  background: rgba(132, 214, 211, 0.08);
+  background: rgba(132, 214, 211, 0.06);
   border-left: 3px solid $secondary;
   padding: 1rem 1.25rem;
   margin: 1.25rem 0;
@@ -309,8 +310,8 @@ pre code {
 
 .pub-badge {
   display: inline-block;
-  background: rgba(132, 214, 211, 0.25);
-  color: $primary;
+  background: rgba(132, 214, 211, 0.2);
+  color: $secondary;
   font-size: 0.78rem;
   font-weight: 600;
   border-radius: 3px;
@@ -321,7 +322,7 @@ pre code {
 }
 
 
-// ── Listings (publications table, research grid, posts) ─────────────────────
+// ── Listings ───────────────────────────────────────────────────────────────
 
 .quarto-listing-table td,
 .quarto-listing-table th {
@@ -330,27 +331,28 @@ pre code {
 
 .quarto-listing-table a {
   border-bottom: 1px solid rgba(132, 214, 211, 0.4);
-  &:hover { background: rgba(132, 214, 211, 0.2); }
+  &:hover { background: rgba(132, 214, 211, 0.1); }
 }
 
 
 // ── Pagination ─────────────────────────────────────────────────────────────
 
 .page-link {
-  color: $primary;
-  border-color: rgba(132, 214, 211, 0.5);
+  color: $secondary;
+  border-color: rgba(132, 214, 211, 0.3);
+  background: transparent;
 }
 
 .page-link:hover {
-  color: $primary;
-  background: rgba(132, 214, 211, 0.25);
+  color: $secondary;
+  background: rgba(132, 214, 211, 0.15);
   border-color: $secondary;
 }
 
 .page-item.active .page-link {
-  background: $primary;
-  border-color: $primary;
-  color: #ffffff;
+  background: $secondary;
+  border-color: $secondary;
+  color: #1a1d2e;
 }
 
 
@@ -361,7 +363,7 @@ pre code {
 }
 
 .callout-note .callout-title {
-  background-color: rgba(132, 214, 211, 0.2) !important;
+  background-color: rgba(132, 214, 211, 0.15) !important;
 }
 
 .callout-warning {

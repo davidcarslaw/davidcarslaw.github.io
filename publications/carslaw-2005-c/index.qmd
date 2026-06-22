@@ -4,7 +4,9 @@ date: '2005-01-01'
 author:
 - D.C. Carslaw
 categories:
-- Journal Article
+  - research
+  - ozone
+  - trend analysis
 publication: '*Atmospheric Chemistry and Physics*'
 ---
 

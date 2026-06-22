@@ -4,7 +4,9 @@ date: '2005-01-01'
 author:
 - D.C. Carslaw
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
 abstract: A statistical analysis of roadside concentrations of nitrogen oxides (NO$_x$) and nitrogen dioxide (NO$_2$) in London
   shows that from 1997 to 2003 there has been a statistically significant downward trend (at the p 0:004 level) in NO$_x$
   averaged across a network of 36 sites. Conversely, there has been no statistically significant trend in the concentrations

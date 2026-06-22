@@ -13,7 +13,9 @@ author:
 - A. Vaughan
 - E.G. Nemitz
 categories:
-- Journal Article
+  - research
+  - NOx
+  - emissions inventory
 publication: '*Environmental Science and Technology*'
 ---
 

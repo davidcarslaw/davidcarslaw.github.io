@@ -9,10 +9,10 @@ author:
 - James D. Lee
 - David C. Carslaw
 categories:
-- Journal Article
-- research
-- air quality
-- mobile monitoring
+  - research
+  - mobile monitoring
+  - VOC
+  - indoor air quality
 doi: 10.1021/acsestair.5c00290
 publication: '*ACS ES&T Air*'
 url_pdf: https://doi.org/10.1021/acsestair.5c00290

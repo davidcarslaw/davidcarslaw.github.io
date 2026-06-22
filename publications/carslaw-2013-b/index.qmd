@@ -17,7 +17,8 @@ author:
 - M. Vieno
 - J.D. Whyatt
 categories:
-- Journal Article
+  - research
+  - air quality modelling
 publication: '*NATO Science for Peace and Security Series C: Environmental Security*'
 ---
 

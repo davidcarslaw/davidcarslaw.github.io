@@ -6,7 +6,10 @@ author:
 - K. Ropkins
 - M.C. Bell
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - air quality
+  - data analysis
 publication: '*Environmental Science and Technology*'
 ---
 

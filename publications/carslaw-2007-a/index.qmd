@@ -5,7 +5,10 @@ author:
 - D.C. Carslaw
 - N. Carslaw
 categories:
-- Journal Article
+  - research
+  - NOx
+  - trend analysis
+  - air quality
 publication: '*Atmospheric Environment*'
 ---
 

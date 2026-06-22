@@ -5,7 +5,9 @@ author:
 - D.C. Carslaw
 - S.D. Beevers
 categories:
-- Journal Article
+  - research
+  - dispersion modelling
+  - air quality modelling
 publication: '*Atmospheric Environment*'
 ---
 

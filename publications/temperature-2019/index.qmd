@@ -8,7 +8,9 @@ author:
 - Rebecca A. Rose
 - David C. Carslaw
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
 doi: 10.1021/acs.est.9b01024
 publication: '*Environmental Science & Technology*'
 url_pdf: https://doi.org/10.1021/acs.est.9b01024

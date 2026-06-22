@@ -5,7 +5,10 @@ author:
 - D.C. Carslaw
 - S.D. Beevers
 categories:
-- Journal Article
+  - research
+  - source apportionment
+  - data analysis
+  - openair
 abstract: This paper develops the idea of bivariate polar plots as a method for source detection and characterisation. Bivariate
   polar plots provide a graphical method for showing the joint wind speed, wind direction dependence of air pollutant concentrations.
   Bivariate polar plots provide an effective graphical means of discriminating different source types and characteristics.

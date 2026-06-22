@@ -7,7 +7,10 @@ author:
 - D.C. Carslaw
 - K.M. Emmerson
 categories:
-- Journal Article
+  - research
+  - atmospheric chemistry
+  - trend analysis
+  - data analysis
 publication: '*Atmospheric Chemistry and Physics*'
 ---
 

@@ -99,7 +99,8 @@ author:
 - Y. Zhang
 - M. Zheng
 categories:
-- Journal Article
+  - research
+  - air quality
 doi: 10.5194/acp-19-7519-2019
 publication: '*Atmospheric Chemistry and Physics*'
 url_pdf: https://www.atmos-chem-phys.net/19/7519/2019/

@@ -6,7 +6,10 @@ author:
 - D.C. Carslaw
 - H.W. Lodge
 categories:
-- Journal Article
+  - research
+  - air quality
+  - particulate matter
+  - air quality modelling
 publication: '*Atmospheric Environment*'
 ---
 

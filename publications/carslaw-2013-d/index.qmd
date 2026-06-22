@@ -7,7 +7,10 @@ author:
 - J.E. Tate
 - S.D. Beevers
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - remote sensing
 abstract: In this paper we use a quantile regression technique to explore the emissions characteristics of petrol and diesel
   passenger cars to reveal the importance of high vehicle power on exhaust emissions. A large database of $\approx$67,000
   passenger cars from vehicle emission remote sensing data was used from surveys from several campaigns around the UK. Most

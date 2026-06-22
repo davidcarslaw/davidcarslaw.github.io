@@ -24,7 +24,8 @@ author:
 - M. Werner
 - J.D. Whyatt
 categories:
-- Journal Article
+  - research
+  - air quality modelling
 abstract: An evaluation has been made of a number of contrasting atmospheric chemical transport models, of varying complexity,
   applied to estimate sulphur and nitrogen deposition in the UK. The models were evaluated by comparison with annually averaged
   measurements of gas, aerosol and precipitation concentrations from the national monitoring networks. The models were evaluated

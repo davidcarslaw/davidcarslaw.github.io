@@ -8,7 +8,10 @@ author:
 - E.J. Westmoreland
 - M.L. Williams
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - emissions inventory
 abstract: Ambient trends in nitrogen oxides (NO$_x$) and nitrogen dioxide (NO$_2$) for many air pollution monitoring sites
   in European cities have stabilised in recent years. The lack of a decrease in the concentration of NO$_x$ and in particular
   NO$_2$ is of concern given European air quality standards are set in law. The lack of decrease in the concentration of NO$_x$

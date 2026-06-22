@@ -23,7 +23,7 @@ The openair project ([github.com/openair-project](https://github.com/openair-pro
 ::: {.g-col-12 .g-col-md-6}
 ### `openair`
 
-The core package provides trend and time series analysis, directional analysis tools including bivariate polar plots and conditional probability functions, temporal component extraction,wind and pollution roses, calendar plots, back-trajectory analysis, and model evaluation methods. It includes direct import of data from several hundred UK air quality monitoring sites and international networks.
+The core package provides trend and time series analysis, directional analysis tools including bivariate polar plots and conditional probability functions, temporal component extraction, wind and pollution roses, calendar plots, back-trajectory analysis, and model evaluation methods. It includes direct import of data from several hundred UK air quality monitoring sites and international networks.
 
 [GitHub](https://github.com/openair-project/openair){.btn .btn-sm .btn-outline-primary target="_blank"}
 [Documentation](https://openair-project.github.io/openair/){.btn .btn-sm .btn-outline-secondary target="_blank"}
@@ -32,7 +32,7 @@ The core package provides trend and time series analysis, directional analysis t
 ::: {.g-col-12 .g-col-md-6}
 ### `openairmaps`
 
-Provides interactive and publication-quality mapping of air quality data, including network maps, directional analysis maps (polar plots on a map background), and trajectory frequency maps. Built on `{leaflet}` and `{ggplot2}`, it makes it straightforward to place openair-style analyses in geographic context.
+Provides interactive and publication-quality static mapping of air quality data, including network maps, directional analysis maps (polar plots on a map background), and trajectory frequency maps. Built on `{leaflet}` and `{ggplot2}`, it makes it straightforward to place openair-style analyses in geographic context.
 
 [GitHub](https://github.com/openair-project/openairmaps){.btn .btn-sm .btn-outline-primary target="_blank"}
 [Documentation](https://openair-project.github.io/openairmaps/){.btn .btn-sm .btn-outline-secondary target="_blank"}

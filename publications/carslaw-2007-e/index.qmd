@@ -5,7 +5,10 @@ author:
 - D.C. Carslaw
 - R.M. Harrison
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - air quality
+  - policy
 publication: '*Lancet*'
 ---
 

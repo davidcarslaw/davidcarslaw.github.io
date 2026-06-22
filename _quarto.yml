@@ -4,8 +4,8 @@ project:
   render:
     - "*.qmd"
     - "index.qmd"
-    - "publications/**/*.qmd"
     - "research/**/*.qmd"
+    - "publications/**/*.qmd"
     - "posts/**/*.qmd"
   resources:
     - "static/**"
@@ -42,7 +42,9 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles/custom.scss]
+    theme:
+      light: [cosmo, styles/custom.scss]
+      dark:  [darkly, styles/custom-dark.scss]
     include-in-header: styles/_fonts.html
     toc: false
     link-external-icon: false

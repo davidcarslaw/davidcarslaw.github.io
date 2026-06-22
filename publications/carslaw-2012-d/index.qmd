@@ -8,7 +8,10 @@ author:
 - M.L. Williams
 - D.C. Carslaw
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - trend analysis
 publication: '*Atmospheric Environment*'
 ---
 

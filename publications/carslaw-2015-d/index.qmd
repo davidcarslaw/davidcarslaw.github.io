@@ -6,7 +6,10 @@ author:
 - D.C. Carslaw
 - F.J. Kelly
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - policy
 publication: '*Nature*'
 ---
 

@@ -6,7 +6,10 @@ author:
 - S.D. Beevers
 - G. Fuller
 categories:
-- Journal Article
+  - research
+  - air quality
+  - NOx
+  - air quality modelling
 publication: '*Atmospheric Environment*'
 ---
 

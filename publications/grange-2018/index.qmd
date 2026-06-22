@@ -1,0 +1,33 @@
+---
+title: Random forest meteorological normalisation models for Swiss PM10 trend analysis
+date: '2018-01-01'
+author:
+- Stuart K. Grange
+- David C. Carslaw
+- A. C. Lewis
+- E. Boleti
+- C. Hueglin
+categories:
+  - research
+  - meteorological normalisation
+  - trend analysis
+  - air quality
+  - random forest
+  - particulate matter
+doi: 10.5194/acp-18-6223-2018
+publication: '*Atmospheric Chemistry and Physics*'
+url_pdf: https://www.atmos-chem-phys.net/18/6223/2018/
+---
+
+## Random forest meteorological normalisation models for Swiss PM10 trend analysis
+
+<p class="pub-meta">Stuart K. Grange, David C. Carslaw, A. C. Lewis, E. Boleti, C. Hueglin</p>
+
+_*Atmospheric Chemistry and Physics*_, 18(9), 6223–6239, 2018
+
+
+<div class="pub-links">
+<a href="https://doi.org/10.5194/acp-18-6223-2018" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>
+<a href="https://www.atmos-chem-phys.net/18/6223/2018/" class="btn btn-outline-secondary btn-sm" target="_blank"><i class="bi bi-file-pdf"></i> PDF</a>
+<a href="grange-2018.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
+</div>

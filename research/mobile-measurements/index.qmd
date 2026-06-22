@@ -8,7 +8,7 @@ categories: [Mobile monitoring, VOCs, Vehicle emissions, Source apportionment]
 
 Mobile measurement platforms — vehicles or instruments capable of sampling while in motion — provide a uniquely powerful window onto the spatial variability of air pollutants and their sources. Where fixed monitoring stations give continuous but spatially sparse records, mobile campaigns can map emissions at the street scale, capture the heterogeneous urban environment, and isolate source contributions that would otherwise be confounded at a single fixed point.
 
-Our mobile measurement work spans two complementary directions: **methodological development** of mobile platforms and fast-response instruments capable of detecting a wide range of species; and **applied campaigns** that use mobile monitoring to answer specific questions about urban emission sources and their impacts.
+Our mobile measurement work spans two complementary directions: **methodological development** of mobile platforms and fast-response instruments capable of detecting a wide range of species; and **applied campaigns** that use mobile monitoring to answer specific questions about urban emission sources and their impacts. The focus is on source quantification and apportionment.
 
 ---
 
@@ -39,7 +39,7 @@ A key advance was the development and characterisation of a mobile laboratory in
 
 - **Non-vehicular particulate matter in London** — [Wilson et al. (2024)](../../publications/wilson-2024a/) showed that mobile monitoring across London streets revealed non-vehicular sources — including brake and tyre wear, and re-suspended road dust — to be important contributors to near-road particle concentrations, even on busy arterial routes where tailpipe exhaust might be expected to dominate. The spatial resolution of the mobile approach was essential for detecting these contributions.
 
-- **Linking indoor commercial emissions to outdoor VOCs** — [Budisulistiorini et al. (2026)](../../publications/budisulistiorini-2026/) extended the mobile measurement framework to commercial indoor emission sources, demonstrating how VOC signatures from restaurants, dry cleaners, and other commercial premises can be detected in the outdoor urban environment. This work opens a new measurement pathway for inventorying and attributing non-traffic VOC sources that are underrepresented in conventional monitoring networks.
+- **Linking indoor commercial emissions to outdoor VOCs** — [Budisulistiorini et al. (2026)](../../publications/budisulistiorini-2026/) extended the mobile measurement framework to commercial indoor emission sources, demonstrating how VOC signatures from restaurants, dry cleaners, and other commercial premises can be detected in the outdoor urban environment. The first stage of this work opens a new measurement pathway for inventorying and attributing non-traffic VOC sources that are underrepresented in conventional monitoring networks.
 
 ---
 

@@ -7,7 +7,10 @@ author:
 - S.D. Beevers
 - M.C. Bell
 categories:
-- Journal Article
+  - research
+  - NOx
+  - vehicle emissions
+  - policy
 publication: '*Atmospheric Environment*'
 ---
 

@@ -5,7 +5,10 @@ author:
 - D.C. Carslaw
 - K. Ropkins
 categories:
-- Journal Article
+  - research
+  - openair
+  - data analysis
+  - air quality
 abstract: openair is an R package primarily developed for the analysis of air pollution measurement data but which is also
   of more general use in the atmospheric sciences. The package consists of many tools for importing and manipulating data,
   and undertaking a wide range of analyses to enhance understanding of air pollution data. In this paper we consider the development

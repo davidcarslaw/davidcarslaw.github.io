@@ -17,7 +17,9 @@ author:
 - M. Jacob
 - P.S. Monks
 categories:
-- Journal Article
+  - research
+  - atmospheric chemistry
+  - ozone
 publication: '*Atmospheric Chemistry and Physics*'
 ---
 

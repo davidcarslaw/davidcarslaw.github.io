@@ -8,7 +8,10 @@ author:
 - A. Gillah
 - E. Bates
 categories:
-- Journal Article
+  - research
+  - air quality
+  - street canyon
+  - dispersion modelling
 publication: '*Atmospheric Environment*'
 ---
 

@@ -5,7 +5,10 @@ author:
 - M.L. Williams
 - D.C. Carslaw
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - policy
 publication: '*Atmospheric Environment*'
 ---
 

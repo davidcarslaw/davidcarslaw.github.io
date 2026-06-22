@@ -18,7 +18,10 @@ author:
 - E. von Schneidemesser
 - M. Trainer
 categories:
-- Journal Article
+  - research
+  - NOx
+  - emissions inventory
+  - trend analysis
 abstract: Long-term atmospheric NO$_x$/CO enhancement ratios in megacities provide evaluations of emission inventories. A
   fuel-based emission inventory approach that diverges from conventional bottom-up inventory methods explains 1970–2015 trends
   in NO$_x$/CO enhancement ratios in Los Angeles. Combining this comparison with similar measurements in other U.S. cities

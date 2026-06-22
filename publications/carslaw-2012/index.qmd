@@ -7,7 +7,9 @@ author:
 - M.L. Williams
 - B. Barratt
 categories:
-- Journal Article
+  - research
+  - airport emissions
+  - air quality
 publication: '*Atmospheric Environment*'
 ---
 

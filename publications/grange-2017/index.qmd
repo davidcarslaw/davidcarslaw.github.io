@@ -7,7 +7,11 @@ author:
 - Sarah J. Moller
 - David C. Carslaw
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - emissions inventory
+  - policy
 abstract: Many European countries do not meet legal air quality standards for ambient nitrogen dioxide (NO$_2$) near roads;
   a problem that has been forecasted to persist to 2030. Although European air quality standards regulate NO$_2$ concentrations,
   emissions standards for new vehicles instead set limits for NO$_x$—the combination of nitric oxide (NO) and NO$_2$. From

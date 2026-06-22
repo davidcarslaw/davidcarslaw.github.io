@@ -39,3 +39,63 @@
 .card-img {
     border-radius: 8px 8px 0px 0px;
 }
+
+/* category chip bar */
+#pub-chip-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 0.25em 0 1.25em;
+}
+
+.pub-cat-chip {
+  background: #f0f1f4;
+  color: #343c56;
+  border: 1px solid #d0d3dc;
+  border-radius: 20px;
+  padding: 0.25em 0.85em;
+  font-size: 0.82em;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+
+.pub-cat-chip:hover {
+  background: #84d6d3;
+  border-color: #84d6d3;
+  color: #fff;
+}
+
+.pub-cat-chip.active {
+  background: #343c56;
+  border-color: #343c56;
+  color: #fff;
+}
+
+/* active filter indicator */
+#pub-filter-bar {
+  display: none;
+  align-items: center;
+  gap: 0.75em;
+  background: #edf7f7;
+  border: 1px solid #84d6d3;
+  border-radius: 4px;
+  padding: 0.45em 0.9em;
+  margin: 0.5em 0 1em;
+  font-size: 0.88em;
+}
+
+#pub-filter-clear {
+  background: #343c56;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 0.2em 0.65em;
+  cursor: pointer;
+  font-size: 0.85em;
+  line-height: 1.6;
+}
+
+#pub-filter-clear:hover {
+  background: #ee5863;
+}

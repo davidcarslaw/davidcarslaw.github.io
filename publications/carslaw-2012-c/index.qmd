@@ -5,7 +5,10 @@ author:
 - K. Ropkins
 - D.C. Carslaw
 categories:
-- Journal Article
+  - research
+  - openair
+  - data analysis
+  - air quality
 publication: '*R Journal*'
 ---
 

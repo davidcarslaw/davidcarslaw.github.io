@@ -5,7 +5,9 @@ author:
 - I. Uria-Tellaetxe
 - D.C. Carslaw
 categories:
-- Journal Article
+  - research
+  - source apportionment
+  - data analysis
 abstract: In this paper a new receptor modelling method is developed to identify and characterise emission sources. The method
   is an extension of the commonly used conditional probability function (CPF). The CPF approach is extended to the bivariate
   case to produce a conditional bivariate probability function (CBPF) plot using wind speed as a third variable plotted on

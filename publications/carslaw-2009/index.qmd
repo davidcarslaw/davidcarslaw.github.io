@@ -5,7 +5,11 @@ author:
 - D.C. Carslaw
 - P.J. Taylor
 categories:
-- Journal Article
+  - research
+  - air quality
+  - source apportionment
+  - meteorological normalisation
+  - data analysis
 publication: '*Atmospheric Environment*'
 ---
 

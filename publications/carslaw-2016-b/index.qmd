@@ -6,7 +6,9 @@ author:
 - A.C. Lewis
 - D.C. Carslaw
 categories:
-- Journal Article
+  - research
+  - source apportionment
+  - data analysis
 abstract: This paper outlines the development of enhanced bivariate polar plots that allow the concentrations of two pollutants
   to be compared using pair-wise statistics for exploring the sources of atmospheric pollutants. The new method combines bivariate
   polar plots, which provide source characteristic information, with pair-wise statistics that provide information on how

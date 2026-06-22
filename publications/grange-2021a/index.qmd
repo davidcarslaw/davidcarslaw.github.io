@@ -12,6 +12,7 @@ date: 2021-03-01
 categories:
   - research
   - air quality
+  - meteorological normalisation
   - COVID-19
 description: 'Analysis of 246 monitoring sites across 102 European urban areas shows COVID-19 lockdowns reduced NO~2~ by 34% at traffic sites but increased O~3~ by 30%, with the magnitude of change equivalent to 7.6 years of average NO~2~ reduction, highlighting that future NO~2~ declines will likely drive widespread increases in urban O~3~ without additional mitigation.'
 subtitle: COVID-19 lockdowns reduced urban NO~2~ by a third across Europe but caused equivalent increases in O~3~, highlighting a future ozone pollution risk.

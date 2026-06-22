@@ -40,12 +40,12 @@ Crossroad remote sensing measures the emission ratios of individual vehicles as 
 ### Plume regression
 
 Our plume regression technique ([Farren et al., 2024](../../publications/farren-2024a/)) uses roadside fast-response instruments combined with statistical deconvolution to attribute measured concentration enhancements to individual vehicles. It provides both emission quantification and direct source apportionment without requiring crossroad beam geometry.
+:::
+
+:::
 
 ::: {.callout-note appearance="minimal"}
 ![Example of plume regression applied to roadside concentration measurements.](plume_example.svg)
-:::
-:::
-
 :::
 
 ---

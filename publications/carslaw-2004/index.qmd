@@ -5,7 +5,10 @@ author:
 - D.C. Carslaw
 - S.D. Beevers
 categories:
-- Journal Article
+  - research
+  - NOx
+  - street canyon
+  - air quality modelling
 publication: '*Atmospheric Environment*'
 ---
 

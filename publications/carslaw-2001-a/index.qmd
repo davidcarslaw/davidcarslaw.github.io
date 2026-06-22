@@ -6,7 +6,10 @@ author:
 - D.C. Carslaw
 - G.W. Fuller
 categories:
-- Journal Article
+  - research
+  - air quality
+  - NOx
+  - particulate matter
 publication: '*Area*'
 ---
 

@@ -6,7 +6,10 @@ author:
 - S.D. Beevers
 - J.E. Tate
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - trend analysis
+  - data analysis
 publication: '*Atmospheric Environment*'
 ---
 

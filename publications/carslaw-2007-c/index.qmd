@@ -9,7 +9,10 @@ author:
 - P.J. Taylor
 - D. Carslaw
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - air quality
+  - data analysis
 publication: '*14th World Congress on Intelligent Transport Systems, ITS 2007*'
 ---
 

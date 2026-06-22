@@ -11,6 +11,7 @@ date: 2021-12-01
 categories:
   - research
   - air quality
+  - meteorological normalisation
   - COVID-19
 description: 'Boosted regression tree meteorological normalisation applied to 11 monitoring stations in Cantabria, Spain shows mean NO~x~ reductions above 50% during COVID-19 lockdown, with smaller reductions in PM~10~ and little change in O~3~, highlighting the need for integrated emission policies and sustainable mobility.'
 subtitle: Boosted regression tree normalisation quantifies COVID-19 lockdown impacts on NO, NO~2~, PM~10~ and O~3~ across Cantabria, Spain.

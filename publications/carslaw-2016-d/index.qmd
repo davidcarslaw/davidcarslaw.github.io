@@ -51,7 +51,8 @@ author:
 - C. Ehlers
 - S. Pandis
 categories:
-- Journal Article
+  - research
+  - air quality
 publication: '*Faraday Discussions*'
 ---
 

@@ -25,3 +25,104 @@ header-includes: >
 resources:
   - ../assets/listing-default.css
 ---
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var input = document.querySelector('.quarto-listing-filter input.search');
+  var listing = document.querySelector('.list.quarto-listing-default');
+  if (!input || !listing) return;
+
+  var activeCategory = '';
+
+  // Intercept quartoListingCategory before anything else captures it.
+  // It bypasses the text input entirely and calls list.filter() directly,
+  // so we must track the active category ourselves.
+  var origFn = window.quartoListingCategory;
+  window.quartoListingCategory = function (cat) {
+    try { activeCategory = decodeURIComponent(atob(cat)); } catch (e) { activeCategory = ''; }
+    if (origFn) origFn(cat);
+    syncChips();
+    syncBadge();
+  };
+
+  // ── Category chip bar ────────────────────────────────────────────────────
+  var excluded = new Set(['research']); // on ~90% of papers, not useful as a filter
+  var allCats = new Set();
+  document.querySelectorAll('.quarto-post[data-categories]').forEach(function (item) {
+    var enc = item.getAttribute('data-categories');
+    if (!enc) return;
+    try {
+      decodeURIComponent(atob(enc)).split(',').forEach(function (c) {
+        var t = c.trim();
+        if (t && !excluded.has(t)) allCats.add(t);
+      });
+    } catch (e) {}
+  });
+
+  var chipBar = document.createElement('div');
+  chipBar.id = 'pub-chip-bar';
+
+  function makeChip(label, cat) {
+    var btn = document.createElement('button');
+    btn.className = 'pub-cat-chip';
+    btn.textContent = label;
+    btn.dataset.cat = cat;
+    return btn;
+  }
+
+  var allChip = makeChip('All', '');
+  allChip.classList.add('active');
+  allChip.addEventListener('click', resetFilter);
+  chipBar.appendChild(allChip);
+
+  Array.from(allCats).sort().forEach(function (cat) {
+    var chip = makeChip(cat, cat);
+    chip.addEventListener('click', function () {
+      input.value = '';
+      window.quartoListingCategory(btoa(encodeURIComponent(cat)));
+    });
+    chipBar.appendChild(chip);
+  });
+
+  listing.parentNode.insertBefore(chipBar, listing);
+
+  function syncChips() {
+    chipBar.querySelectorAll('.pub-cat-chip').forEach(function (el) {
+      el.classList.toggle('active', el.dataset.cat === activeCategory);
+    });
+  }
+
+  // ── Text-search filter badge ─────────────────────────────────────────────
+  var bar = document.createElement('div');
+  bar.id = 'pub-filter-bar';
+  bar.innerHTML =
+    '<span>Filtered by: <strong id="pub-filter-label"></strong></span>' +
+    '<button id="pub-filter-clear">&#x2715; Show all</button>';
+  listing.parentNode.insertBefore(bar, listing);
+
+  function syncBadge() {
+    var val = input.value.trim();
+    bar.style.display = val ? 'flex' : 'none';
+    document.getElementById('pub-filter-label').textContent = val;
+  }
+
+  input.addEventListener('input', function () {
+    activeCategory = '';
+    syncChips();
+    syncBadge();
+  });
+
+  document.getElementById('pub-filter-clear').addEventListener('click', resetFilter);
+
+  function resetFilter() {
+    activeCategory = '';
+    input.value = '';
+    input.dispatchEvent(new Event('input', { bubbles: true }));
+    if (origFn) origFn('');
+    syncChips();
+    syncBadge();
+  }
+});
+</script>
+```

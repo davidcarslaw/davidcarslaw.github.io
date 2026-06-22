@@ -17,7 +17,9 @@ author:
 - S.D. Beevers
 - T.G. Karl
 categories:
-- Journal Article
+  - research
+  - NOx
+  - emissions inventory
 publication: '*Faraday Discussions*'
 ---
 

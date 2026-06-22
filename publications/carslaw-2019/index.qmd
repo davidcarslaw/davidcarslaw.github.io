@@ -9,7 +9,10 @@ author:
 - Stuart Young
 - James D. Lee
 categories:
-- Journal Article
+  - research
+  - vehicle emissions
+  - NOx
+  - trend analysis
 abstract: The direct emission of nitrogen dioxide (NO$_2$) from road vehicle exhaust has been an important contributor to
   near-road ambient concentrations of NO$_2$ in many European cities. Diesel vehicles and their use of emission control technologies
   such as Diesel Oxidation Catalysts, have dominated the emission of NO$_2$ from road vehicles. In this work, we summarise
