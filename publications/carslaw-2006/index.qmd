@@ -20,6 +20,10 @@ publication: '*Environmental Science and Technology*'
 
 _*Environmental Science and Technology*_, 2006
 
+<div class="pub-abstract">
+An 8-year (1998-2005), hourly data set of measurements of NO~x~, NO~2~, PM~10~, PM~2.5~, and PMcoarse (defined as PM2.5-10) from a busy roadside location in central London has been analyzed to identify important change-points in the time series using a cumulative sum (CUSUM) technique. Randomization methods were used to estimate the uncertainty level associated with the change-points with uncertainty intervals derived using a bootstrap approach. The results show that there is a clear change-point increase for NO~2~ coinciding with the introduction of the London congestion-charging in February 2003 (95% confidence interval from January-March 2003). At this time there was both an increase in bus numbers and buses fitted with catalyzed diesel particulate filters, which increase direct emissions of NO~2~. A highly statistically significant change-point was also observed for PMcoarse (95% confidence interval from December 2002-February 2003), which also occurred close to the time of the congestion charge introduction and is most closely related to the increase in bus flows. The increase in PMcoarse at this time has largely compensated for reductions in the concentration of PM~2.5~, such that the concentration of PM10 has remained almost constant. Comparing the 2 years before and after the introduction of congestion charging, the increment in NO~2~ above background increased from 22 to 34 ppb and PM coarse increased from 4 to 9 μg m^-3^. These results could have important implications for meeting European air quality standards that currently set limits for PM~10~ rather than PM~2.5~.
+</div>
+
 
 <div class="pub-links">
 <a href="carslaw-2006.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
