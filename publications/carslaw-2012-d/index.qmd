@@ -12,6 +12,7 @@ categories:
   - vehicle emissions
   - NOx
   - trend analysis
+description: 'Analysis of UK road transport emission inventories and ambient monitoring data reveals long-term trends in NO~x~ and NO~2~ emissions from road traffic, examining the factors driving divergence between expected and observed concentration changes.'
 publication: '*Atmospheric Environment*'
 ---
 

@@ -8,6 +8,7 @@ categories:
   - research
   - vehicle emissions
   - NOx
+description: 'Ambient monitoring data from London roadside sites are used to estimate the primary NO~2~ exhaust emission fraction from road vehicles, providing empirical evidence for the growing importance of direct NO~2~ emissions.'
 publication: '*Atmospheric Environment*'
 ---
 

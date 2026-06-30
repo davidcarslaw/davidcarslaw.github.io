@@ -14,6 +14,7 @@ categories:
   - air quality
   - random forest
   - particulate matter
+description: 'Random forest models used for meteorological normalisation of Swiss PM10 data reveal robust long-term trends by removing the influence of weather, demonstrating that the approach outperforms conventional methods for trend analysis across a national monitoring network.'
 doi: 10.5194/acp-18-6223-2018
 publication: '*Atmospheric Chemistry and Physics*'
 url_pdf: https://www.atmos-chem-phys.net/18/6223/2018/

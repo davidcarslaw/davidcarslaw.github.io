@@ -8,6 +8,7 @@ categories:
   - research
   - dispersion modelling
   - air quality modelling
+description: 'An examination of modelling considerations required to accurately represent the transient and episodic nature of emissions from elevated point sources in dispersion calculations.'
 publication: '*Atmospheric Environment*'
 ---
 

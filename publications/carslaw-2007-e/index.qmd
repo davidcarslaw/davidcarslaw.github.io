@@ -9,6 +9,7 @@ categories:
   - vehicle emissions
   - air quality
   - policy
+description: 'A centenary perspective on the health and air quality impacts of motor traffic, examining how the nature and scale of vehicle-related pollution has changed over 100 years and what remains to be done.'
 publication: '*Lancet*'
 ---
 

@@ -8,6 +8,7 @@ categories:
   - research
   - vehicle emissions
   - emissions inventory
+description: 'A New Directions commentary proposing the use of GPS-derived vehicle position data to improve the spatial and temporal resolution of road transport emissions inventories.'
 publication: '*Atmospheric Environment*'
 ---
 

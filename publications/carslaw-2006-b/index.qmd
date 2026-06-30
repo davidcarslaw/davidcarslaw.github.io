@@ -8,6 +8,7 @@ categories:
   - vehicle emissions
   - particulate matter
   - policy
+description: 'A New Directions commentary examining the air quality implications of the long-term trend towards heavier vehicles, particularly the increased non-exhaust particulate emissions from tyre and brake wear.'
 publication: '*Atmospheric Environment*'
 ---
 

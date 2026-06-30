@@ -9,6 +9,7 @@ categories:
   - vehicle emissions
   - NOx
   - policy
+description: 'A New Directions commentary arguing that vehicle emission standards should explicitly regulate primary NO~2~ as well as total NO~x~, given the growing importance of directly emitted NO~2~ for urban air quality.'
 publication: '*Atmospheric Environment*'
 ---
 

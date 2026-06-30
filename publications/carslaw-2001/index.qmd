@@ -10,6 +10,7 @@ categories:
   - air quality
   - NOx
   - air quality modelling
+description: 'An empirical statistical approach for predicting annual mean NO~2~ concentrations in London using readily available data, providing a practical alternative to dispersion modelling.'
 publication: '*Atmospheric Environment*'
 ---
 

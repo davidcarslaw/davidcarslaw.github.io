@@ -8,6 +8,7 @@ categories:
   - research
   - atmospheric chemistry
   - air quality
+description: 'A review of the key gas-phase chemical processes that govern the composition of urban atmospheres, including the production of secondary pollutants such as ozone and nitrogen dioxide.'
 publication: '*Surveys in Geophysics*'
 ---
 

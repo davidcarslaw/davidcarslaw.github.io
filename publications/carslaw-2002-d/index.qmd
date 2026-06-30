@@ -9,6 +9,7 @@ categories:
   - low emission zones
   - NOx
   - policy
+description: 'An assessment of whether low emission zones targeting heavy vehicles in central London would be effective in reducing ambient NO~2~ concentrations and improving compliance with air quality standards.'
 publication: '*Transportation Research Part D: Transport and Environment*'
 ---
 

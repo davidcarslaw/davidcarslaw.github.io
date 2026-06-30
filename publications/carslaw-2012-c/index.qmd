@@ -9,6 +9,7 @@ categories:
   - openair
   - data analysis
   - air quality
+description: 'A companion article to the openair R package describing the range of data analysis tools it provides for the air quality community, including examples of their practical application to monitoring data.'
 publication: '*R Journal*'
 ---
 

@@ -22,16 +22,7 @@ categories:
   - NOx
   - emissions inventory
   - trend analysis
-abstract: Long-term atmospheric NO$_x$/CO enhancement ratios in megacities provide evaluations of emission inventories. A
-  fuel-based emission inventory approach that diverges from conventional bottom-up inventory methods explains 1970–2015 trends
-  in NO$_x$/CO enhancement ratios in Los Angeles. Combining this comparison with similar measurements in other U.S. cities
-  demonstrates that motor vehicle emissions controls were largely responsible for U.S. urban NO$_x$/CO trends in the past
-  half century. Differing NO$_x$/CO enhancement ratio trends in U.S. and European cities over the past 25 years highlights
-  alternative strategies for mitigating transportation emissions, reflecting Europe's increased use of light-duty diesel vehicles
-  and correspondingly slower decreases in NO$_x$ emissions compared to the U.S. A global inventory widely used by global chemistry
-  models fails to capture these long-term trends and regional differences in U.S. and Europe megacity NO$_x$/CO enhancement
-  ratios, possibly contributing to these models' inability to accurately reproduce observed long-term changes in tropospheric
-  ozone.
+description: 'A fuel-based emission inventory approach applied to long-term NO$_x$/CO observations in megacities shows that vehicle emissions controls drove US urban NO$_x$/CO trends over 50 years, while contrasting European trends reflect slower progress due to diesel use, revealing limitations of commonly used global inventories in reproducing these changes.'
 doi: 10.1002/2016GL069894
 publication: '*Geophysical Research Letters*'
 ---

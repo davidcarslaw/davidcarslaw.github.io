@@ -10,6 +10,7 @@ categories:
   - research
   - vehicle emissions
   - policy
+description: 'A comprehensive assessment of the carbon (CO~2~) emission impacts of fitting Intelligent Speed Assistance (ISA) systems to vehicles, accounting for different driving conditions, road types and the distribution of the vehicle fleet.'
 publication: '*Atmospheric Environment*'
 ---
 

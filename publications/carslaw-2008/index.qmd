@@ -13,6 +13,7 @@ categories:
   - research
   - airport emissions
   - NOx
+description: 'Individual aircraft exhaust plumes are sampled near a commercial airport to quantify NO~x~ contributions broken down by engine type, aircraft type and airline, providing detailed emission factors for airport air quality assessment.'
 publication: '*Environmental Science and Technology*'
 ---
 

@@ -10,6 +10,7 @@ categories:
   - air quality
   - NOx
   - particulate matter
+description: 'An assessment of current and future nitrogen dioxide and PM10 concentrations in London, examining prospects for meeting air quality standards.'
 publication: '*Area*'
 ---
 

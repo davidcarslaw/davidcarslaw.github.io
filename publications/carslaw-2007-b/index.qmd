@@ -20,6 +20,7 @@ categories:
   - research
   - atmospheric chemistry
   - ozone
+description: 'Free radical (OH, HO~2~, RO~2~) concentrations measured during the UK TORCH campaign in summer 2003 are compared with box model simulations to evaluate current understanding of tropospheric oxidant chemistry.'
 publication: '*Atmospheric Chemistry and Physics*'
 ---
 

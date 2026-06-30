@@ -11,6 +11,7 @@ categories:
   - research
   - indoor air quality
   - air quality modelling
+description: 'An integrated modelling approach combines indoor air chemistry and ventilation models to estimate occupant exposure to a range of indoor air pollutants in modern European office buildings under realistic occupancy and ventilation scenarios.'
 publication: '*Atmospheric Environment*'
 ---
 

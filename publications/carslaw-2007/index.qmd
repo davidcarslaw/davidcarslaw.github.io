@@ -12,6 +12,7 @@ categories:
   - air quality
   - street canyon
   - dispersion modelling
+description: 'Statistical and dispersion modelling approaches are combined to characterise air quality within a UK street canyon, evaluating the relative contributions of local traffic emissions and background concentrations.'
 publication: '*Atmospheric Environment*'
 ---
 

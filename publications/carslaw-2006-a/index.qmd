@@ -11,6 +11,7 @@ categories:
   - research
   - airport emissions
   - NOx
+description: 'Individual aircraft plume sampling at a major international airport is used to detect and quantify NO~x~ contributions from aircraft engines, ground vehicles and other on-airport sources to ambient concentrations in the surrounding area.'
 publication: '*Atmospheric Environment*'
 ---
 

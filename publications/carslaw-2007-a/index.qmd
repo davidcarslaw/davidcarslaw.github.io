@@ -9,6 +9,7 @@ categories:
   - NOx
   - trend analysis
   - air quality
+description: 'Statistical methods for detecting and characterising small but meaningful changes in urban NO~2~ concentrations are developed, with application to UK monitoring network data to assess whether emission control measures are delivering measurable improvements.'
 publication: '*Atmospheric Environment*'
 ---
 

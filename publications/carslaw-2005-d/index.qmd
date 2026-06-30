@@ -9,6 +9,7 @@ categories:
   - vehicle emissions
   - congestion charging
   - policy
+description: 'Assessment of how London''s congestion charge reduced traffic volumes and associated vehicle emission improvements, quantifying the air quality benefits of the scheme.'
 publication: '*Atmospheric Environment*'
 ---
 

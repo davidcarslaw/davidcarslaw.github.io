@@ -10,6 +10,7 @@ categories:
   - vehicle emissions
   - air quality
   - data analysis
+description: 'Change-point detection methods are applied to long-term roadside measurements of both gaseous and particulate traffic-related pollutants to identify statistically significant step changes linked to emission control interventions.'
 publication: '*Environmental Science and Technology*'
 ---
 

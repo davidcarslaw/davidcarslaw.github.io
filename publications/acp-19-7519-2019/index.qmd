@@ -101,6 +101,7 @@ author:
 categories:
   - research
   - air quality
+description: 'Introduction to the APHH-Beijing special issue, presenting the coordinated multi-disciplinary campaign to study air pollution sources and processes within Beijing and its surrounding region.'
 doi: 10.5194/acp-19-7519-2019
 publication: '*Atmospheric Chemistry and Physics*'
 url_pdf: https://www.atmos-chem-phys.net/19/7519/2019/
@@ -112,6 +113,12 @@ url_pdf: https://www.atmos-chem-phys.net/19/7519/2019/
 
 _*Atmospheric Chemistry and Physics*_, 2019
 
+
+## Abstract
+
+<div class="pub-abstract">
+The Atmospheric Pollution and Human Health in a Chinese Megacity (APHH-Beijing) programme is an international collaborative project focusing on understanding the sources, processes and health effects of air pollution in the Beijing megacity. APHH-Beijing brings together leading China and UK research groups, state-of-the-art infrastructure and air quality models to work on four research themes: (1) sources and emissions of air pollutants; (2) atmospheric processes affecting urban air pollution; (3) air pollution exposure and health impacts; and (4) interventions and solutions. Themes 1 and 2 are closely integrated and support Theme 3, while Themes 1–3 provide scientific data for Theme 4 to develop cost-effective air pollution mitigation solutions. This paper provides an introduction to (i) the rationale of the APHH-Beijing programme and (ii) the measurement and modelling activities performed as part of it. In addition, this paper introduces the meteorology and air quality conditions during two joint intensive field campaigns – a core integration activity in APHH-Beijing. The coordinated campaigns provided observations of the atmospheric chemistry and physics at two sites: (i) the Institute of Atmospheric Physics in central Beijing and (ii) Pinggu in rural Beijing during 10 November–10 December 2016 (winter) and 21 May–22 June 2017 (summer). The campaigns were complemented by numerical modelling and automatic air quality and low-cost sensor observations in the Beijing megacity. In summary, the paper provides background information on the APHH-Beijing programme and sets the scene for more focused papers addressing specific aspects, processes and effects of air pollution in Beijing.
+</div>
 
 <div class="pub-links">
 <a href="https://doi.org/10.5194/acp-19-7519-2019" class="btn btn-primary btn-sm" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI</a>

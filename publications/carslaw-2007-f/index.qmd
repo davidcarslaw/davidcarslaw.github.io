@@ -11,6 +11,7 @@ categories:
   - NOx
   - vehicle emissions
   - policy
+description: 'Modelling study quantifying how increasing primary NO~2~ emissions from road vehicles raises the risk of exceeding the EU hourly NO~2~ limit value at roadside monitoring locations, highlighting the regulatory challenge posed by direct NO~2~ emissions.'
 publication: '*Atmospheric Environment*'
 ---
 

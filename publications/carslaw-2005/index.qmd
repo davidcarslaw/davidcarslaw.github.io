@@ -1,5 +1,5 @@
 ---
-title: Development of an urban inventory for road transport emissions of NO 2 and comparison with estimates derived from ambient
+title: Development of an urban inventory for road transport emissions of NO~2~ and comparison with estimates derived from ambient
   measurements
 date: '2005-01-01'
 author:
@@ -10,10 +10,11 @@ categories:
   - vehicle emissions
   - NOx
   - emissions inventory
+description: 'Development of a fine-scale urban emissions inventory for road transport NO~2~ in London, with comparison against estimates derived from ambient monitoring data to evaluate inventory accuracy.'
 publication: '*Atmospheric Environment*'
 ---
 
-## Development of an urban inventory for road transport emissions of NO 2 and comparison with estimates derived from ambient measurements
+## Development of an urban inventory for road transport emissions of NO~2~ and comparison with estimates derived from ambient measurements
 
 <p class="pub-meta">D.C. Carslaw, S.D. Beevers</p>
 

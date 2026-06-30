@@ -7,6 +7,7 @@ categories:
   - research
   - ozone
   - trend analysis
+description: 'Analysis of long-term ozone measurements at Mace Head, Ireland, reveals changing seasonal cycles and trends that reflect shifts in hemispheric background ozone and regional emission controls.'
 publication: '*Atmospheric Chemistry and Physics*'
 ---
 

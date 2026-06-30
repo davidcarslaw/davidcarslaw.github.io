@@ -10,6 +10,7 @@ categories:
   - air quality
   - particulate matter
   - air quality modelling
+description: 'An empirical modelling approach for predicting daily mean PM10 concentrations using meteorological and traffic variables, providing a computationally efficient method for air quality forecasting.'
 publication: '*Atmospheric Environment*'
 ---
 

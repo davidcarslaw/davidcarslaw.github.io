@@ -9,6 +9,7 @@ categories:
   - NOx
   - street canyon
   - air quality modelling
+description: 'Modelling and measurement study investigating whether directly emitted (primary) NO~2~ from road vehicles is an important contributor to NO~2~ concentrations within a street canyon environment.'
 publication: '*Atmospheric Environment*'
 ---
 

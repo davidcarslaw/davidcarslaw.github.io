@@ -9,6 +9,7 @@ categories:
   - vehicle emissions
   - congestion charging
   - policy
+description: 'An evaluation of how London''s congestion charge altered traffic speeds within the zone and the implications of these speed changes for vehicle emission rates.'
 publication: '*Atmospheric Environment*'
 ---
 

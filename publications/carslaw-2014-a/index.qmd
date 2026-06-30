@@ -11,6 +11,7 @@ author:
 categories:
   - research
   - indoor air quality
+description: 'Corrigendum correcting errors in an integrated modelling study of occupant exposure to indoor air pollutants in modern European office buildings.'
 publication: '*Atmospheric Environment*'
 ---
 

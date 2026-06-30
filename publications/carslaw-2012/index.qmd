@@ -10,6 +10,7 @@ categories:
   - research
   - airport emissions
   - air quality
+description: 'The 2010 closure of Heathrow Airport following the Eyjafjallajökull eruption is used as a natural experiment to quantify the airport contribution to near-field NO~x~ concentrations, demonstrating a clear and rapid air quality improvement during the closure period.'
 publication: '*Atmospheric Environment*'
 ---
 

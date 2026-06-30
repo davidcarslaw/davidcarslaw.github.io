@@ -11,6 +11,7 @@ categories:
   - atmospheric chemistry
   - trend analysis
   - data analysis
+description: 'Generalised additive models are used to detect and quantify long-term trends in OH radical concentrations, providing a robust statistical framework that accounts for non-linear meteorological effects in atmospheric chemistry time series.'
 publication: '*Atmospheric Chemistry and Physics*'
 ---
 

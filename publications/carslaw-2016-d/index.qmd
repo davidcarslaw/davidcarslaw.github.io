@@ -53,6 +53,7 @@ author:
 categories:
   - research
   - air quality
+description: 'General discussion session from the Faraday Discussions meeting on urban air quality case studies, covering a range of topics in atmospheric chemistry, emissions and exposure in urban environments.'
 publication: '*Faraday Discussions*'
 ---
 

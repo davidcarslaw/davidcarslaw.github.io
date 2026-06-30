@@ -10,6 +10,7 @@ categories:
   - vehicle emissions
   - NOx
   - policy
+description: 'A Nature correspondence highlighting how diesel vehicle NO~x~ pollution in Europe has been chronically under-reported due to the gap between type-approval laboratory tests and real-world emissions, calling for reform of the testing regime.'
 publication: '*Nature*'
 ---
 

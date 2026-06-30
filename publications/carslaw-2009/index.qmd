@@ -10,6 +10,7 @@ categories:
   - source apportionment
   - meteorological normalisation
   - data analysis
+description: 'Boosted regression trees are applied to air pollution data at a mixed-source location to disentangle the contributions of different emission sources and meteorological influences, demonstrating a flexible machine learning approach for complex air quality data.'
 publication: '*Atmospheric Environment*'
 ---
 

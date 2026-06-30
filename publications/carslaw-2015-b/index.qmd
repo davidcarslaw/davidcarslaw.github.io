@@ -16,6 +16,7 @@ categories:
   - research
   - NOx
   - emissions inventory
+description: 'Eddy covariance flux measurements from a tall tower in central London provide direct top-down estimates of NO~x~ fluxes that are compared with bottom-up emission inventory estimates, revealing discrepancies that indicate the inventory underestimates emissions.'
 publication: '*Environmental Science and Technology*'
 ---
 

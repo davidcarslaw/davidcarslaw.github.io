@@ -19,6 +19,7 @@ author:
 categories:
   - research
   - air quality modelling
+description: 'Inter-comparison and evaluation of multiple acid deposition models applied to the UK, examining model performance against national monitoring networks and quantifying the spread in total sulphur and nitrogen deposition estimates.'
 publication: '*NATO Science for Peace and Security Series C: Environmental Security*'
 ---
 

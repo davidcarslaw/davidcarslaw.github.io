@@ -20,6 +20,7 @@ categories:
   - research
   - NOx
   - emissions inventory
+description: 'Airborne spatially resolved flux measurements of NO~x~ over London find emissions significantly higher than national inventory predictions, with the discrepancy largest in central London, suggesting current inventories substantially underestimate urban NO~x~ sources.'
 publication: '*Faraday Discussions*'
 ---
 

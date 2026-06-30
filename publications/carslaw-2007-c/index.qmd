@@ -13,6 +13,7 @@ categories:
   - vehicle emissions
   - air quality
   - data analysis
+description: 'Exploratory statistical data mining of air quality measurements near a motorway is used to identify the key causal factors affecting pollutant concentrations, demonstrating the potential of data-driven approaches for traffic-related air quality management.'
 publication: '*14th World Congress on Intelligent Transport Systems, ITS 2007*'
 ---
 

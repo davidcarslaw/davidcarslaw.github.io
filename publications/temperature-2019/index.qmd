@@ -11,6 +11,7 @@ categories:
   - research
   - vehicle emissions
   - NOx
+description: 'Remote sensing of 300,000 light-duty vehicles across the UK reveals a strong low-temperature NO$_x$ emission penalty in diesel but not gasoline vehicles, with Europe''s climate estimated to produce on average 38% more NO$_x$ than laboratory test cycles, though the penalty is expected to diminish as Euro 6 vehicles replace older stock.'
 doi: 10.1021/acs.est.9b01024
 publication: '*Environmental Science & Technology*'
 url_pdf: https://doi.org/10.1021/acs.est.9b01024

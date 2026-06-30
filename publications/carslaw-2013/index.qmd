@@ -13,6 +13,7 @@ categories:
   - dispersion modelling
   - air quality modelling
   - air quality
+description: 'Fine-scale air dispersion models are evaluated for their ability to predict human exposure to traffic-related air pollutants across London, providing a basis for epidemiological studies linking pollution exposure to health outcomes.'
 publication: '*Journal of Exposure Science and Environmental Epidemiology*'
 ---
 

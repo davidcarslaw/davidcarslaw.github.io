@@ -10,6 +10,7 @@ categories:
   - vehicle emissions
   - trend analysis
   - data analysis
+description: 'Generalised additive models are applied to roadside air quality monitoring data to separate traffic-related emission trends from meteorological and background influences, providing a robust framework for assessing progress in reducing vehicle emissions.'
 publication: '*Atmospheric Environment*'
 ---
 

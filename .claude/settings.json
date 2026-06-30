@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:acp.copernicus.org)",
+      "Bash(curl -s -w \"\\\\nHTTP_STATUS:%{http_code}\" \"https://api.crossref.org/works?query.bibliographic=Modelling+and+assessing+trends+in+traffic-related+emissions+using+a+generalised+additive+modelling+approach&query.author=Carslaw&rows=3&mailto=david.carslaw@york.ac.uk\")",
+      "WebSearch",
+      "WebFetch(domain:www.researchgate.net)",
+      "WebFetch(domain:kclpure.kcl.ac.uk)",
+      "Bash(curl -s \"https://api.crossref.org/works/10.1016/j.atmosenv.2007.02.032\" -H \"User-Agent: mailto:david.carslaw@york.ac.uk\")",
+      "WebFetch(domain:pubs.acs.org)",
+      "Bash(curl -s \"https://api.crossref.org/works?query.bibliographic=Motor+traffic+and+the+pollution+of+the+air+100+years+on&query.author=Carslaw&rows=3&mailto=david.carslaw@york.ac.uk\")",
+      "Bash(python3 -c ' *)",
+      "Bash(curl -s \"https://api.crossref.org/works?query.bibliographic=Motor+traffic+pollution+air+100+years+Lancet&query.author=Carslaw&rows=3&mailto=david.carslaw@york.ac.uk\")",
+      "WebFetch(domain:api.semanticscholar.org)",
+      "WebFetch(domain:www.londonair.org.uk)",
+      "WebFetch(domain:api.unpaywall.org)",
+      "Bash(curl -s \"https://api.crossref.org/works?query.bibliographic=Risks+of+exceeding+the+hourly+EU+limit+value+for+nitrogen+dioxide+road+transport+primary&query.author=Carslaw&rows=3&mailto=david.carslaw@york.ac.uk\")",
+      "Bash(curl -s \"https://api.crossref.org/works?query.bibliographic=Near-field+commercial+aircraft+nitrogen+oxides+engine+aircraft+type+airline+plume&query.author=Carslaw&rows=3&mailto=david.carslaw@york.ac.uk\")",
+      "WebFetch(domain:europepmc.org)",
+      "WebFetch(domain:pubmed.ncbi.nlm.nih.gov)",
+      "Bash(curl -s \"https://api.crossref.org/works?query.bibliographic=Comprehensive+analysis+carbon+impacts+vehicle+intelligent+speed+control&query.author=Carslaw&rows=3&mailto=david.carslaw@york.ac.uk\")",
+      "WebFetch(domain:journal.r-project.org)",
+      "WebFetch(domain:eurekamag.com)",
+      "WebFetch(domain:www.nature.com)",
+      "WebFetch(domain:pure.york.ac.uk)",
+      "WebFetch(domain:www.atmos-chem-phys.net)",
+      "WebFetch(domain:www.academia.edu)",
+      "WebFetch(domain:rsc.66.ca)",
+      "WebFetch(domain:pubs.rsc.org)",
+      "WebFetch(domain:scholar.google.com)",
+      "WebFetch(domain:unpaywall.org)",
+      "Bash(pdftotext \"/Users/davidcarslaw/.claude/projects/-Users-davidcarslaw-packages-davidcarslaw-github-io/2839245a-5f73-42c5-84cf-9f6ecea5d161/tool-results/webfetch-1782806062360-wd7h7b.pdf\" -)"
+    ]
+  }
+}

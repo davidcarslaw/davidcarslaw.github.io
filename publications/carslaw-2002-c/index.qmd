@@ -11,6 +11,7 @@ categories:
   - air quality
   - NOx
   - air quality modelling
+description: 'French-language companion to empirical modelling of annual mean NO~2~ concentrations in London, presenting methods and predictions for a European audience.'
 publication: '*Techniques - Sciences - Methodes*'
 ---
 

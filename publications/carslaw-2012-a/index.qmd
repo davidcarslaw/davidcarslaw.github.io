@@ -11,6 +11,7 @@ categories:
   - air quality modelling
   - dispersion modelling
   - NOx
+description: 'A one-way coupled modelling approach links the CMAQ regional chemistry transport model with a fine-scale road source dispersion model, enabling detailed street-level air pollution predictions that capture both regional background and local traffic contributions.'
 publication: '*Atmospheric Environment*'
 ---
 

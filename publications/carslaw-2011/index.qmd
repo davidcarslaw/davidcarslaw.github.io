@@ -9,6 +9,7 @@ categories:
   - vehicle emissions
   - NOx
   - policy
+description: 'A New Directions commentary examining the disconnect between vehicle emission legislation (which regulates NO~x~) and air quality objectives (which set limits on NO~2~), arguing that science and policy need to be better aligned to address the no~2~ problem.'
 publication: '*Atmospheric Environment*'
 ---
 
