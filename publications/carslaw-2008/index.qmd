@@ -23,6 +23,9 @@ publication: '*Environmental Science and Technology*'
 
 _*Environmental Science and Technology*_, 2008
 
+<div class="pub-abstract">
+Nitrogen oxides (NO~x~) concentrations were measured in individual plumes from aircraft departing on the northern runway at Heathrow Airport in west London. Over a period of four weeks 5618 individual plumes were sampled by a chemiluminescence monitor located 180 m from the runway. Results were processed and matched with detailed aircraft movement and aircraft engine data using chromatographic techniques. Peak concentrations associated with 29 commonly used engines were calculated and found to have a good relationship with NO~x~ emissions taken from the International Civil Aviation Organization (ICAO) databank. However, it is found that engines with higher reported NO~x~ emissions result in proportionately lower NO~x~ concentrations than engines with lower emissions. We show that it is likely that aircraft operational factors such as takeoff weight and aircraft thrust setting have a measurable and important effect on concentrations of NO~x~. For example, NO~x~ concentrations can differ by up to 41 % for aircraft using the same airframe and engine type, while those due to the same engine type in different airframes can differ by 28%. These differences are as great as, if not greater than, the reported differences in NO~x~ emissions between different engine manufacturers for engines used on the same airframe.
+</div>
 
 <div class="pub-links">
 <a href="carslaw-2008.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>

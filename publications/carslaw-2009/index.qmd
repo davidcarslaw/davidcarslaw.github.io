@@ -20,6 +20,9 @@ publication: '*Atmospheric Environment*'
 
 _*Atmospheric Environment*_, 2009
 
+<div class="pub-abstract">
+This paper explores the use of boosted regression trees to draw inferences concerning the source characteristics at a location of high source complexity. Models are developed for hourly concentrations of nitrogen oxides (NO~x~) close to a large international airport. Model development is discussed and methods to quantify model uncertainties developed. It is shown that good explanatory models can be developed and further, allowing for interactions between model variables significantly improves the model fits compared with non-interacting models. Methods are used to determine which variables exert most influence over predicted concentrations and to explore the NO~x~ dependency for each. Model predictions are used to estimate aircraft take-off contributions to total concentrations of NO~x~ and determine how these predictions are affected by annual variations in meteorological conditions and runway use patterns. Furthermore, the results relating to the aircraft contributions to total NO~x~ concentration are compared with those from a more detailed independent field campaign. Finally, we find empirical evidence that plumes from larger aircraft disperse more rapidly from the point of release compared with smaller aircraft. The reasons for this behaviour and the implications are discussed. 
+</div>
 
 <div class="pub-links">
 <a href="carslaw-2009.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
