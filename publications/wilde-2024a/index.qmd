@@ -16,6 +16,7 @@ categories:
   - research
   - vehicle emissions
   - mobile monitoring
+  - remote sensing
 description: 'Mobile monitoring with quantile regression reveals that median NO~x~ emissions in Central London are twice those in Outer London despite ULEZ restrictions, with the combination of a diesel-dominated fleet and persistent congestion driving non-optimal aftertreatment operation and increased NO~x~ emissions.'
 subtitle: Quantile regression analysis of mobile monitoring data reveals a congestion-driven NO~x~ emissions penalty in Central London.
 links:

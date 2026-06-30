@@ -11,6 +11,7 @@ categories:
   - research
   - vehicle emissions
   - air quality
+  - remote sensing
 description: 'Using over 230,000 remote sensing measurements, total UK NH~3~ emissions from gasoline passenger cars are estimated at 7.8 kt/yr compared to 3.0 kt in the national inventory — a factor of ~2.6 underestimate — with urban NH~3~ from passenger cars underestimated by a factor of 17.'
 subtitle: Remote sensing measurements of 230,000 vehicles show UK gasoline car NH~3~ emissions are underestimated by a factor of 2.6 in the national inventory.
 links:

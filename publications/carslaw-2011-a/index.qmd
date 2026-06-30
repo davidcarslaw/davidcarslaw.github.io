@@ -12,6 +12,7 @@ categories:
   - vehicle emissions
   - NOx
   - emissions inventory
+  - remote sensing
 description: 'Remote sensing of 84,269 vehicles across seven UK urban areas reveals significant underestimation of diesel car NO$_x$ emissions in official inventories, with newer Euro 3–5 diesel cars showing increasing NO$_x$ with engine load — absent in older vehicles — helping explain why roadside NO$_x$ and NO$_2$ concentrations have not fallen as expected.'
 publication: '*Atmospheric Environment*'
 ---

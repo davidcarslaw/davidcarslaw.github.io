@@ -15,6 +15,7 @@ categories:
   - research
   - vehicle emissions
   - air quality modelling
+  - remote sensing
 description: 'New speed-emission curves for NO~x~ derived from nearly 500,000 UK remote sensing measurements and vehicle drive cycles substantially improve air pollution model performance for London, revealing higher emissions from Euro VI HGVs and successive passenger cars than existing curves, and changing the normalised mean bias for NO~x~ from −0.18 to +0.01.'
 subtitle: New NO~x~ speed-emission curves from remote sensing data improve air quality model performance in London.
 links:

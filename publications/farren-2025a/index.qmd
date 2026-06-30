@@ -13,6 +13,7 @@ date: 2025-06-01
 categories:
   - research
   - vehicle emissions
+  - plume regression
 description: 'Curbside plume measurements from over 27,500 vehicles in Milan were used to calculate highly disaggregated emission factors for NO~x~, particle number, and black carbon, revealing anomalously high emissions from some diesel passenger car manufacturers and demonstrating ambient concentration source apportionment by vehicle type.'
 subtitle: Highly disaggregated vehicle emission factors and ambient concentration apportionment from curbside plume measurements in Milan.
 links:

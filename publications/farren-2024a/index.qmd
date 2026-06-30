@@ -13,6 +13,8 @@ categories:
   - research
   - vehicle emissions
   - air quality
+  - remote sensing
+  - plume regression
 description: 'A new plume regression technique using roadside fast-response instruments enables highly disaggregated vehicle emissions quantification and ambient concentration source apportionment, revealing that gasoline passenger cars dominate ammonia emissions while diesel vehicles with SCR systems have very low NH~3~ emissions.'
 subtitle: Plume regression technique for vehicle emission quantification and concentration source apportionment of NH~3~ and NO~x~.
 links:

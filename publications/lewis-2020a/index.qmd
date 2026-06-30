@@ -14,7 +14,7 @@ date: 2020-01-01
 categories:
   - research
   - air quality
-  - VOC emissions
+  - VOC
 description: 'UK anthropogenic VOC emissions declined from 2840 kt/yr in 1990 to 810 kt/yr by 2017, with solvents growing from 35% to 63% of total emissions; ethanol is now the single largest emitted VOC at 136 kt/yr, and current monitoring strategies fail to capture 7 of the top 20 emitted species.'
 subtitle: Solvents now dominate UK VOC emissions, with ethanol the largest single source, requiring an overhaul of monitoring strategies designed for 1990s source mixes.
 links:

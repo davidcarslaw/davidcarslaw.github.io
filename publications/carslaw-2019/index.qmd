@@ -13,6 +13,7 @@ categories:
   - vehicle emissions
   - NOx
   - trend analysis
+  - remote sensing
 description: 'UK remote sensing data show that while Euro 6 diesel vehicles retain high NO$_2$/NO$_x$ ratios (~30%), absolute NO$_2$ emissions from light-duty diesel vehicles have been falling since 2007 and decrease further with mileage, indicating primary NO$_2$ from road traffic is becoming a diminishing contributor to roadside NO$_2$ concentrations.'
 doi: 10.1016/j.aeaoa.2018.100002
 publication: '*Atmospheric Environment: X*'

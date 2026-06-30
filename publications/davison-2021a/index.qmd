@@ -12,6 +12,7 @@ categories:
   - research
   - vehicle emissions
   - emissions inventory
+  - remote sensing
 description: 'Bottom-up inventories from real-world remote sensing measurements find UK passenger car and van NO~x~ emissions are underestimated by 24–32% nationally and up to 47% in urban areas, and show that accounting for the manufacturer-specific fleet mix can change country-level NO~x~ estimates by up to 13.4% across six European countries.'
 subtitle: Remote sensing bottom-up inventories reveal underestimation of UK NO~x~ emissions and highlight manufacturer-level fleet composition effects across Europe.
 links:

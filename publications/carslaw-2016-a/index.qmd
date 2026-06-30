@@ -11,6 +11,7 @@ categories:
   - vehicle emissions
   - NOx
   - trend analysis
+  - remote sensing
 description: 'London ambient monitoring and remote sensing data show that directly emitted primary NO$_2$ from vehicles fell from ~25 vol% in 2010 to ~15 vol% by 2014, driven mainly by reductions from heavy duty vehicles and buses, and that vehicle ageing further reduces the NO$_2$/NO$_x$ ratio in Euro 4–5 diesel passenger cars.'
 doi: 10.1039/C5FD00162E
 publication: '*Faraday Discussions*'

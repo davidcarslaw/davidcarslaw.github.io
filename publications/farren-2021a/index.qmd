@@ -11,6 +11,7 @@ categories:
   - research
   - vehicle emissions
   - air quality
+  - remote sensing
 description: 'Analysis of 210,000 remote sensing measurements shows NH~3~ emissions from gasoline passenger cars increase with vehicle mileage, with cold start emissions 1.7 times higher than hot exhaust, and introduces new speed-emission curves and a novel application of CO~2~ failure rates to quantify real-world battery use in hybrid vehicles.'
 subtitle: Real-world NH~3~ emission factors and deterioration rates for gasoline and hybrid passenger cars from remote sensing measurements.
 links:

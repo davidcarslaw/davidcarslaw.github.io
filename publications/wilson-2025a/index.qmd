@@ -14,6 +14,7 @@ categories:
   - research
   - vehicle emissions
   - air quality
+  - plume regression
 description: 'Plume regression measurements show that the position of a vehicle exhaust (left vs right side) results in a 40% difference in curbside pollutant concentrations, and that electric vehicles reduce near-road exposure by diluting exhaust plumes through vehicle-induced turbulence.'
 subtitle: Vehicle exhaust position and electric vehicle turbulence effects on near-road traffic-related air pollutant concentrations.
 links:

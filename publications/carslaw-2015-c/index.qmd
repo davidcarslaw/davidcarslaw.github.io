@@ -12,6 +12,7 @@ categories:
   - vehicle emissions
   - NOx
   - policy
+  - remote sensing
 description: 'Real-world and test-track measurements of London buses retrofitted with an optimised low-NO$_2$ SCRT system demonstrate NO$_2$ reductions of 61% and total NO$_x$ reductions of 45% compared to CRT-only buses, confirming that low-temperature SCR retrofits are an effective intervention for improving urban air quality.'
 doi: 10.1016/j.atmosenv.2015.01.044
 publication: '*Atmospheric Environment*'

@@ -15,6 +15,7 @@ image: featured.png
 categories:
   - research 
   - vehicle emissions
+  - remote sensing
 description: 'Emission Factors are a key component of air quality models, but are often derived from laboratory measurements that may not be representative of real-world conditions. This study presents a method for calculating distance-based EFs from vehicle emission remote sensing measurements, which can provide more accurate estimates of emissions in real-world driving conditions.'
 subtitle:  Calculation of g km^-1^ emission factors for passenger cars from vehicle emission remote sesning data.
 links:

@@ -11,6 +11,7 @@ categories:
   - research
   - vehicle emissions
   - Dieselgate
+  - remote sensing
 description: 'Over 23,000 remote sensing measurements of Euro 5 diesel vehicles show that Volkswagen Group EA189 engines demonstrated anomalous NO~x~ emission changes post-Dieselgate not seen in other makes, with hardware+software fixes reducing emissions by 36% and software-only fixes by 30%, suggesting targeted interventions can substantially reduce NO~x~.'
 subtitle: On-road remote sensing confirms 30–36% NO~x~ emission reductions from Volkswagen Group EA189 engines following post-Dieselgate hardware and software fixes.
 links:

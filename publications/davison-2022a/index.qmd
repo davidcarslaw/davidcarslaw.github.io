@@ -12,6 +12,7 @@ date: 2022-01-01
 categories:
   - research
   - vehicle emissions
+  - remote sensing
 description: 'Quantile regression analysis of 197,000 remote sensing measurements shows that NO~x~ and PM emissions deterioration with mileage is highly skewed, with 5–10% of pre-Euro 5 gasoline passenger cars reaching emissions comparable to a Euro 5 diesel, and reveals manufacturer-specific differences in deterioration rates.'
 subtitle: Quantile regression of remote sensing data reveals skewed emissions deterioration with mileage for gasoline and diesel passenger cars.
 links:

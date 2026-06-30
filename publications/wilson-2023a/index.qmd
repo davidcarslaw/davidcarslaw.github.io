@@ -14,6 +14,7 @@ categories:
   - research
   - vehicle emissions
   - policy
+  - remote sensing
 description: 'Using over 600,000 real-world vehicle emission remote sensing measurements spanning multiple decades, the promotion of diesel cars in the UK is estimated to have caused 721 kt of excess NO~x~ emissions at a damage cost of £5.875 billion, while the post-Dieselgate decline in diesel use only reduced NO~x~ by 41 kt due to the effectiveness of modern aftertreatment systems.'
 subtitle: Multi-decade analysis of UK passenger car emissions quantifies the NO~x~ impact of the rise and fall of diesel fuel use.
 links:
