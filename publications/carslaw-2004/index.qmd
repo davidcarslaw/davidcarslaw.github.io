@@ -20,6 +20,10 @@ publication: '*Atmospheric Environment*'
 _*Atmospheric Environment*_, 2004
 
 
+<div class="pub-abstract">
+Monitoring data from a busy street canyon in central London and a paired background site are used to investigate the potential importance of primary (directly emitted) NO~2~ from road vehicles. Multiple regression is used to estimate the fraction of NO~2~ in petrol and diesel exhaust emissions. Results suggest that petrol and diesel vehicles emit approximately 0.6 ± 0.2 and 12.7 ± 0.1 vol% NO~2~ respectively. Primary emissions of this magnitude appear to explain much of the observed difference in NO~2~ concentrations between the street canyon and background sites, and have important implications for how NO~2~ concentrations respond to NOx emission controls and for source apportionment modelling studies.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2004.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

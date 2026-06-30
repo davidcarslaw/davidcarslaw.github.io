@@ -21,6 +21,10 @@ publication: '*Atmospheric Environment*'
 _*Atmospheric Environment*_, 2001
 
 
+<div class="pub-abstract">
+Techniques are presented for the prediction of current and future annual mean NO~2~ concentrations in London using hourly average NOx (NO + NO~2~) and NO~2~ monitoring data. The approach defines site-specific relationships between the annual mean NOx and NO~2~ concentrations at background and roadside sites across London. By applying NOx frequency distributions derived from monitoring data, it is possible to investigate the effect of different NOx emission reduction strategies on predicted NO~2~ concentrations. The non-linear nature of the NOx–NO~2~ relationship means that the reductions in NOx required to meet the UK annual mean NO~2~ air quality objective of 40 μg m^-3^ vary considerably between sites. Application of the approach suggests that meeting the objective in central London will be particularly challenging, requiring NOx concentrations as low as 30 ppb, compared with values of 36–40 ppb for outer London.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2001.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

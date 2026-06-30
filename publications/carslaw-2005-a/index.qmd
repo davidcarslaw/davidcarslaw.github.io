@@ -19,6 +19,10 @@ publication: '*Atmospheric Environment*'
 _*Atmospheric Environment*_, 2005
 
 
+<div class="pub-abstract">
+Hourly mean concentration data for nitrogen oxides (NO~X~), nitrogen dioxide (NO~2~) and ozone (O~3~) have been used to derive a method for estimating the mean primary NO~2~ fraction from vehicle exhausts in London. A set of simple chemical equations has been used to explain the differences in NO~2~ concentrations between background and roadside site pairs and to estimate the proportion of NO~2~ that is likely to be derived from primary NO~2~ vehicle emissions and the NO~2~ formed through the reaction of nitric oxide (NO) with O~3~. The estimates ranged from 3.2 to 23.5 vol% with a median value of 10.6 vol% for the 43 measurement sites considered. A median primary NO~2~ fraction of 10.6% accounts for an average of 21% of the observed NO~2~ concentration at roadside sites.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2005-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

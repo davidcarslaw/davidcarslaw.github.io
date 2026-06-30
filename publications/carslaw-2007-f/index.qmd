@@ -21,6 +21,9 @@ publication: '*Atmospheric Environment*'
 
 _*Atmospheric Environment*_, 2007
 
+<div class="pub-abstract">
+In London, analysis of ambient measurements shows that directly emitted (primary) nitrogen dioxide (NO~2~) from road transport sources has increased, with these increases appearing to be mostly due to certain after-treatment devices, such as oxidation catalysts and particle filters fitted to diesel vehicles. A constrained simple chemical model is used to predict hourly concentrations of NO~2~ at a busy roadside site in central London in order to investigate the dependence of peak hourly concentrations of NO~2~ on the ratio of NO~2~ emitted by road vehicles to the total emissions of NO~x~. It is shown that if the NO~2~/NO~x~ emission ratio of 22.0% by volume, as calculated at the end of 2004, is sustained into the future, it is likely that the hourly EU limit value will not be met.
+</div>
 
 <div class="pub-links">
 <a href="carslaw-2007-f.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>

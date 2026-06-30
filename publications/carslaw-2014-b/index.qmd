@@ -22,6 +22,10 @@ publication: '*Atmospheric Environment*'
 _*Atmospheric Environment*_, 2014
 
 
+<div class="pub-abstract">
+A new model (INDAIR-CHEM) has been developed by combining a detailed indoor air chemistry model with a physical and probabilistic multi-compartment indoor/outdoor air exposure model. The detailed indoor air chemistry model was used to produce a simplified chemistry scheme for INDAIR-CHEM, which performs well for key indoor air pollutants under a range of conditions when compared to the parent model. INDAIR-CHEM was used to compare indoor pollutant concentrations in naturally ventilated offices in 8 European cities for typical outdoor conditions in summer, with those experienced during the European heat-wave in August 2003 for different air exchange rates. We also investigated the effect of cleaning with limonene based products on the subsequent exposure to secondary reaction products from limonene degradation. Extreme climatic conditions, such as a heat-wave which often leads to poor outdoor air quality, can increase personal exposure to both primary and secondary species indoors. Occupant exposure to indoor air pollutants may also be exacerbated by poor ventilation in offices. Reduced ventilation reduces maximum exposure to ozone, as there is less ingress from outdoors, but allows secondary species to persist indoors for much longer. The balance between these two processes may mean that cumulative exposures for office workers increase as ventilation decreases. Cleaning staff are at lower risk of exposure to secondary oxidation products if they clean before office hours rather than after office hours, since ozone is generally at lower outdoor (and hence indoor) concentrations during the early morning compared to late afternoon. However, from the viewpoint of office workers, reduced exposure would occur if cleaning was performed at the end of the working day.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2014-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

@@ -20,6 +20,10 @@ publication: '*Transportation Research Part D: Transport and Environment*'
 _*Transportation Research Part D: Transport and Environment*_, 2002
 
 
+<div class="pub-abstract">
+This paper considers the effects of different strategies that might be considered to reduce the impact of road traffic on air pollution in London. The concept of a low emission zone (LEZ) is being increasingly proposed as a means of achieving emission reductions to meet statutory air quality objectives. An assessment is made of different LEZ scenarios in central London, involving either reductions in traffic flow or modifications to the vehicle technology mix. Empirical models based on monitoring data are used to predict the resulting annual mean nitrogen dioxide concentrations. Significant action is found to be required to appreciably decrease concentrations near roads. Due to the non-linear atmospheric chemistry governing NO~2~ formation, even ambitious LEZ scenarios in central London produce concentrations that are achieved through a business-as-usual scenario within only a few years, underlining the challenge of meeting air quality objectives through traffic management alone.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2002-d.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

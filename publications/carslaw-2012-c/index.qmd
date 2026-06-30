@@ -19,6 +19,9 @@ publication: '*R Journal*'
 
 _*R Journal*_, 2012
 
+<div class="pub-abstract">
+The openair package contains data analysis tools for the air quality community. Large volumes of air quality data are routinely collected for regulatory purposes, but few of those in local authorities and government bodies tasked with this responsibility have the time, expertise or funds to comprehensively analyse this potential resource. This paper provides an overview of data importers, main functions, and selected utilities and workhorse functions within the package and the function output class, as of package version 0.4-14. It is intended as an explanation of the rationale for the package and a technical description for those wishing to work more interactively with the main functions or develop additional functions to support higher-level use of openair and R.
+</div>
 
 <div class="pub-links">
 <a href="carslaw-2012-c.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>

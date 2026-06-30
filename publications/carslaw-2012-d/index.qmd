@@ -22,6 +22,9 @@ publication: '*Atmospheric Environment*'
 
 _*Atmospheric Environment*_, 2012
 
+<div class="pub-abstract">
+Detailed road traffic NO~x~ emissions are compared with equivalent trends in ambient roadside NO~x~ measurements, undertaken separately in Great Britain and London, for all major roads, and by road type and location. The emissions trends were created using different emission factors from UK emissions inventories, the Swiss-German handbook (HBEFA), and remote sensing measurements (RSD), with an alternative assumption for Selective Catalytic Reduction (SCR) in the articulated Heavy Goods Vehicle (HGV) fleet also tested. Traffic flows, speeds and vehicle age were kept constant for all scenarios. Comparison between the emissions scenarios showed that by 2009, NO~x~ emissions estimates from road traffic could be as much as 25% greater than current UK estimates, and 31% greater in London. The RSD approach showed the smallest annual decline (3–4%) between 2004 and 2009, compared with approximately 6% annually for the other scenarios. However, actual roadside NO~x~ measurements showed only 1–2% annual reductions over the same period. Light duty diesel vehicles are found to be the dominant contributor to the discrepancy. Analysis of measurements from over 2,700 European sites indicates that this represents a widespread problem, with important consequences for meeting EU limit values for NO~2~ and obligations under the National Emission Ceilings Directive.
+</div>
 
 <div class="pub-links">
 <a href="carslaw-2012-d.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>

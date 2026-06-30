@@ -27,6 +27,10 @@ publication: '*Environmental Science and Technology*'
 _*Environmental Science and Technology*_, 2015
 
 
+<div class="pub-abstract">
+Direct measurements of NO~x~ concentration and flux were made from a tall tower in central London, UK as part of the Clean Air for London (ClearfLo) project. Fast time resolution (10 Hz) NO and NO~2~ concentrations were measured and combined with fast vertical wind measurements to provide top-down flux estimates using the eddy covariance technique. Measured NO~x~ fluxes were usually positive and ranged from close to zero at night to 2000–8000 ng m^−2^ s^−1^ during the day. Peak fluxes were usually observed in the morning, coincident with the maximum traffic flow. Measurements of the NO~x~ flux have been scaled and compared to the UK National Atmospheric Emissions Inventory (NAEI) estimate of NO~x~ emission for the measurement footprint. The measurements are on average 80% higher than the NAEI emission inventory for all of London. Observations made in westerly airflow (from parts of London where traffic is a smaller fraction of the NO~x~ source) showed a better agreement on average with the inventory. The observations suggest that the emissions inventory is poorest at estimating NO~x~ when traffic is the dominant source, in this case from an easterly direction from the BT Tower. Agreement between the measurements and the London Atmospheric Emissions Inventory (LAEI) are better, due to the more explicit treatment of traffic flow by this more detailed inventory. The flux observations support previous tailpipe observations of higher NO~x~ emitted from the London vehicle diesel fleet than is represented in the NAEI or predicted for several EURO emission control technologies. Higher-than-anticipated vehicle NO~x~ is likely responsible for the significant discrepancies that exist in London between observed NO~x~ and long-term NO~x~ projections.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2015-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

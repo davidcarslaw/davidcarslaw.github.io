@@ -22,6 +22,10 @@ publication: '*Environmental Science and Technology*'
 _*Environmental Science and Technology*_, 2015
 
 
+<div class="pub-abstract">
+In the developed world, we spend most of our time indoors, where we receive the majority of our exposure to air pollution. This paper reports model simulations of PM~2.5~ and ozone concentrations in identical landscape offices in three European cities: Athens, Helsinki, and Milan. We compare concentrations during an intense heatwave in August 2003 with a meteorologically more typical August in 2009. During the heatwave, average indoor ozone concentrations during office hours were 44, 19, and 41 ppb in Athens, Helsinki, and Milan respectively, enhanced by 7, 4, and 17 ppb respectively relative to 2009. Total predicted PM~2.5~ concentrations were 13.5, 3.6, and 17.2 μg m^−3^ in Athens, Helsinki, and Milan respectively, enhanced by 0.5, 0.4, and 6.7 μg m^−3^ respectively relative to 2009: the three cities were affected to differing extents by the heatwave. A significant portion of the indoor PM~2.5~ derived from gas-phase chemistry outdoors, producing 2.5, 0.8, and 4.8 μg m^−3^ of the total concentrations in Athens, Helsinki, and Milan, respectively. Despite filtering office inlet supplies to remove outdoor particles, gas-phase precursors for particles can still enter offices, where conditions are ripe for new particles to form, particularly where biogenic emissions are important outdoors. This result has important implications for indoor air quality, particularly given the current trend for green walls on buildings, which will provide a potential source of biogenic emissions near to air inlet systems.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2015.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

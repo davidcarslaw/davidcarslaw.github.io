@@ -19,6 +19,10 @@ publication: '*Surveys in Geophysics*'
 _*Surveys in Geophysics*_, 2001
 
 
+<div class="pub-abstract">
+This paper reviews the gas-phase chemistry governing the composition of urban atmospheres, drawing on recent measurement data to highlight the most important concepts. The first half of the twentieth century was characterised by pollution events dominated by smoke and sulphur dioxide, whereas photochemical pollution has become the key issue in major world cities. The review discusses the crucial role played by volatile organic compounds and nitrogen oxides in photochemical pollution episodes, and considers recent issues in urban chemistry including evidence that the amount of volatile organic carbon in urban atmospheres may be substantially underestimated. Modelling results are used to illustrate the importance of the reaction of ozone with reactive hydrocarbons as a radical source in urban atmospheres, and the implications for the NOx–NO~2~ relationship relevant to the formation of nitrogen dioxide in urban areas are discussed.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2001-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

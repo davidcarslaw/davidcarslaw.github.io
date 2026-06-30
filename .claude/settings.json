@@ -29,7 +29,13 @@
       "WebFetch(domain:pubs.rsc.org)",
       "WebFetch(domain:scholar.google.com)",
       "WebFetch(domain:unpaywall.org)",
-      "Bash(pdftotext \"/Users/davidcarslaw/.claude/projects/-Users-davidcarslaw-packages-davidcarslaw-github-io/2839245a-5f73-42c5-84cf-9f6ecea5d161/tool-results/webfetch-1782806062360-wd7h7b.pdf\" -)"
+      "Bash(pdftotext \"/Users/davidcarslaw/.claude/projects/-Users-davidcarslaw-packages-davidcarslaw-github-io/2839245a-5f73-42c5-84cf-9f6ecea5d161/tool-results/webfetch-1782806062360-wd7h7b.pdf\" -)",
+      "Bash(xargs '-I{}' bash -c 'dir=$\\(dirname {}\\); slug=$\\(basename $dir\\); title=$\\(grep \"^title:\" {} | head -1 | sed \"s/title: //;s/^[\\\\\"'\\\\'']//;s/[\\\\\"'\\\\'']$//\"\\); echo \"$slug | $title\"')",
+      "Bash(xargs '-I{}' bash -c 'dir=$\\(dirname {}\\); slug=$\\(basename $dir\\); title=$\\(grep \"^title:\" {} | head -1 | sed \"s/title: //;s/^[\\\\\"'\\\\'']//\" | cut -c1-60\\); echo \"$slug — $title\"')",
+      "WebFetch(domain:pure-oai.bham.ac.uk)",
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:www.sei.org)",
+      "WebFetch(domain:davidcarslaw.com)"
     ]
   }
 }

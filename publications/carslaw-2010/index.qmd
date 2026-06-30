@@ -20,6 +20,9 @@ publication: '*Atmospheric Environment*'
 
 _*Atmospheric Environment*_, 2010
 
+<div class="pub-abstract">
+Generalised Additive Models (GAMs) are used to develop individual modal emissions models based on a large database of vehicle activity data collected during a six-month field trial of Intelligent Speed Adaptation (ISA) systems fitted to 20 vehicles. The models are used to provide a high-resolution (1 Hz) estimation of CO~2~ emissions. Voluntary ISA and mandatory ISA are predicted to reduce CO~2~ emissions by 3.4% and 5.8% respectively on 70 mph roads. Mandatory ISA significantly reduces mean vehicle speeds on 70 mph roads (by 8.7%), with positive accelerations decreasing near the speed limit, further contributing to CO~2~ reductions. The change in emissions on non-70 mph speed limit roads is variable and small. The analysis reveals that the carbon savings from mandatory ISA are modest compared to its potential safety benefits.
+</div>
 
 <div class="pub-links">
 <a href="carslaw-2010.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>

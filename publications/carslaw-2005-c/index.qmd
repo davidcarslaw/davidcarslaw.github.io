@@ -18,6 +18,10 @@ publication: '*Atmospheric Chemistry and Physics*'
 _*Atmospheric Chemistry and Physics*_, 2005
 
 
+<div class="pub-abstract">
+A seasonal-trend decomposition technique based on a locally-weighted regression smoothing (Loess) approach has been used to decompose monthly ozone concentrations at Mace Head (Ireland) into trend, seasonal and irregular components. The trend component shows a steady increase from 1990–2004, which is confirmed by statistical testing which shows that ozone concentrations at Mace Head have increased at the p=0.06 level by 0.18±0.04 ppb yr^−1^. By considering different air mass origins using a trajectory analysis, it has been possible to separate air masses into "polluted" and "unpolluted" origins. The seasonal-trend decomposition technique confirms the different seasonal cycles of these air mass origins with unpolluted air mass maxima in April and polluted air mass maxima in July/August. A detailed consideration of the seasonal component reveals different behaviour depending on the air mass origin. For baseline unpolluted air arriving at Mace Head there has been a gradual increase in the seasonal amplitude, driven by a declining summertime component. The amplitude of the seasonal component of baseline air is controlled by a maximum in April and a minimum in July. For polluted air mass trajectories, there was a substantial reduction in the amplitude of the seasonal component from 1990–1997. However, post-1997 results indicate that the seasonal amplitude in polluted air masses arriving at Mace Head is increasing. Furthermore, there has been a shift in the months controlling the size of the seasonal amplitude in polluted air from a maximum in May and minimum in January in 1990 to a maximum in April and a minimum in July by 2001. This finding suggests that there has been a steadily decreasing influence of polluted air masses arriving from Europe. These air masses have therefore increasingly taken on the attributes of baseline air.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2005-c.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

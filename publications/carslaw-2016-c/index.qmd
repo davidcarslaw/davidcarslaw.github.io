@@ -31,6 +31,10 @@ publication: '*Faraday Discussions*'
 _*Faraday Discussions*_, 2016
 
 
+<div class="pub-abstract">
+To date, direct validation of city-wide emissions inventories for air pollutants has been difficult or impossible. However, recent technological innovations now allow direct measurement of pollutant fluxes from cities, for comparison with emissions inventories, which are themselves commonly used for prediction of current and future air quality and to help guide abatement strategies. Fluxes of NO~x~ were measured using the eddy-covariance technique from an aircraft flying at low altitude over London. The highest fluxes were observed over central London, with lower fluxes measured in suburban areas. A footprint model was used to estimate the spatial area from which the measured emissions occurred. This allowed comparison of the flux measurements to the UK's National Atmospheric Emissions Inventory (NAEI) for NO~x~, with scaling factors used to account for the actual time of day, day of week and month of year of the measurement. The comparison suggests significant underestimation of NO~x~ emissions in London by the NAEI, mainly due to its under-representation of real world road traffic emissions. A comparison was also carried out with an enhanced version of the inventory using real world driving emission factors and road measurement data taken from the London Atmospheric Emissions Inventory (LAEI). The measurement to inventory agreement was substantially improved using the enhanced version, showing the importance of fully accounting for road traffic, which is the dominant NO~x~ emission source in London. In central London there was still an underestimation by the inventory of 30–40% compared with flux measurements, suggesting significant improvements are still required in the NO~x~ emissions inventory.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2016-c.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

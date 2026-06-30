@@ -20,6 +20,10 @@ publication: '*Atmospheric Environment*'
 _*Atmospheric Environment*_, 2007
 
 
+<div class="pub-abstract">
+Detecting and quantifying abnormal changes in the concentration of urban air pollutants can be difficult due to the influence of meteorology and atmospheric chemistry. This study presents methods to detect and characterise small changes in the concentration of nitrogen dioxide (NO~2~) that deviate from expected behaviour. Generalized additive models (GAMs) are used to describe daily mean NO~2~ concentrations at roadside monitoring sites to determine how concentrations deviate from measured concentrations. Structural change methods are applied to time series describing this difference to identify change-points, where concentrations of NO~2~ deviate significantly from expected behaviour. Methods are also used which quantify the timing and uncertainty associated in the timing of these change-points. For most time series data considered in London, concentrations of NO~2~ underwent relatively abrupt changes rather than smoothly varying increases; changes which remain largely undetected in raw time series data. Most change-points occurred in late 2002 or early 2003, and the factors, which may have contributed to them, are discussed. These methods can also identify technical problems with monitoring equipment and are applicable to other instances where detecting sudden atmospheric composition change is important.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2007-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

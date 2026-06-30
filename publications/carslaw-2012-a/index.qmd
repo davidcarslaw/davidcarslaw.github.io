@@ -21,6 +21,9 @@ publication: '*Atmospheric Environment*'
 
 _*Atmospheric Environment*_, 2012
 
+<div class="pub-abstract">
+The CMAQ and ADMS air quality models are coupled to predict hourly concentrations of NO~x~, NO~2~ and O~3~ for London at a spatial scale of 20 m × 20 m. Model evaluation demonstrates reasonable agreement with measurements from 80 monitoring sites in London. For NO~2~, 73% of the hourly concentrations were within a factor of two of observations, with a mean bias of −4.7 ppb and normalised mean bias of −0.17. The study addresses an issue of emissions double-counting that arises from coupling the two models, proposing a pragmatic solution that results in a median double-counting error of 0.42% across 39 roadside sites in London. Comparisons of model performance suggest that road transport NO~x~ emissions appear to be underestimated in the inventory, and that inadequacies in the hourly emissions scaling and wind speed predictions from the WRF meteorological model also affect results. The coupled modelling system provides a practical tool for policy development and epidemiological research on the health effects of air pollution.
+</div>
 
 <div class="pub-links">
 <a href="carslaw-2012-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>

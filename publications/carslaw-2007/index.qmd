@@ -23,6 +23,10 @@ publication: '*Atmospheric Environment*'
 _*Atmospheric Environment*_, 2007
 
 
+<div class="pub-abstract">
+The dispersion model, ADMS-Urban, alongside the statistical modelling technique, generalized additive modelling, have been used to predict hourly NO~X~ and nitrogen dioxide (NO~2~) concentrations at a busy street canyon location and the results compared with measurements. Generalized additive models (GAMs) were constructed for NO~2~ and NO~X~ concentrations using input data required to run ADMS-Urban. Bivariate polar plots have been produced from the wind flow (speed and direction) and pollution data (measured and predicted concentrations) to provide further information regarding the complex wind-pollutant interactions in an urban street canyon. The predictions made with the GAMs show excellent agreement with measured concentrations at this location, reproducing both the magnitude of NO~X~ and NO~2~ concentrations and also the wind speed-wind direction dependence of pollutant sources within the canyon. However, the predictions made with ADMS-Urban underestimated the measured NO~X~ by 11% and NO~2~ by 21% and there are clear differences in the bivariate polar plots. Several sensitivity tests were carried out with ADMS-Urban in an attempt to produce predictions in closer agreement to those measured at Gillygate. Increasing the primary NO~2~ fraction in ADMS-Urban (from 10% to 20%) had a considerable effect on the predictions made with this model, increasing NO~2~ predictions by ~20%. However, the bivariate plots still showed major differences to those of the measurements. This work illustrates that generalized additive modelling is a useful tool for investigating complex wind-pollutant interactions within a street canyon.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2007.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

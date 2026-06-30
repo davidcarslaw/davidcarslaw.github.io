@@ -19,6 +19,10 @@ publication: '*Atmospheric Environment*'
 _*Atmospheric Environment*_, 2002
 
 
+<div class="pub-abstract">
+Dispersion modelling of elevated point sources that emit infrequently presents particular challenges, since predictions of peak concentrations become increasingly susceptible to the prevailing meteorology as the fraction of time a source emits decreases. A probabilistic approach is adopted in which concentrations at receptor locations are randomly sampled across multiple years to explore how source operating time affects high-percentile concentration predictions of SO~2~ from a single stack and from a network of four stacks. Results show that for locations rarely downwind of sources and for low operational times, the inter-annual variability of predicted concentrations is high, with implications for the way annual statistics are interpreted in impact assessments.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2002-a.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

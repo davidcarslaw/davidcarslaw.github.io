@@ -20,6 +20,9 @@ publication: '*Atmospheric Environment*'
 
 _*Atmospheric Environment*_, 2007
 
+<div class="pub-abstract">
+A generalised additive modelling (GAM) approach is used to model daily concentrations of nitrogen oxides (NO~x~), nitrogen dioxide (NO~2~), carbon monoxide (CO), benzene and 1,3-butadiene at a busy street canyon location in central London. The models were developed for the period July 1998–June 2005 using appropriate meteorological and road traffic covariates. For all models, the complex and localised wind-flow patterns resulting from the street canyon location of the monitoring site, which can be difficult to model deterministically, have a large influence on the model predictions. GAMs built using simple covariates explain a large amount of the daily variation for these pollutants (mean r^2^ = 0.86). Although measured concentrations of NO~x~ have declined from 1998 to 2005, much of the decline appears to be associated with reductions in overall traffic and meteorological factors rather than reduced emissions of NO~x~. Unadjusted NO~x~ trends show a 28.6% reduction from 1998 to 2005, whereas meteorologically adjusted trends show a 19.3% decline over this period. Benzene and 1,3-butadiene concentrations have declined in a manner consistent with emission calculations.
+</div>
 
 <div class="pub-links">
 <a href="carslaw-2007-d.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>

@@ -21,6 +21,10 @@ publication: '*Atmospheric Environment*'
 _*Atmospheric Environment*_, 2002
 
 
+<div class="pub-abstract">
+An empirical model is devised to predict concentrations of PM~10~ at background and roadside locations in London. Factors to calculate primary PM~10~ and PM~2.5~ concentrations are derived from annual mean NOx, PM~2.5~ and PM~10~ measurements across London and south-east England. These factors are used to calculate daily means for the primary and non-primary PM~10~ fractions for the London area. The model provides accurate predictions of daily mean PM~10~ concentrations and EU Directive limit values across a range of site types from kerbside to rural, offering a practical and computationally efficient method for air quality forecasting.
+</div>
+
 <div class="pub-links">
 <a href="carslaw-2002.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
 </div>

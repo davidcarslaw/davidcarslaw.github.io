@@ -21,6 +21,9 @@ publication: '*Atmospheric Chemistry and Physics*'
 
 _*Atmospheric Chemistry and Physics*_, 2009
 
+<div class="pub-abstract">
+During the TORCH campaign a zero dimensional box model based on the Master Chemical Mechanism (MCM) was used to model concentrations of OH radicals. The model provided a close overall fit to measured concentrations but with some significant deviations. An approach was established for applying Generalised Additive Models (GAMs) to atmospheric concentration data. Two GAM models were fitted to OH radical concentrations using TORCH data, the first using measured OH data and the second using MCM model results. GAM models with five smooth functions provided a close fit to the data, with 78% of the deviance explained for measured OH and 83% for modelled OH. The GAM model for measured OH produced substantially better predictions of OH concentrations than the original MCM model results: the predicted mean diurnal OH concentration was only 0.2% less than the measured concentration compared with the MCM model which overestimated OH concentrations by 16.3%. Photolysis reactions were found to be most significant in explaining OH concentrations. Both primary and secondary pollutants and also anthropogenic and biogenic species were found within the GAMs. Differences were identified in the dependencies of modelled and measured OH concentrations, particularly for aromatic and biogenic species, which may help to explain the differences between the MCM model and measurements.
+</div>
 
 <div class="pub-links">
 <a href="carslaw-2009-b.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
