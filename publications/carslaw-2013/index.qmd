@@ -23,6 +23,9 @@ publication: '*Journal of Exposure Science and Environmental Epidemiology*'
 
 _*Journal of Exposure Science and Environmental Epidemiology*_, 2013
 
+<div class="pub-abstract">
+The London household survey has shown that people travel and are exposed to air pollutants differently. This argues for human exposure to be based upon space-time-activity data and spatio-temporal air quality predictions. For the latter, we have demonstrated the role that dispersion models can play by using two complimentary models, KCLurban, which gives source apportionment information, and Community Multi-scale Air Quality Model (CMAQ)-urban, which predicts hourly air quality. The KCLurban model is in close agreement with observations of NO~x~, NO~2~ and particulate matter (PM) 10/2.5, having a small normalised mean bias (-6% to 4%) and a large Index of Agreement (0.71-0.88). The temporal trends of NO~x~ from the CMAQ-urban model are also in reasonable agreement with observations. Spatially, NO~2~ predictions show that within 10's of metres of major roads, concentrations can range from approximately 10-20 p.p.b. up to 70 p.p.b. and that for PM~10/2.5~ central London roadside concentrations are approximately double the suburban background concentrations. Exposure to different PM sources is important and we predict that brake wear-related PM~10~ concentrations are approximately eight times greater near major roads than at suburban background locations. Temporally, we have shown that average NO~x~ concentrations close to roads can range by a factor of approximately six between the early morning minimum and morning rush hour maximum periods. These results present strong arguments for the hybrid exposure model under development at King's and, in future, for in-building models and a model for the London Underground.
+</div>
 
 <div class="pub-links">
 <a href="carslaw-2013.bib" class="btn btn-outline-secondary btn-sm"><i class="bi bi-download"></i> BibTeX</a>
